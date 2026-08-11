@@ -1,0 +1,34 @@
+name: Daily Remote Job Search Engine
+
+on:
+  schedule:
+    - cron: "0 10 * * *" # Executes daily at 10:00 UTC (07:00 AM BRT)
+  workflow_dispatch: # Allows manual trigger anytime from GitHub UI
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Execute Job Search Engine
+        run: node fetch-jobs.mjs
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+      - name: Commit Updated Digest
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add JOBS_DIGEST.md
+          git commit -m "chore: update daily job digest [skip ci]" || exit 0
+          git push
