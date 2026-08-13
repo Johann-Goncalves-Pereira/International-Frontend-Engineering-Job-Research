@@ -1,41 +1,32 @@
-# Daily Remote Front-End Jobs Digest (2026-08-12)
+# Daily Remote Front-End Jobs Digest (2026-08-13)
 
-*Total Matching Roles Found: 19*
+*Total Matching Roles Found: 16*
 
 ---
 
-### [Creative Brand & PR Manager | Content Creator  (m/w/d) - Luxury Brand](https://www.arbeitnow.com/jobs/companies/capulet-jewelry/creative-brand-pr-manager-content-creator-luxury-brand-munich-140605)
-**Company:** CAPULET Jewelry | **Source:** Arbeitnow | **Location:** Munich
+### [Senior Bauingenieur Geotechnik (m/w/d)](https://www.arbeitnow.com/jobs/companies/siera-alliance/senior-bauingenieur-geotechnik-cologne-300433)
+**Company:** SIERA Alliance | **Source:** Arbeitnow | **Location:** Cologne
 
-### [Senior Full-Stack Engineer (Backend + Frontend)](https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-germany-88363)
-**Company:** Soda Data Nv | **Source:** Arbeitnow | **Location:** Germany
+### [Projektleiter Bauingenieur Geotechnik und Spezialtiefbau (m/w/d)](https://www.arbeitnow.com/jobs/companies/siera-alliance/projektleiter-bauingenieur-geotechnik-und-spezialtiefbau-hagen-433299)
+**Company:** SIERA Alliance | **Source:** Arbeitnow | **Location:** Hagen
 
-### [Senior Frontend Engineer (Full-stack)](https://www.arbeitnow.com/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-germany-21527)
-**Company:** Soda Data Nv | **Source:** Arbeitnow | **Location:** Germany
+### [Principal Recruiter - Europe](https://www.arbeitnow.co.uk/jobs/companies/banyansoftware/principal-recruiter-europe-london-392607)
+**Company:** Banyansoftware | **Source:** Arbeitnow | **Location:** London
 
-### [Talent Acquisition Manager:in (all genders)](https://www.arbeitnow.com/jobs/companies/reflex-aerospace-gmbh/talent-acquisition-managerin-all-genders-berlin-274548)
-**Company:** Reflex Aerospace GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [IT Systemadministrator (m/w/d) für Linux](https://www.arbeitnow.com/jobs/companies/finatix-gmbh/it-systemadministrator-fur-linux-leipzig-495904)
+**Company:** Finatix Gmbh | **Source:** Arbeitnow | **Location:** Leipzig
 
-### [(Junior) HR Consultant / Recruiter (m/w/d)](https://www.arbeitnow.com/jobs/companies/nviso/junior-hr-consultant-recruiter-frankfurt-am-main-310706)
-**Company:** NVISO | **Source:** Arbeitnow | **Location:** Frankfurt am Main
+### [Front-End Engineer, Institutional](https://www.arbeitnow.co.uk/jobs/companies/blockchain/front-end-engineer-institutional-london-395637)
+**Company:** Blockchain | **Source:** Arbeitnow | **Location:** London
 
-### [Recruiter (Research)](https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-recruiter-research-184816)
-**Company:** Whitecircle | **Source:** Arbeitnow | **Location:** Remote
+### [AI Solutions Builder](https://jobicy.com/jobs/150593-ai-solutions-builder)
+**Company:** Smartcat | **Source:** Jobicy | **Location:** Europe
 
-### [Werkstudent*in (m/w/d) Business Continuity & Krisenmanagement](https://www.arbeitnow.com/jobs/companies/autensys-gmbh/werkstudentin-business-continuity-krisenmanagement-karlsruhe-490339)
-**Company:** AutenSys GmbH | **Source:** Arbeitnow | **Location:** Karlsruhe
+### [Non-Linguistic Quality Control Specialists (Europe)](https://jobicy.com/jobs/150589-non-linguistic-quality-control-specialists-europe)
+**Company:** Welo Global | **Source:** Jobicy | **Location:** Europe
 
-### [Werkstudent HR & Talent Acquisition (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-hr-talent-acquisition-frankfurt-139707)
-**Company:** ABRIO GmbH | **Source:** Arbeitnow | **Location:** Frankfurt, Hessen, Deutschland
-
-### [Software Engineer (Linux)](https://www.arbeitnow.co.uk/jobs/companies/proton/software-engineer-linux-geneva-ch-470251)
-**Company:** Proton | **Source:** Arbeitnow | **Location:** Geneva CH
-
-### [Software Engineer, Data Infrastructure & Acquisition - Brighton, United Kingdom](https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-brighton-united-kingdom-70557)
-**Company:** Speechify | **Source:** Arbeitnow | **Location:** Brighton, England, United Kingdom
-
-### [Software Engineer, Data Infrastructure & Acquisition - London, United Kingdom](https://www.arbeitnow.co.uk/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-london-united-kingdom-327938)
-**Company:** Speechify | **Source:** Arbeitnow | **Location:** London, England, United Kingdom
+### [Senior Software Engineer (Node & React, Headless API)](https://jobicy.com/jobs/150581-senior-software-engineer-node-react-headless-api)
+**Company:** saas.group | **Source:** Jobicy | **Location:** Europe
 
 ### [Embedded Linux Consultant - Japan](https://jobicy.com/jobs/150361-embedded-linux-consultant-japan)
 **Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** APAC
@@ -53,12 +44,12 @@
 ### [Non-Linguistic QC (China / US Time Zone)](https://jobicy.com/jobs/150271-non-linguistic-qc-china-us-time-zone)
 **Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
 
-### [The Future Belongs People Who Build Together](https://remoteOK.com/remote-jobs/remote-the-future-belongs-people-who-build-together-eventthone-network-1136273)
-**Company:** EventThone Network | **Source:** RemoteOK | **Location:** Recruit, 
-
 ### [Engineering Manager - Linux Hardware Enablement](https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement)
 **Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
 
 ### [Senior React Native Developer](https://jobicy.com/jobs/148652-senior-react-native-developer)
 **Company:** Ruby Labs | **Source:** Jobicy | **Location:** Europe
+
+### [Recruiter Intern](undefined)
+**Company:** name | **Source:** Himalayas | **Location:** Worldwide
 
