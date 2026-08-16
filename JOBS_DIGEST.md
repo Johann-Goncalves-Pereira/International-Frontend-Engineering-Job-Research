@@ -1,8 +1,14 @@
-# Daily Remote Front-End Jobs Digest (2026-08-15)
+# Daily Remote Front-End Jobs Digest (2026-08-16)
 
-*Total Matching Roles Found: 14*
+*Total Matching Roles Found: 9*
 
 ---
+
+### [Telehealth Medical Doctor - Remote at AIOS - Remote, £75 per hour plus  equity.](https://www.arbeitnow.co.uk/jobs/companies/aios/telehealth-medical-doctor-remote-at-aios-remote-ps75-per-hour-plus-equity-blackburn-187740)
+**Company:** Aios | **Source:** Arbeitnow | **Location:** Remote (UK hours)
+
+### [(Senior) Frontend Engineer (all genders)](https://www.arbeitnow.com/jobs/companies/envelio/remote-senior-frontend-engineer-all-genders-245364)
+**Company:** Envelio | **Source:** Arbeitnow | **Location:** Cologne / Remote from Germany
 
 ### [Python & React Engineer with AI (Remote, Latam)](https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2)
 **Company:** Kubikware | **Source:** Jobicy | **Location:** LATAM
@@ -12,27 +18,6 @@
 
 ### [Senior Full-Stack Engineer (TypeScript/AI Automation) - Real Estate - LATAM](https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
-
-### [Talent Acquisition Specialist](https://www.arbeitnow.co.uk/jobs/companies/avepoint/talent-acquisition-specialist-sydney-australia-66698)
-**Company:** Avepoint | **Source:** Arbeitnow | **Location:** Sydney, Australia
-
-### [UI/UX Designer](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/ui-ux-designer-cardiff-176382)
-**Company:** Rocketsciencegg | **Source:** Arbeitnow | **Location:** Cardiff, Wales, UK
-
-### [UI/UX Designer](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/ui-ux-designer-brighton-413797)
-**Company:** Rocketsciencegg | **Source:** Arbeitnow | **Location:** Brighton, UK
-
-### [Technical Recruiter (London, Serbia)](https://www.arbeitnow.co.uk/jobs/companies/perplexity/technical-recruiter-london-serbia-257029)
-**Company:** Perplexity | **Source:** Arbeitnow | **Location:** London
-
-### [Senior Frontend Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/flossbach-von-storch-se/senior-frontend-developer-koln-70914)
-**Company:** Flossbach von Storch SE | **Source:** Arbeitnow | **Location:** Köln
-
-### [Frontend Engineer - Music](https://www.arbeitnow.co.uk/jobs/companies/spotify/frontend-engineer-music-london-427731)
-**Company:** Spotify | **Source:** Arbeitnow | **Location:** London
-
-### [Senior Frontend Engineer (m/w/d) React, Kafka, Kotlin](https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-frontend-engineer-react-kafka-kotlin-berlin-201866)
-**Company:** idealo internet GmbH | **Source:** Arbeitnow | **Location:** Berlin, Berlin, Deutschland
 
 ### [Ubuntu Linux Kernel Test Engineer](https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer)
 **Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** APAC,  China
