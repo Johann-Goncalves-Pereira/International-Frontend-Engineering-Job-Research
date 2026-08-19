@@ -1,32 +1,44 @@
-# Daily Remote Front-End Jobs Digest (2026-08-18)
+# Daily Remote Front-End Jobs Digest (2026-08-19)
 
-*Total Matching Roles Found: 13*
+*Total Matching Roles Found: 15*
 
 ---
 
-### [Senior Product Designer with UI Focus (f/m/x)](https://www.arbeitnow.com/jobs/companies/exmox/senior-product-designer-with-ui-focus-hamburg-10883)
-**Company:** exmox | **Source:** Arbeitnow | **Location:** Hamburg
+### [Recruiter / Talent Acquisition Specialist (m/w/d) Teilzeit in Freital](https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-teilzeit-in-freital-dresden-469367)
+**Company:** VEAXO Unternehmensgruppe | **Source:** Arbeitnow | **Location:** Dresden, Sachsen, Deutschland
 
-### [(Senior) Recruiter (d/w/m)](https://www.arbeitnow.com/jobs/companies/spotmyenergy-gmbh/senior-recruiter-berlin-265269)
-**Company:** SpotmyEnergy GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [Werkstudent (m/w/d) - Lieferpartner-Akquise & Datenpflege](https://www.arbeitnow.com/jobs/companies/bex-technologies-gmbh/remote-werkstudent-lieferpartner-akquise-datenpflege-441897)
+**Company:** Bex Technologies Gmbh | **Source:** Arbeitnow | **Location:** Mobil - Remote - Germany
 
-### [Freelancer Frontend-Entwickler (m/w/d) WinUI / XAML / .NET](https://www.arbeitnow.com/jobs/companies/senswork-gmbh/freelancer-frontend-entwickler-winui-xaml-net-burghausen-456561)
-**Company:** senswork GmbH | **Source:** Arbeitnow | **Location:** Burghausen
+### [Frontend Software Engineer (100% Remote)](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934)
+**Company:** Tether Operations Limited | **Source:** Arbeitnow | **Location:** Remote job
 
-### [Senior Solutions Engineer - Nordilux](https://www.arbeitnow.co.uk/jobs/companies/hubspotjobs/senior-solutions-engineer-nordilux-472417)
-**Company:** hubspotjobs | **Source:** Arbeitnow | **Location:** Remote
+### [Senior Partner Success Manager DACH Recruit](https://www.arbeitnow.com/jobs/companies/companial/senior-partner-success-manager-dach-recruit-hamburg-germany-413552)
+**Company:** Companial | **Source:** Arbeitnow | **Location:** Hamburg, Germany
+
+### [Marketing & Recruiting Coordinator](https://www.arbeitnow.com/jobs/companies/my-future-immo-gmbh/marketing-recruiting-coordinator-weilheim-an-der-teck-170080)
+**Company:** My Future Immo GmbH | **Source:** Arbeitnow | **Location:** Weilheim an der Teck
+
+### [Business Recruiter](https://www.arbeitnow.co.uk/jobs/companies/neko-health/business-recruiter-london-77877)
+**Company:** Neko Health | **Source:** Arbeitnow | **Location:** London
+
+### [Norwegian Tech Linguistic Tester](https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester)
+**Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
+
+### [Senior Recruiter - EMEA (6m Contract - Inside IR35 Day Rate)](https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-recruiter-emea-6m-contract-inside-ir35-day-rate-london-151143)
+**Company:** sonyinteractiveentertainmentglobal | **Source:** Arbeitnow | **Location:** London
+
+### [Talent Acquisition Specialist](https://www.arbeitnow.co.uk/jobs/companies/bjak/talent-acquisition-specialist-london-404843)
+**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+
+### [Talent Acquisition Executive](https://www.arbeitnow.co.uk/jobs/companies/bjak/talent-acquisition-executive-london-488109)
+**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+
+### [Product Designer (UI/UX)](https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ui-ux-london-372515)
+**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
 
 ### [Finnish Tech Linguistic Tester](https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester)
 **Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
-
-### [Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/talent-acquisition-partner-london-170234)
-**Company:** 84674Th44Metrea9999 | **Source:** Arbeitnow | **Location:** London
-
-### [Talent Acquisition Lead](https://www.arbeitnow.co.uk/jobs/companies/level-zero-health/talent-acquisition-lead-london-97066)
-**Company:** Level Zero Health | **Source:** Arbeitnow | **Location:** London
-
-### [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d)
-**Company:** ecosio | **Source:** Jobicy | **Location:** Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK
 
 ### [Python & React Engineer with AI (Remote, Latam)](https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2)
 **Company:** Kubikware | **Source:** Jobicy | **Location:** LATAM
@@ -34,12 +46,6 @@
 ### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - LATAM)](https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
 
-### [Senior Full-Stack Engineer (TypeScript/AI Automation) - Real Estate - LATAM](https://jobicy.com/jobs/146294-senior-full-stack-engineer-typescript-ai-automation-real-estate-latam)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
-
-### [Ubuntu Linux Kernel Test Engineer](https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** APAC,  China
-
-### [AI Global Recruiter](undefined)
+### [Vacancy for Full Stack Developer (Blockchain, Ruby on Rails, React, Next.js) - R](undefined)
 **Company:** name | **Source:** Himalayas | **Location:** Worldwide
 
