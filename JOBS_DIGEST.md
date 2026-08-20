@@ -1,51 +1,36 @@
-# Daily Remote Front-End Jobs Digest (2026-08-19)
+# Daily Remote Front-End Jobs Digest (2026-08-20)
 
-*Total Matching Roles Found: 15*
+*Total Matching Roles Found: 10*
 
 ---
 
-### [Recruiter / Talent Acquisition Specialist (m/w/d) Teilzeit in Freital](https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-teilzeit-in-freital-dresden-469367)
-**Company:** VEAXO Unternehmensgruppe | **Source:** Arbeitnow | **Location:** Dresden, Sachsen, Deutschland
+### [Talent Acquisition Manager](https://www.arbeitnow.com/jobs/companies/clo-virtual-fashion/talent-acquisition-manager-munich-250416)
+**Company:** CLO Virtual Fashion | **Source:** Arbeitnow | **Location:** Munich
 
-### [Werkstudent (m/w/d) - Lieferpartner-Akquise & Datenpflege](https://www.arbeitnow.com/jobs/companies/bex-technologies-gmbh/remote-werkstudent-lieferpartner-akquise-datenpflege-441897)
-**Company:** Bex Technologies Gmbh | **Source:** Arbeitnow | **Location:** Mobil - Remote - Germany
+### [Senior Frontend Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/flossbach-von-storch-ag/senior-frontend-developer-koln-339109)
+**Company:** Flossbach Von Storch Ag | **Source:** Arbeitnow | **Location:** Köln
 
-### [Frontend Software Engineer (100% Remote)](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/frontend-software-engineer-100-remote-united-kindom-470934)
-**Company:** Tether Operations Limited | **Source:** Arbeitnow | **Location:** Remote job
+### [Project Planner (Data Centres/Buildings/High-tech/Infrastructure) -  Frankfurt/Berlin/Munich (Hybrid)](https://www.arbeitnow.com/jobs/companies/laminar-projects/project-planner-data-centres-buildings-high-tech-infrastructure-frankfurt-berlin-munich-hybrid-323339)
+**Company:** Laminar Projects | **Source:** Arbeitnow | **Location:** Frankfurt
 
-### [Senior Partner Success Manager DACH Recruit](https://www.arbeitnow.com/jobs/companies/companial/senior-partner-success-manager-dach-recruit-hamburg-germany-413552)
-**Company:** Companial | **Source:** Arbeitnow | **Location:** Hamburg, Germany
+### [Senior Full Stack TypeScript Developer](https://www.arbeitnow.co.uk/jobs/companies/cytix/senior-full-stack-typescript-developer-manchester-254885)
+**Company:** Cytix | **Source:** Arbeitnow | **Location:** Manchester
 
-### [Marketing & Recruiting Coordinator](https://www.arbeitnow.com/jobs/companies/my-future-immo-gmbh/marketing-recruiting-coordinator-weilheim-an-der-teck-170080)
-**Company:** My Future Immo GmbH | **Source:** Arbeitnow | **Location:** Weilheim an der Teck
+### [Senior Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-234171)
+**Company:** SumUp | **Source:** Arbeitnow | **Location:** London, London, United Kingdom
 
-### [Business Recruiter](https://www.arbeitnow.co.uk/jobs/companies/neko-health/business-recruiter-london-77877)
-**Company:** Neko Health | **Source:** Arbeitnow | **Location:** London
+### [Senior UICC/eUICC/eSIM Engineer](https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer)
+**Company:** emnify | **Source:** Jobicy | **Location:** Austria,  Germany,  Poland,  Switzerland
 
 ### [Norwegian Tech Linguistic Tester](https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester)
 **Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
 
-### [Senior Recruiter - EMEA (6m Contract - Inside IR35 Day Rate)](https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-recruiter-emea-6m-contract-inside-ir35-day-rate-london-151143)
-**Company:** sonyinteractiveentertainmentglobal | **Source:** Arbeitnow | **Location:** London
-
-### [Talent Acquisition Specialist](https://www.arbeitnow.co.uk/jobs/companies/bjak/talent-acquisition-specialist-london-404843)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Talent Acquisition Executive](https://www.arbeitnow.co.uk/jobs/companies/bjak/talent-acquisition-executive-london-488109)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Product Designer (UI/UX)](https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ui-ux-london-372515)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
 ### [Finnish Tech Linguistic Tester](https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester)
 **Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
 
-### [Python & React Engineer with AI (Remote, Latam)](https://jobicy.com/jobs/146122-python-react-engineer-with-ai-remote-latam-2)
-**Company:** Kubikware | **Source:** Jobicy | **Location:** LATAM
+### [Ground Staff Required Thiruvananthapuram Airport](https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991)
+**Company:** Fronix Services | **Source:** RemoteOK | **Location:** Thiruvananthapuram, 
 
-### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - LATAM)](https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
-
-### [Vacancy for Full Stack Developer (Blockchain, Ruby on Rails, React, Next.js) - R](undefined)
-**Company:** name | **Source:** Himalayas | **Location:** Worldwide
+### [Enderezador Automotriz](https://remoteOK.com/remote-jobs/remote-enderezador-automotriz-fulltruck-1136978)
+**Company:** FULLTRUCK | **Source:** RemoteOK | **Location:** Quito, 
 
