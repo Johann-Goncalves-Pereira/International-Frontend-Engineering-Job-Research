@@ -1,23 +1,26 @@
-# Daily Remote Front-End Jobs Digest (2026-08-20)
+# Daily Remote Front-End Jobs Digest (2026-08-21)
 
-*Total Matching Roles Found: 10*
+*Total Matching Roles Found: 11*
 
 ---
 
-### [Talent Acquisition Manager](https://www.arbeitnow.com/jobs/companies/clo-virtual-fashion/talent-acquisition-manager-munich-250416)
-**Company:** CLO Virtual Fashion | **Source:** Arbeitnow | **Location:** Munich
+### [UX Designer:in (m/w/d)](https://www.arbeitnow.com/jobs/companies/webuildai-gmbh/ux-designerin-cologne-107185)
+**Company:** WEBUILDAI GmbH | **Source:** Arbeitnow | **Location:** Cologne
 
-### [Senior Frontend Developer (m/w/d)](https://www.arbeitnow.com/jobs/companies/flossbach-von-storch-ag/senior-frontend-developer-koln-339109)
-**Company:** Flossbach Von Storch Ag | **Source:** Arbeitnow | **Location:** Köln
+### [Front-End Engineer](https://www.arbeitnow.co.uk/jobs/companies/smarkets/front-end-engineer-london-391265)
+**Company:** Smarkets | **Source:** Arbeitnow | **Location:** London
 
-### [Project Planner (Data Centres/Buildings/High-tech/Infrastructure) -  Frankfurt/Berlin/Munich (Hybrid)](https://www.arbeitnow.com/jobs/companies/laminar-projects/project-planner-data-centres-buildings-high-tech-infrastructure-frankfurt-berlin-munich-hybrid-323339)
-**Company:** Laminar Projects | **Source:** Arbeitnow | **Location:** Frankfurt
+### [Talent Acquisition Specialist](https://www.arbeitnow.co.uk/jobs/companies/avenir-collective/talent-acquisition-specialist-london-380063)
+**Company:** Avenir Collective | **Source:** Arbeitnow | **Location:** London, Greater London, United Kingdom
 
-### [Senior Full Stack TypeScript Developer](https://www.arbeitnow.co.uk/jobs/companies/cytix/senior-full-stack-typescript-developer-manchester-254885)
-**Company:** Cytix | **Source:** Arbeitnow | **Location:** Manchester
+### [Senior UI Designer - Contract UK](https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-ui-designer-contract-uk-london-287193)
+**Company:** Vmlenterprisesolutions | **Source:** Arbeitnow | **Location:** London
 
-### [Senior Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-234171)
-**Company:** SumUp | **Source:** Arbeitnow | **Location:** London, London, United Kingdom
+### [Engineering Manager (Frontend)](https://jobicy.com/jobs/151249-engineering-manager-frontend)
+**Company:** ClickUp | **Source:** Jobicy | **Location:** USA
+
+### [Senior Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-talent-acquisition-partner-london-487365)
+**Company:** Sumup | **Source:** Arbeitnow | **Location:** London
 
 ### [Senior UICC/eUICC/eSIM Engineer](https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer)
 **Company:** emnify | **Source:** Jobicy | **Location:** Austria,  Germany,  Poland,  Switzerland
@@ -31,6 +34,6 @@
 ### [Ground Staff Required Thiruvananthapuram Airport](https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991)
 **Company:** Fronix Services | **Source:** RemoteOK | **Location:** Thiruvananthapuram, 
 
-### [Enderezador Automotriz](https://remoteOK.com/remote-jobs/remote-enderezador-automotriz-fulltruck-1136978)
-**Company:** FULLTRUCK | **Source:** RemoteOK | **Location:** Quito, 
+### [Senior Recruiter](undefined)
+**Company:** Phreesia | **Source:** Himalayas | **Location:** Worldwide
 
