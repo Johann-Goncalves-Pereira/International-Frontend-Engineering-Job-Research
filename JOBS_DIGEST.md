@@ -1,14 +1,38 @@
-# Daily Remote Front-End Jobs Digest (2026-08-23)
+# Daily Remote Front-End Jobs Digest (2026-08-24)
 
-*Total Matching Roles Found: 22*
+*Total Matching Roles Found: 28*
 
 ---
 
-### [Venture Building Consultant Space Sector](https://www.arbeitnow.com/jobs/companies/novaspace/venture-building-consultant-space-sector-munich-germany-366818)
-**Company:** Novaspace | **Source:** Arbeitnow | **Location:** Munich, Germany
+### [UX Designer (Figma)](https://www.arbeitnow.com/jobs/companies/market-cloud/ux-designer-figma-eschborn-378017)
+**Company:** Market Cloud | **Source:** Arbeitnow | **Location:** Eschborn
 
-### [Senior React Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/bees-bears-gmbh/senior-react-developer-berlin-76109)
-**Company:** Bees & Bears GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [UX / UI Designer](https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/ux-ui-designer-berlin-489286)
+**Company:** TechBiz Global GmbH | **Source:** Arbeitnow | **Location:** Berlin, Berlin, Germany
+
+### [Systemadministrator Linux (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-131907)
+**Company:** ANGEHEUERT GmbH | **Source:** Arbeitnow | **Location:** Homeoffice
+
+### [Linux-Systemadministrator (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-freiburg-im-breisgau-345920)
+**Company:** ANGEHEUERT GmbH | **Source:** Arbeitnow | **Location:** Homeoffice
+
+### [Senior Frontend Software Engineer - Angular (m/f/x)](https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-55404)
+**Company:** neoshare | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Senior UI/UX Designer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-477563)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-315667)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Hamburg
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-336933)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** München
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-375160)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Mainz
+
+### [Software Engineer - Build Platform](https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-build-platform-london-313285)
+**Company:** Optiverus | **Source:** Arbeitnow | **Location:** London
 
 ### [Staff Frontend Engineer - Design Systems](https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems)
 **Company:** Pleo | **Source:** Jobicy | **Location:** Denmark,  Portugal,  UK
@@ -18,9 +42,6 @@
 
 ### [Principal UI Engineer [6 Month FTC - Remote OR Onsite]](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/principal-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-232033)
 **Company:** Rocketsciencegg | **Source:** Arbeitnow | **Location:** London, UK
-
-### [QA Automation Engineer (IntelliJ IDEA Java Build Tools)](https://www.arbeitnow.com/jobs/companies/jetbrains/qa-automation-engineer-intellij-idea-java-build-tools-berlin-munich-231323)
-**Company:** jetbrains | **Source:** Arbeitnow | **Location:** Berlin; Munich
 
 ### [Product Designer (UX), HCI](https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-272222)
 **Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
@@ -33,9 +54,6 @@
 
 ### [Associate, Talent Acquisition](https://www.arbeitnow.co.uk/jobs/companies/bjak/associate-talent-acquisition-london-69674)
 **Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Recruiting Coordinator, Europe](https://www.arbeitnow.co.uk/jobs/companies/sierra/recruiting-coordinator-europe-london-367684)
-**Company:** Sierra | **Source:** Arbeitnow | **Location:** London
 
 ### [Lead Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu)
 **Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
@@ -64,9 +82,9 @@
 ### [Embedded Linux Field Engineer for Devices/IoT](https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot)
 **Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
 
+### [building cleaner](https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071)
+**Company:** Newfoundland Chocolate Company | **Source:** RemoteOK | **Location:** St Johnâs, 
+
 ### [Ground Staff Required Thiruvananthapuram Airport](https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991)
 **Company:** Fronix Services | **Source:** RemoteOK | **Location:** Thiruvananthapuram, 
-
-### [Full Stack Developer (React/ Angular)](undefined)
-**Company:** Dijital Team Pty Ltd | **Source:** Himalayas | **Location:** Worldwide
 
