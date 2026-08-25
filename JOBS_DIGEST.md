@@ -1,86 +1,68 @@
-# Daily Remote Front-End Jobs Digest (2026-08-24)
+# Daily Remote Front-End Jobs Digest (2026-08-25)
 
-*Total Matching Roles Found: 28*
+*Total Matching Roles Found: 22*
 
 ---
 
-### [UX Designer (Figma)](https://www.arbeitnow.com/jobs/companies/market-cloud/ux-designer-figma-eschborn-378017)
-**Company:** Market Cloud | **Source:** Arbeitnow | **Location:** Eschborn
+### [UI/UX Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/flexlog-gmbh/ui-ux-manager-karlsruhe-247958)
+**Company:** flexlog GmbH | **Source:** Arbeitnow | **Location:** Karlsruhe
 
-### [UX / UI Designer](https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/ux-ui-designer-berlin-489286)
-**Company:** TechBiz Global GmbH | **Source:** Arbeitnow | **Location:** Berlin, Berlin, Germany
+### [Trainee Frontend Development (m/w/d)](https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-398719)
+**Company:** Brandung | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Systemadministrator Linux (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-systemadministrator-linux-freiburg-im-breisgau-131907)
-**Company:** ANGEHEUERT GmbH | **Source:** Arbeitnow | **Location:** Homeoffice
+### [Mobile Developer & UI/UX Product Designer (m/w/d)](https://www.arbeitnow.com/jobs/companies/liotec-gmbh/mobile-developer-ui-ux-product-designer-berlin-348396)
+**Company:** Liotec GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Linux-Systemadministrator (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/remote-linux-systemadministrator-freiburg-im-breisgau-345920)
-**Company:** ANGEHEUERT GmbH | **Source:** Arbeitnow | **Location:** Homeoffice
+### [Talent Acquisition Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/aramaz-digital/talent-acquisition-manager-bielefeld-79100)
+**Company:** Aramaz Digital | **Source:** Arbeitnow | **Location:** Bielefeld, Nordrhein-Westfalen, Deutschland
 
-### [Senior Frontend Software Engineer - Angular (m/f/x)](https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-55404)
-**Company:** neoshare | **Source:** Arbeitnow | **Location:** Berlin
+### [Frontend Developer – E-Commerce & Shopify (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/frontend-developer-e-commerce-shopify-frankfurt-193357)
+**Company:** ABRIO GmbH | **Source:** Arbeitnow | **Location:** Frankfurt, Hessen, Deutschland
 
-### [Senior UI/UX Designer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-477563)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
+### [Senior Frontend Engineer, Ads Creative](https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative)
+**Company:** Reddit | **Source:** Jobicy | **Location:** USA
 
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-315667)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Hamburg
+### [Private Equity Partnerships](https://www.arbeitnow.co.uk/jobs/companies/omnea/private-equity-partnerships-london-171609)
+**Company:** Omnea | **Source:** Arbeitnow | **Location:** London
 
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-336933)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** München
+### [Staff Software Engineer, Dev Environments](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/staff-software-engineer-dev-environments-london-385361)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
 
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-375160)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Mainz
+### [S&O Manager - Rider Fraud](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/so-manager-rider-fraud-london-452318)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
 
-### [Software Engineer - Build Platform](https://www.arbeitnow.co.uk/jobs/companies/optiverus/software-engineer-build-platform-london-313285)
-**Company:** Optiverus | **Source:** Arbeitnow | **Location:** London
+### [Senior Digital Marketing Specialist - Paid Social - FTC](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-digital-marketing-specialist-paid-social-ftc-london-301789)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+
+### [Account Manager - Essex](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/account-manager-essex-london-58889)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+
+### [Full Stack Web Engineer (Python & React)](https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react)
+**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+
+### [Full Stack Engineer (Vue + Nest)](https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest)
+**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+
+### [Full Stack (Vue + Nest)](https://jobicy.com/jobs/151491-full-stack-vue-nest)
+**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
 
 ### [Staff Frontend Engineer - Design Systems](https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems)
 **Company:** Pleo | **Source:** Jobicy | **Location:** Denmark,  Portugal,  UK
 
-### [Senior UI Engineer [6 Month FTC - Remote OR Onsite]](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/senior-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-458163)
-**Company:** Rocketsciencegg | **Source:** Arbeitnow | **Location:** London, UK
-
-### [Principal UI Engineer [6 Month FTC - Remote OR Onsite]](https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/principal-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-232033)
-**Company:** Rocketsciencegg | **Source:** Arbeitnow | **Location:** London, UK
-
-### [Product Designer (UX), HCI](https://www.arbeitnow.co.uk/jobs/companies/bjak/product-designer-ux-hci-london-272222)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Lead UX Designer](https://www.arbeitnow.co.uk/jobs/companies/bjak/lead-ux-designer-london-434627)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/bjak/technical-recruiter-london-435367)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Associate, Talent Acquisition](https://www.arbeitnow.co.uk/jobs/companies/bjak/associate-talent-acquisition-london-69674)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
 ### [Lead Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
 ### [Rust Engineering Lead - Linux and Open Source](https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
 ### [Embedded & Desktop Linux Systems Engineer - Optimisation](https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
 ### [Linux Platform Integration - Ubuntu Systems Senior Engineer](https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
-
-### [Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu](https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
 ### [Junior Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
-
-### [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
-
-### [Ubuntu Linux Kernel Engineer - Silicon Enablement](https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
-
-### [Embedded Linux Field Engineer for Devices/IoT](https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot)
-**Company:** Canonical Ltd. | **Source:** Jobicy | **Location:** Anywhere
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
 ### [building cleaner](https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071)
 **Company:** Newfoundland Chocolate Company | **Source:** RemoteOK | **Location:** St Johnâs, 
