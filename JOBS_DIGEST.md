@@ -1,11 +1,44 @@
-# Daily Remote Front-End Jobs Digest (2026-08-26)
+# Daily Remote Front-End Jobs Digest (2026-08-27)
 
-*Total Matching Roles Found: 12*
+*Total Matching Roles Found: 16*
 
 ---
 
-### [Senior Software Engineer, 5G Physical Layer](https://www.arbeitnow.com/jobs/companies/e-space/senior-software-engineer-5g-physical-layer-duisburg-germany-405298)
-**Company:** E-Space | **Source:** Arbeitnow | **Location:** Duisburg, Germany
+### [Senior System Engineer (Linux / Kubernetes) – Klinische IT (m/w/d)](https://www.arbeitnow.com/jobs/companies/meierhofer/senior-system-engineer-linux-kubernetes-klinische-it-munchen-310007)
+**Company:** Meierhofer | **Source:** Arbeitnow | **Location:** München
+
+### [Research Consultant / Senior Research Consultant  in der Qualitative Marktforschung Schwerpunkt Finance, Healthcare & UX (m/w/d)](https://www.arbeitnow.com/jobs/companies/mindline-explore-gmbh/research-consultant-senior-research-consultant-in-der-qualitative-marktforschung-schwerpunkt-finance-healthcare-ux-hamburg-466061)
+**Company:** mindline explore GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+
+### [Linux Software Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/linux-software-engineer-gilching-65714)
+**Company:** Quantum-Systems GmbH | **Source:** Arbeitnow | **Location:** Gilching
+
+### [IT - Linux-Systemadministrator (m/w/d)](https://www.arbeitnow.com/jobs/companies/mvz-medizinische-labore-dessau-kassel-gmbh/it-linux-systemadministrator-dessau-rosslau-466279)
+**Company:** MVZ Medizinische Labore Dessau Kassel GmbH | **Source:** Arbeitnow | **Location:** Dessau-Roßlau
+
+### [Entwicklungsingenieur (m/w/d) | Mit regelmäßiger Präsenz in Dresden](https://www.arbeitnow.com/jobs/companies/connected-consumables/entwicklungsingenieur-mit-regelmassiger-prasenz-in-dresden-23252)
+**Company:** Connected Consumables | **Source:** Arbeitnow | **Location:** Dresden
+
+### [Senior Frontend Software Developer | Hybrid mit regelmäßiger Präsenz in Dresden](https://www.arbeitnow.com/jobs/companies/connected-consumables/senior-frontend-software-developer-hybrid-mit-regelmassiger-prasenz-in-dresden-149064)
+**Company:** Connected Consumables | **Source:** Arbeitnow | **Location:** Dresden
+
+### [Senior Full Stack Product Engineer (TypeScript)](https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript)
+**Company:** Maze | **Source:** Jobicy | **Location:** Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK
+
+### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/sereact/senior-recruiter-london-178709)
+**Company:** Sereact | **Source:** Arbeitnow | **Location:** London
+
+### [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d)
+**Company:** ecosio | **Source:** Jobicy | **Location:** Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK
+
+### [Equipment Maintenance](https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151)
+**Company:** JD.COM | **Source:** RemoteOK | **Location:** Lutterworth, 
+
+### [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138)
+**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
+
+### [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136)
+**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
 
 ### [Senior Frontend Engineer - Contract](https://jobicy.com/jobs/151742-senior-frontend-engineer-contract)
 **Company:** Roofr | **Source:** Jobicy | **Location:** Mexico
@@ -13,30 +46,9 @@
 ### [Senior Frontend Engineer](https://jobicy.com/jobs/151737-senior-frontend-engineer)
 **Company:** Roofr | **Source:** Jobicy | **Location:** Canada
 
-### [Senior Frontend Software Engineer, Home Experience](https://jobicy.com/jobs/147496-senior-frontend-software-engineer-home-experience)
-**Company:** Reddit | **Source:** Jobicy | **Location:** USA
-
-### [Senior Specialist, Talent Acquisition (Corporate)](https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-specialist-talent-acquisition-corporate-london-253392)
-**Company:** Checkout.com | **Source:** Arbeitnow | **Location:** London
-
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Senior Frontend Engineer, Ads Creative](https://jobicy.com/jobs/149683-senior-frontend-engineer-ads-creative)
-**Company:** Reddit | **Source:** Jobicy | **Location:** USA
-
-### [Full Stack Web Engineer (Python & React)](https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
-
-### [Full Stack Engineer (Vue + Nest)](https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
-
 ### [building cleaner](https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071)
 **Company:** Newfoundland Chocolate Company | **Source:** RemoteOK | **Location:** St Johnâs, 
-
-### [Ground Staff Required Thiruvananthapuram Airport](https://remoteOK.com/remote-jobs/remote-ground-staff-required-thiruvananthapuram-airport-fronix-services-1136991)
-**Company:** Fronix Services | **Source:** RemoteOK | **Location:** Thiruvananthapuram, 
-
-### [Customer Acquisition Specialist](undefined)
-**Company:** TheHiveCareers | **Source:** Himalayas | **Location:** Worldwide
 
