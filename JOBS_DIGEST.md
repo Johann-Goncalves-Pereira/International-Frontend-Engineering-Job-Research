@@ -1,32 +1,38 @@
-# Daily Remote Front-End Jobs Digest (2026-08-27)
+# Daily Remote Front-End Jobs Digest (2026-08-28)
 
-*Total Matching Roles Found: 16*
+*Total Matching Roles Found: 18*
 
 ---
 
-### [Senior System Engineer (Linux / Kubernetes) – Klinische IT (m/w/d)](https://www.arbeitnow.com/jobs/companies/meierhofer/senior-system-engineer-linux-kubernetes-klinische-it-munchen-310007)
-**Company:** Meierhofer | **Source:** Arbeitnow | **Location:** München
+### [Software Engineer, Data Infrastructure & Acquisition - Munich, Germany](https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-112802)
+**Company:** speechify | **Source:** Arbeitnow | **Location:** Munich
 
-### [Research Consultant / Senior Research Consultant  in der Qualitative Marktforschung Schwerpunkt Finance, Healthcare & UX (m/w/d)](https://www.arbeitnow.com/jobs/companies/mindline-explore-gmbh/research-consultant-senior-research-consultant-in-der-qualitative-marktforschung-schwerpunkt-finance-healthcare-ux-hamburg-466061)
-**Company:** mindline explore GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+### [Senior React Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/bees-bears-gmbh/senior-react-developer-berlin-450526)
+**Company:** Bees & Bears GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Linux Software Engineer (m/f/d)](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/linux-software-engineer-gilching-65714)
-**Company:** Quantum-Systems GmbH | **Source:** Arbeitnow | **Location:** Gilching
+### [Bauingenieur (m/w/d) - Projektmanagement](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/bauingenieur-projektmanagement-minden-386527)
+**Company:** MY Humancapital GmbH | **Source:** Arbeitnow | **Location:** Minden
 
-### [IT - Linux-Systemadministrator (m/w/d)](https://www.arbeitnow.com/jobs/companies/mvz-medizinische-labore-dessau-kassel-gmbh/it-linux-systemadministrator-dessau-rosslau-466279)
-**Company:** MVZ Medizinische Labore Dessau Kassel GmbH | **Source:** Arbeitnow | **Location:** Dessau-Roßlau
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-bristol-252678)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Bristol
 
-### [Entwicklungsingenieur (m/w/d) | Mit regelmäßiger Präsenz in Dresden](https://www.arbeitnow.com/jobs/companies/connected-consumables/entwicklungsingenieur-mit-regelmassiger-prasenz-in-dresden-23252)
-**Company:** Connected Consumables | **Source:** Arbeitnow | **Location:** Dresden
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-cambridge-118460)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [Senior Frontend Software Developer | Hybrid mit regelmäßiger Präsenz in Dresden](https://www.arbeitnow.com/jobs/companies/connected-consumables/senior-frontend-software-developer-hybrid-mit-regelmassiger-prasenz-in-dresden-149064)
-**Company:** Connected Consumables | **Source:** Arbeitnow | **Location:** Dresden
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-387845)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** London
+
+### [Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461)
+**Company:** Lightningai | **Source:** Arbeitnow | **Location:** London
+
+### [Werkstudent:in (m/w/d) Recruiting & Employer Branding](https://www.arbeitnow.com/jobs/companies/empit/werkstudentin-recruiting-employer-branding-hamburg-240420)
+**Company:** Empit | **Source:** Arbeitnow | **Location:** Hamburg
+
+### [Staff Engineer, Builder Enablement](https://jobicy.com/jobs/147580-staff-engineer-builder-enablement)
+**Company:** NBCUniversal | **Source:** Jobicy | **Location:** USA
 
 ### [Senior Full Stack Product Engineer (TypeScript)](https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript)
 **Company:** Maze | **Source:** Jobicy | **Location:** Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK
-
-### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/sereact/senior-recruiter-london-178709)
-**Company:** Sereact | **Source:** Arbeitnow | **Location:** London
 
 ### [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d)
 **Company:** ecosio | **Source:** Jobicy | **Location:** Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK
