@@ -1,32 +1,53 @@
-# Daily Remote Front-End Jobs Digest (2026-08-28)
+# Daily Remote Front-End Jobs Digest (2026-08-29)
 
-*Total Matching Roles Found: 18*
+*Total Matching Roles Found: 23*
 
 ---
 
-### [Software Engineer, Data Infrastructure & Acquisition - Munich, Germany](https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-munich-germany-112802)
-**Company:** speechify | **Source:** Arbeitnow | **Location:** Munich
+### [Senior Frontend Engineer - Growth Experimentation](https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-frontend-engineer-growth-experimentation-406405)
+**Company:** eucalyptus | **Source:** Arbeitnow | **Location:** Remote
 
-### [Senior React Developer (m/f/d)](https://www.arbeitnow.com/jobs/companies/bees-bears-gmbh/senior-react-developer-berlin-450526)
-**Company:** Bees & Bears GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [Frontend Engineer (UK)](https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-uk-london-298887)
+**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
 
-### [Bauingenieur (m/w/d) - Projektmanagement](https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/bauingenieur-projektmanagement-minden-386527)
-**Company:** MY Humancapital GmbH | **Source:** Arbeitnow | **Location:** Minden
+### [Global Talent Acquisition Partner (f/m/d)](https://www.arbeitnow.com/jobs/companies/moss/global-talent-acquisition-partner-berlin-59967)
+**Company:** Moss | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-bristol-252678)
-**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Bristol
+### [Senior Frontend Software Engineer - Angular (m/f/x)](https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-381142)
+**Company:** neoshare | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-cambridge-118460)
-**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Cambridge
+### [Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)](https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213)
+**Company:** ScholarshipOwl | **Source:** Arbeitnow | **Location:** Remote job
 
-### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-387845)
-**Company:** Graphcore | **Source:** Arbeitnow | **Location:** London
+### [Senior UI/UX Designer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-77108)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461)
-**Company:** Lightningai | **Source:** Arbeitnow | **Location:** London
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-169308)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Hamburg
 
-### [Werkstudent:in (m/w/d) Recruiting & Employer Branding](https://www.arbeitnow.com/jobs/companies/empit/werkstudentin-recruiting-employer-branding-hamburg-240420)
-**Company:** Empit | **Source:** Arbeitnow | **Location:** Hamburg
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-287942)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** München
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-322348)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Mainz
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-koln-266160)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Köln
+
+### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-berlin-458806)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
+
+### [(Senior) Recruiter – Freelance Management (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-recruiter-freelance-management-all-genders-berlin-382565)
+**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Solidity Compiler Frontend Engineer](https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer)
+**Company:** CertiK | **Source:** Jobicy | **Location:** USA
+
+### [Senior Sales Manager - Issuing](https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-sales-manager-issuing-london-211248)
+**Company:** Checkout.com | **Source:** Arbeitnow | **Location:** London
+
+### [Senior International Sales Recruiter, UK/EMEA](https://www.arbeitnow.co.uk/jobs/companies/trm-labs/senior-international-sales-recruiter-uk-emea-united-kingdom-423376)
+**Company:** TRM Labs | **Source:** Arbeitnow | **Location:** United Kingdom
 
 ### [Staff Engineer, Builder Enablement](https://jobicy.com/jobs/147580-staff-engineer-builder-enablement)
 **Company:** NBCUniversal | **Source:** Jobicy | **Location:** USA
@@ -45,12 +66,6 @@
 
 ### [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136)
 **Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Senior Frontend Engineer - Contract](https://jobicy.com/jobs/151742-senior-frontend-engineer-contract)
-**Company:** Roofr | **Source:** Jobicy | **Location:** Mexico
-
-### [Senior Frontend Engineer](https://jobicy.com/jobs/151737-senior-frontend-engineer)
-**Company:** Roofr | **Source:** Jobicy | **Location:** Canada
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
