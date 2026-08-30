@@ -1,62 +1,44 @@
-# Daily Remote Front-End Jobs Digest (2026-08-29)
+# Daily Remote Front-End Jobs Digest (2026-08-30)
 
-*Total Matching Roles Found: 23*
+*Total Matching Roles Found: 17*
 
 ---
+
+### [Senior Marketing Manager, France, Benelux & EMEA](https://www.arbeitnow.co.uk/jobs/companies/airbnb/senior-marketing-manager-france-benelux-emea-299728)
+**Company:** airbnb | **Source:** Arbeitnow | **Location:** Remote
+
+### [UX Copywriter](https://www.arbeitnow.co.uk/jobs/companies/zilch/ux-copywriter-london-233384)
+**Company:** Zilch | **Source:** Arbeitnow | **Location:** Zilch UK
+
+### [Talent Acquisition Lead](https://www.arbeitnow.co.uk/jobs/companies/street-group/talent-acquisition-lead-manchester-26418)
+**Company:** Street Group | **Source:** Arbeitnow | **Location:** Manchester
+
+### [Senior Front-End Developer (React / TypeScript) - Market Research](https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research)
+**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
+
+### [Senior Full-stack Engineer (React OR Vue/Python) - Investment](https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment)
+**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
+
+### [Semi-Senior Full Stack Engineer (Python / React) - E-learning](https://jobicy.com/jobs/152025-semi-senior-full-stack-engineer-python-react-e-learning)
+**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
+
+### [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM](https://jobicy.com/jobs/152023-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam)
+**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
 
 ### [Senior Frontend Engineer - Growth Experimentation](https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-frontend-engineer-growth-experimentation-406405)
 **Company:** eucalyptus | **Source:** Arbeitnow | **Location:** Remote
 
-### [Frontend Engineer (UK)](https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-uk-london-298887)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
-
-### [Global Talent Acquisition Partner (f/m/d)](https://www.arbeitnow.com/jobs/companies/moss/global-talent-acquisition-partner-berlin-59967)
-**Company:** Moss | **Source:** Arbeitnow | **Location:** Berlin
-
-### [Senior Frontend Software Engineer - Angular (m/f/x)](https://www.arbeitnow.com/jobs/companies/neoshare/senior-frontend-software-engineer-angular-berlin-381142)
-**Company:** neoshare | **Source:** Arbeitnow | **Location:** Berlin
-
-### [Senior Full Stack Developer - B2B platform (Laravel + Nuxt/Vue)](https://www.arbeitnow.com/jobs/companies/scholarshipowl/remote-senior-full-stack-developer-b2b-platform-laravel-nuxt-vue-berlin-109213)
-**Company:** ScholarshipOwl | **Source:** Arbeitnow | **Location:** Remote job
-
-### [Senior UI/UX Designer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-ui-ux-designer-all-genders-berlin-77108)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
-
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-hamburg-169308)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Hamburg
-
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-munchen-287942)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** München
-
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-mainz-322348)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Mainz
-
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-koln-266160)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Köln
-
-### [Senior Frontend Angular Developer (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-frontend-angular-developer-all-genders-berlin-458806)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
-
-### [(Senior) Recruiter – Freelance Management (all genders)](https://www.arbeitnow.com/jobs/companies/init-ag/senior-recruiter-freelance-management-all-genders-berlin-382565)
-**Company:** Init Ag | **Source:** Arbeitnow | **Location:** Berlin
-
 ### [Solidity Compiler Frontend Engineer](https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer)
 **Company:** CertiK | **Source:** Jobicy | **Location:** USA
 
-### [Senior Sales Manager - Issuing](https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/senior-sales-manager-issuing-london-211248)
-**Company:** Checkout.com | **Source:** Arbeitnow | **Location:** London
-
-### [Senior International Sales Recruiter, UK/EMEA](https://www.arbeitnow.co.uk/jobs/companies/trm-labs/senior-international-sales-recruiter-uk-emea-united-kingdom-423376)
-**Company:** TRM Labs | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Building Maintenance Technician](https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212)
+**Company:** Dart | **Source:** RemoteOK | **Location:** George Town, 
 
 ### [Staff Engineer, Builder Enablement](https://jobicy.com/jobs/147580-staff-engineer-builder-enablement)
 **Company:** NBCUniversal | **Source:** Jobicy | **Location:** USA
 
 ### [Senior Full Stack Product Engineer (TypeScript)](https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript)
 **Company:** Maze | **Source:** Jobicy | **Location:** Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK
-
-### [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/150845-full-stack-developer-java-react-f-m-d)
-**Company:** ecosio | **Source:** Jobicy | **Location:** Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK
 
 ### [Equipment Maintenance](https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151)
 **Company:** JD.COM | **Source:** RemoteOK | **Location:** Lutterworth, 
