@@ -1,8 +1,32 @@
-# Daily Remote Front-End Jobs Digest (2026-08-30)
+# Daily Remote Front-End Jobs Digest (2026-08-31)
 
-*Total Matching Roles Found: 17*
+*Total Matching Roles Found: 22*
 
 ---
+
+### [Recruiter / Talent Acquisition Specialist (m/w/d) Teilzeit in Freital 20h-30h](https://www.arbeitnow.com/jobs/companies/veaxo-unternehmensgruppe/recruiter-talent-acquisition-specialist-teilzeit-in-freital-20h-30h-dresden-73080)
+**Company:** VEAXO Unternehmensgruppe | **Source:** Arbeitnow | **Location:** Dresden, Sachsen, Deutschland
+
+### [Freiberufliche:r Akquise-Vertriebler:in (München)](https://www.arbeitnow.com/jobs/companies/media-magnetix/freiberuflicher-akquise-vertrieblerin-munchen-kiel-266499)
+**Company:** Media Magnetix | **Source:** Arbeitnow | **Location:** Kiel
+
+### [Freiberufliche:r Akquise-Vertriebler:in (Im Büro - Kiel)](https://www.arbeitnow.com/jobs/companies/media-magnetix/freiberuflicher-akquise-vertrieblerin-im-buro-kiel-379906)
+**Company:** Media Magnetix | **Source:** Arbeitnow | **Location:** Kiel
+
+### [Krankenhaus Controller (m/w/d)](https://www.arbeitnow.com/jobs/companies/imperex-consulting-gmbh/krankenhaus-controller-duisburg-102942)
+**Company:** imperex Consulting GmbH | **Source:** Arbeitnow | **Location:** Duisburg
+
+### [Junior HR Manager – Recruiting & People Operations (m/w/d)](https://www.arbeitnow.com/jobs/companies/hochschul-it-servicesnrw/junior-hr-manager-recruiting-people-operations-dusseldorf-424289)
+**Company:** Hochschul-IT-Services.nrw | **Source:** Arbeitnow | **Location:** Düsseldorf
+
+### [UX/UI Designer  (all genders)](https://www.arbeitnow.com/jobs/companies/stark/ux-ui-designer-all-genders-berlin-286173)
+**Company:** Stark | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Frontend Engineer - Music](https://jobicy.com/jobs/152149-frontend-engineer-music)
+**Company:** Spotify | **Source:** Jobicy | **Location:** Sweden,  UK
+
+### [Frontend Engineering Team Lead - MarTech](https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech)
+**Company:** Sporty Group | **Source:** Jobicy | **Location:** Europe
 
 ### [Senior Marketing Manager, France, Benelux & EMEA](https://www.arbeitnow.co.uk/jobs/companies/airbnb/senior-marketing-manager-france-benelux-emea-299728)
 **Company:** airbnb | **Source:** Arbeitnow | **Location:** Remote
@@ -25,20 +49,8 @@
 ### [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM](https://jobicy.com/jobs/152023-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
 
-### [Senior Frontend Engineer - Growth Experimentation](https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-frontend-engineer-growth-experimentation-406405)
-**Company:** eucalyptus | **Source:** Arbeitnow | **Location:** Remote
-
-### [Solidity Compiler Frontend Engineer](https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer)
-**Company:** CertiK | **Source:** Jobicy | **Location:** USA
-
 ### [Building Maintenance Technician](https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212)
 **Company:** Dart | **Source:** RemoteOK | **Location:** George Town, 
-
-### [Staff Engineer, Builder Enablement](https://jobicy.com/jobs/147580-staff-engineer-builder-enablement)
-**Company:** NBCUniversal | **Source:** Jobicy | **Location:** USA
-
-### [Senior Full Stack Product Engineer (TypeScript)](https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript)
-**Company:** Maze | **Source:** Jobicy | **Location:** Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK
 
 ### [Equipment Maintenance](https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151)
 **Company:** JD.COM | **Source:** RemoteOK | **Location:** Lutterworth, 
@@ -54,4 +66,7 @@
 
 ### [building cleaner](https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071)
 **Company:** Newfoundland Chocolate Company | **Source:** RemoteOK | **Location:** St Johnâs, 
+
+### [Software Engineer, Data Infrastructure & Acquisition - Brisbane, Australia](undefined)
+**Company:** Speechify | **Source:** Himalayas | **Location:** Worldwide
 
