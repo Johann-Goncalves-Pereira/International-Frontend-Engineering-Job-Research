@@ -1,32 +1,50 @@
-# Daily Remote Front-End Jobs Digest (2026-09-01)
+# Daily Remote Front-End Jobs Digest (2026-09-02)
 
-*Total Matching Roles Found: 13*
+*Total Matching Roles Found: 18*
 
 ---
 
-### [EMEA Talent Acquisition Partner (R5549)](https://www.arbeitnow.co.uk/jobs/companies/shield-ai/emea-talent-acquisition-partner-r5549-london-412484)
-**Company:** Shield AI | **Source:** Arbeitnow | **Location:** London
+### [Frontend Software Engineer](https://www.arbeitnow.co.uk/jobs/companies/toogoodtogo/frontend-software-engineer-london-96025)
+**Company:** toogoodtogo | **Source:** Arbeitnow | **Location:** London
 
-### [Senior Talent Acquisition Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/yoummday/senior-talent-acquisition-manager-munich-406653)
-**Company:** Yoummday | **Source:** Arbeitnow | **Location:** Munich
+### [UX Designer:in - Werkstudium oder Pflichtpraktikum](https://www.arbeitnow.com/jobs/companies/bloom-future/ux-designerin-werkstudium-oder-pflichtpraktikum-heilbronn-15571)
+**Company:** Bloom Future | **Source:** Arbeitnow | **Location:** Heilbronn
 
-### [Praktikant im Personalrecruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/hagedorn-unternehmensgruppe/praktikant-im-personalrecruiting-gutersloh-311834)
-**Company:** Hagedorn Unternehmensgruppe | **Source:** Arbeitnow | **Location:** Gütersloh
+### [Spa Therapist - Luxury Spa is Coming to Shepherd’s Bush](https://www.arbeitnow.co.uk/jobs/companies/spa-elite/spa-therapist-luxury-spa-is-coming-to-shepherds-bush-london-195904)
+**Company:** Spa Elite | **Source:** Arbeitnow | **Location:** London
 
-### [Frontend Engineer - Music](https://jobicy.com/jobs/152149-frontend-engineer-music)
-**Company:** Spotify | **Source:** Jobicy | **Location:** Sweden,  UK
+### [Junior Bauingenieur Geotechnik / Geologe (m/w/d)](https://www.arbeitnow.com/jobs/companies/environeering-group-gmbh/junior-bauingenieur-geotechnik-geologe-aachen-354370)
+**Company:** Environeering Group GmbH | **Source:** Arbeitnow | **Location:** Aachen
 
-### [Frontend Engineering Team Lead - MarTech](https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech)
-**Company:** Sporty Group | **Source:** Jobicy | **Location:** Europe
+### [HR Manager/in - Aufbau & Recruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/presch-tools-gmbh/hr-manager-in-aufbau-recruiting-ganderkesee-63557)
+**Company:** Presch Tools GmbH | **Source:** Arbeitnow | **Location:** Ganderkesee
+
+### [Duales Studium Bauingenieurwesen Tiefbau ab 2027](https://www.arbeitnow.com/jobs/companies/ost-bau-osterburger-strassen-tief-und-hochbau-gmbh/duales-studium-bauingenieurwesen-tiefbau-ab-2027-osterburg-42117)
+**Company:** OST BAU; Osterburger Straßen-,Tief- und Hochbau GmbH | **Source:** Arbeitnow | **Location:** Osterburg
+
+### [Duales Studium Bauingenieurwesen Hochbau ab 2027](https://www.arbeitnow.com/jobs/companies/ost-bau-osterburger-strassen-tief-und-hochbau-gmbh/duales-studium-bauingenieurwesen-hochbau-ab-2027-osterburg-122868)
+**Company:** OST BAU; Osterburger Straßen-,Tief- und Hochbau GmbH | **Source:** Arbeitnow | **Location:** Osterburg
+
+### [Linux devices software engineer - snapd](https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd)
+**Company:** Canonical | **Source:** Jobicy | **Location:** EMEA,  LATAM,  Canada,  USA
+
+### [Ubuntu Linux Kernel Engineer - BIOS/Firmware](https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware)
+**Company:** Canonical | **Source:** Jobicy | **Location:** APAC
+
+### [Software Engineer - Frontend (React / React Native)](https://www.arbeitnow.co.uk/jobs/companies/fanduel/software-engineer-frontend-react-react-native-edinburgh-328067)
+**Company:** Fanduel | **Source:** Arbeitnow | **Location:** Edinburgh
+
+### [Senior Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/senior-frontend-engineer-london-gb-170817)
+**Company:** Octopus Energy Group | **Source:** Arbeitnow | **Location:** London (GB)
+
+### [Senior Recruiter | GTM Expansion](https://www.arbeitnow.co.uk/jobs/companies/ramp/senior-recruiter-gtm-expansion-london-338565)
+**Company:** Ramp | **Source:** Arbeitnow | **Location:** London
+
+### [Senior Data Scientist - Business Operations](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-data-scientist-business-operations-london-462622)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
 
 ### [Commercial Building Estimator](https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228)
 **Company:** Complex Co. | **Source:** RemoteOK | **Location:** Canberra, 
-
-### [Senior Front-End Developer (React / TypeScript) - Market Research](https://jobicy.com/jobs/152035-senior-front-end-developer-react-typescript-market-research)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
-
-### [Senior Full-stack Engineer (React OR Vue/Python) - Investment](https://jobicy.com/jobs/152031-senior-full-stack-engineer-react-or-vue-python-investment)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
 
 ### [Building Maintenance Technician](https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212)
 **Company:** Dart | **Source:** RemoteOK | **Location:** George Town, 
@@ -39,7 +57,4 @@
 
 ### [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136)
 **Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
-**Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
