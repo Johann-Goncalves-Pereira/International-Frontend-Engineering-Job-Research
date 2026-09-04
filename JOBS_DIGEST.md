@@ -1,38 +1,41 @@
-# Daily Remote Front-End Jobs Digest (2026-09-03)
+# Daily Remote Front-End Jobs Digest (2026-09-04)
 
-*Total Matching Roles Found: 16*
+*Total Matching Roles Found: 14*
 
 ---
 
-### [Senior Software Engineer, Embedded UI](https://www.arbeitnow.co.uk/jobs/companies/roku/senior-software-engineer-embedded-ui-cambridge-86642)
-**Company:** Roku | **Source:** Arbeitnow | **Location:** Cambridge
+### [Frontend Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-113772)
+**Company:** TecFox GmbH | **Source:** Arbeitnow | **Location:** Braunschweig
 
-### [Senior Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/magentic/senior-frontend-engineer-london-170315)
-**Company:** Magentic | **Source:** Arbeitnow | **Location:** London
+### [IT System Engineer Linux (m/w/d)](https://www.arbeitnow.com/jobs/companies/bayerische-landeszentrale-fur-neue-medien-blm/it-system-engineer-linux-munich-57571)
+**Company:** Bayerische Landeszentrale für neue Medien (BLM) | **Source:** Arbeitnow | **Location:** Munich
 
-### [Head of Territory Management](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/head-of-territory-management-london-423677)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Freelancer/in (m/w/d) Recruiting](https://www.arbeitnow.com/jobs/companies/ohawo-gmbh/freelancer-in-recruiting-dusseldorf-67573)
+**Company:** OHAWO GmbH | **Source:** Arbeitnow | **Location:** Düsseldorf
 
-### [Senior Product Manager, Trust & Safety, Integrity and Fraud](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-trust-safety-integrity-and-fraud-london-72043)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Trainee Frontend Development (m/w/d)](https://www.arbeitnow.com/jobs/companies/brandung/trainee-frontend-development-berlin-457689)
+**Company:** Brandung | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Mitarbeiter Controlling (m/w/d)](https://www.arbeitnow.com/jobs/companies/amphenol-air-lb-gmbh/mitarbeiter-controlling-saarlouis-55028)
-**Company:** Amphenol-Air LB GmbH | **Source:** Arbeitnow | **Location:** Saarlouis
+### [Senior Product / UX Designer](https://www.arbeitnow.com/jobs/companies/glassflow/senior-product-ux-designer-berlin-169810)
+**Company:** GlassFlow | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Trainee im Vertrieb (m/w/d)](https://www.arbeitnow.com/jobs/companies/amphenol-air-lb-gmbh/trainee-im-vertrieb-saarlouis-380120)
-**Company:** Amphenol-Air LB GmbH | **Source:** Arbeitnow | **Location:** Saarlouis
+### [Senior UX Designer - Star Trek Fleet Command](https://www.arbeitnow.co.uk/jobs/companies/scopely/senior-ux-designer-star-trek-fleet-command-44617)
+**Company:** Scopely | **Source:** Arbeitnow | **Location:** Remote
+
+### [Talent Acquisition- Maternity Cover](https://www.arbeitnow.co.uk/jobs/companies/inditex/talent-acquisition-maternity-cover-london-393578)
+**Company:** INDITEX | **Source:** Arbeitnow | **Location:** LONDON, Greater London, United Kingdom
+
+### [Lead UI Designer](https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/lead-ui-designer-london-manchester-399147)
+**Company:** Vmlenterprisesolutions | **Source:** Arbeitnow | **Location:** London; Manchester
+
+### [Senior Frontend Engineer (m/f/d)](https://www.arbeitnow.co.uk/jobs/companies/quantum-systems-gmbh/senior-frontend-engineer-london-291782)
+**Company:** Quantum-Systems GmbH | **Source:** Arbeitnow | **Location:** London, Greater London, United Kingdom
 
 ### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Mexico)](https://jobicy.com/jobs/152377-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-mexico)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** Mexico
 
 ### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Brazil)](https://jobicy.com/jobs/152372-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-brazil)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** Brazil
-
-### [Linux devices software engineer - snapd](https://jobicy.com/jobs/149969-linux-devices-software-engineer-snapd)
-**Company:** Canonical | **Source:** Jobicy | **Location:** EMEA,  LATAM,  Canada,  USA
-
-### [Ubuntu Linux Kernel Engineer - BIOS/Firmware](https://jobicy.com/jobs/149940-ubuntu-linux-kernel-engineer-bios-firmware)
-**Company:** Canonical | **Source:** Jobicy | **Location:** APAC
 
 ### [Commercial Building Estimator](https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228)
 **Company:** Complex Co. | **Source:** RemoteOK | **Location:** Canberra, 
@@ -42,13 +45,4 @@
 
 ### [Equipment Maintenance](https://remoteOK.com/remote-jobs/remote-equipment-maintenance-jd-com-1137151)
 **Company:** JD.COM | **Source:** RemoteOK | **Location:** Lutterworth, 
-
-### [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138)
-**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136)
-**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
-### [UX/AI Design Contractor](undefined)
-**Company:** O3 World | **Source:** Himalayas | **Location:** Worldwide
 
