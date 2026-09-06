@@ -1,29 +1,44 @@
-# Daily Remote Front-End Jobs Digest (2026-09-05)
+# Daily Remote Front-End Jobs Digest (2026-09-06)
 
-*Total Matching Roles Found: 13*
+*Total Matching Roles Found: 17*
 
 ---
 
-### [Werkstudent:in (m/w/d) Recruiting & Employer Branding](https://www.arbeitnow.com/jobs/companies/empit/werkstudentin-recruiting-employer-branding-hamburg-446191)
-**Company:** Empit | **Source:** Arbeitnow | **Location:** Hamburg
+### [User Acquisition Manager (Radiotech)](https://www.arbeitnow.fr/jobs/companies/gismart/remote-user-acquisition-manager-radiotech-407234)
+**Company:** Gismart | **Source:** Arbeitnow | **Location:** Remote
 
-### [FullStack Engineer - Prospect UI Solutions](https://www.arbeitnow.com/jobs/companies/constructor/fullstack-engineer-prospect-ui-solutions-munich-415043)
-**Company:** Constructor | **Source:** Arbeitnow | **Location:** Remote
+### [Fluidic System Engineer / Architect (m/f/d)](https://www.arbeitnow.com/jobs/companies/deltavision/fluidic-system-engineer-architect-munchen-235120)
+**Company:** Deltavision | **Source:** Arbeitnow | **Location:** München
 
-### [Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform](https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-383536)
-**Company:** Headsquare Gmbh | **Source:** Arbeitnow | **Location:** München
+### [Recruiter (Research)](https://www.arbeitnow.fr/jobs/companies/whitecircle/remote-recruiter-research-108565)
+**Company:** Whitecircle | **Source:** Arbeitnow | **Location:** Remote
+
+### [Software Engineer - AI Platform (Frontend)](https://www.arbeitnow.fr/jobs/companies/dilitrust/software-engineer-ai-platform-frontend-paris-la-defense-30686)
+**Company:** DiliTrust | **Source:** Arbeitnow | **Location:** Paris - La Défense
+
+### [Senior Bid & Pursuit Manager / Proposal Manager (m/w/d) – Cloud, Data & AI Consulting](https://www.arbeitnow.com/jobs/companies/synvert/senior-bid-pursuit-manager-proposal-manager-cloud-data-ai-consulting-hamburg-258249)
+**Company:** Synvert | **Source:** Arbeitnow | **Location:** Hamburg
+
+### [(Senior) Software Developer Frontend / React (m/w/d)](https://www.arbeitnow.com/jobs/companies/athereon/senior-software-developer-frontend-react-saarbrucken-42438)
+**Company:** Athereon | **Source:** Arbeitnow | **Location:** Saarbrücken
+
+### [Talent Acquisition Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/feld-energy/talent-acquisition-manager-office-munchen-419040)
+**Company:** Feld Energy | **Source:** Arbeitnow | **Location:** Office München
+
+### [Senior Frontend Engineer - London](https://www.arbeitnow.co.uk/jobs/companies/perk/senior-frontend-engineer-london-423081)
+**Company:** Perk | **Source:** Arbeitnow | **Location:** London
+
+### [Senior Full-Stack Engineer (all genders) | Backend or Frontend Focus](https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-full-stack-engineer-all-genders-backend-or-frontend-focus-485295)
+**Company:** Real Digital | **Source:** Arbeitnow | **Location:** Remote oder Köln / Darmstadt / Düsseldorf / Berlin
+
+### [(Senior) UX Researcher (all genders)](https://www.arbeitnow.com/jobs/companies/real-digital/remote-senior-ux-researcher-all-genders-453027)
+**Company:** Real Digital | **Source:** Arbeitnow | **Location:** Remote oder Köln / Darmstadt / Düsseldorf / Berlin
+
+### [Senior Recruiter, GTM, EMEA](https://www.arbeitnow.co.uk/jobs/companies/coreweaveu/senior-recruiter-gtm-emea-london-399572)
+**Company:** Coreweaveu | **Source:** Arbeitnow | **Location:** London
 
 ### [Senior GTM System Builder](https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-gtm-system-builder-115485)
 **Company:** mewssystems | **Source:** Arbeitnow | **Location:** Remote
-
-### [Client Partner - Deliveroo for Work](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/client-partner-deliveroo-for-work-london-318242)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
-
-### [Strategy & Operations Manager, Subscription Value Prop & New Benefits](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/strategy-operations-manager-subscription-value-prop-new-benefits-london-439512)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
-
-### [Rider Support Representative](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/rider-support-representative-london-306925)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
 
 ### [Staff Software Engineer- UI Foundations Team](https://jobicy.com/jobs/152550-staff-software-engineer-ui-foundations-team)
 **Company:** Amplitude | **Source:** Jobicy | **Location:** USA
@@ -33,9 +48,6 @@
 
 ### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Mexico)](https://jobicy.com/jobs/152377-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-mexico)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** Mexico
-
-### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - Brazil)](https://jobicy.com/jobs/152372-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-brazil)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** Brazil
 
 ### [Commercial Building Estimator](https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228)
 **Company:** Complex Co. | **Source:** RemoteOK | **Location:** Canberra, 
