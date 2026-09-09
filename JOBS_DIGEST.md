@@ -1,68 +1,86 @@
-# Daily Remote Front-End Jobs Digest (2026-09-08)
+# Daily Remote Front-End Jobs Digest (2026-09-09)
 
-*Total Matching Roles Found: 28*
+*Total Matching Roles Found: 33*
 
 ---
 
-### [Senior AI Enabled Product Engineer — Frontend Focus (f/m/d)](https://www.arbeitnow.com/jobs/companies/good-hood-gmbh/senior-ai-enabled-product-engineer-frontend-focus-berlin-271151)
-**Company:** Good Hood Gmbh | **Source:** Arbeitnow | **Location:** Berlin
+### [Working Student in Building Energy & Software Development](https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/working-student-in-building-energy-software-development-freiburg-im-breisgau-243409)
+**Company:** greenventory GmbH | **Source:** Arbeitnow | **Location:** Freiburg im Breisgau
 
-### [Freelancer im Social Recruiting mit Meta / Facebook Ad Media Buying Erfahrung (m/w/d) im E-Commerce - 100% remote - von zu Hause](https://www.arbeitnow.com/jobs/companies/hommel-hired/freelancer-im-social-recruiting-mit-meta-facebook-ad-media-buying-erfahrung-im-e-commerce-100-remote-von-zu-hause-munich-224625)
-**Company:** Hommel Hired | **Source:** Arbeitnow | **Location:** Munich
+### [Software Engineer, Data Infrastructure & Acquisition - Toulouse, France](https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-toulouse-france-374302)
+**Company:** speechify | **Source:** Arbeitnow | **Location:** Toulouse
 
-### [AI Product Builder (m/w/d) Vibe Coding Bootcamp](https://www.arbeitnow.com/jobs/companies/digitale-leute-school/ai-product-builder-vibe-coding-bootcamp-munich-66960)
-**Company:** Digitale Leute School | **Source:** Arbeitnow | **Location:** Munich
+### [Senior Software Engineer, Windows/Desktop Applications - Bordeaux, France](https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bordeaux-france-337689)
+**Company:** speechify | **Source:** Arbeitnow | **Location:** Bordeaux
 
-### [SAP Senior Berater Finance & Controlling / FI-CO (m/w/d)](https://www.arbeitnow.com/jobs/companies/it-motive-ag/sap-senior-berater-finance-controlling-fi-co-duisburg-8019)
-**Company:** it-motive AG | **Source:** Arbeitnow | **Location:** Duisburg
+### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-218054)
+**Company:** mirakl | **Source:** Arbeitnow | **Location:** Bordeaux
 
-### [Senior Rider Onboarding Associate - (6 Months FTC)](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-rider-onboarding-associate-6-months-ftc-london-481994)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-281910)
+**Company:** mirakl | **Source:** Arbeitnow | **Location:** Bordeaux
 
-### [Senior Product Manager, Core People Technology](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-product-manager-core-people-technology-london-277821)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Senior Backend Engineer (Python & TypeScript, Microservices & Data Pipelines)](https://www.arbeitnow.com/jobs/companies/equimatch-gmbh/senior-backend-engineer-python-typescript-microservices-data-pipelines-berlin-484090)
+**Company:** EquiMatch GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior software engineer (Node.js/TypeScript)](https://www.arbeitnow.co.uk/jobs/companies/seccl/senior-software-engineer-nodejs-typescript-london-160643)
-**Company:** Seccl | **Source:** Arbeitnow | **Location:** London
+### [Software Engineer, Data Infrastructure & Acquisition - Toulouse, France](https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-toulouse-france-308687)
+**Company:** Speechify | **Source:** Arbeitnow | **Location:** Toulouse, France
 
-### [Senior Software Engineer - Distributed Systems](https://www.arbeitnow.fr/jobs/companies/datadog/senior-software-engineer-distributed-systems-bordeaux-grenoble-lyon-montpellier-nantes-paris-sophia-antipolis-53740)
-**Company:** Datadog | **Source:** Arbeitnow | **Location:** Bordeaux; Grenoble; Lyon; Montpellier; Nantes; Paris; Sophia Antipolis
+### [Senior Software Engineer, Windows/Desktop Applications - Bordeaux, France](https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bordeaux-france-372917)
+**Company:** Speechify | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
-### [Front-end Engineer](https://www.arbeitnow.fr/jobs/companies/comand-ai/front-end-engineer-paris-89929)
-**Company:** Comand Ai | **Source:** Arbeitnow | **Location:** Paris
+### [Senior Full Stack Engineer — TypeScript / Next.js (100%, m/f/d)](https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-29187)
+**Company:** LeaseTeq | **Source:** Arbeitnow | **Location:** LTQ-DE | Berlin
 
-### [Marketing Acquisition Lead - Credit Compass](https://www.arbeitnow.co.uk/jobs/companies/iwoca/marketing-acquisition-lead-credit-compass-london-283073)
-**Company:** iwoca | **Source:** Arbeitnow | **Location:** London
+### [Talente finden. Teams stärken. – Werkstudent*in Recruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/teamzukunft-ggmbh/talente-finden-teams-starken-werkstudentin-recruiting-koln-280537)
+**Company:** teamZUKUNFT gGmbH | **Source:** Arbeitnow | **Location:** Köln
 
-### [Principal AI Engineer](https://www.arbeitnow.fr/jobs/companies/mirakllabs/principal-ai-engineer-bordeaux-34460)
-**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
+### [Bauingenieur Siedlungswasserwirtschaft (m/w/d)](https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/bauingenieur-siedlungswasserwirtschaft-traunreut-474687)
+**Company:** PolyTALENT GmbH | **Source:** Arbeitnow | **Location:** Traunreut
 
-### [Principal AI Engineer](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/principal-ai-engineer-bordeaux-164162)
-**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, France
+### [Architekt / Bauingenieur mit Projektverantwortung (m/w/d)](https://www.arbeitnow.com/jobs/companies/polytalent-gmbh/architekt-bauingenieur-mit-projektverantwortung-dortmund-412127)
+**Company:** PolyTALENT GmbH | **Source:** Arbeitnow | **Location:** Dortmund
 
-### [Senior Full-Stack Engineer (Backend + Frontend)](https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-full-stack-engineer-backend-frontend-france-245440)
-**Company:** Soda Data Nv | **Source:** Arbeitnow | **Location:** France
+### [Financial Planning & Analysis Intern](https://www.arbeitnow.fr/jobs/companies/backmarket/financial-planning-analysis-intern-bordeaux-450504)
+**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Bordeaux
 
-### [Senior Frontend Engineer (Full-stack)](https://www.arbeitnow.fr/jobs/companies/soda-data-nv/remote-senior-frontend-engineer-full-stack-france-447542)
-**Company:** Soda Data Nv | **Source:** Arbeitnow | **Location:** France
+### [Software Developer (Junior): TypeScript & Groovy (m/w/d)](https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-essen-148110)
+**Company:** MESKRU GmbH | **Source:** Arbeitnow | **Location:** Essen
 
-### [Product Manager - Financial Services](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/product-manager-financial-services-bordeaux-56704)
-**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, France
+### [Software Developer (Junior): TypeScript & Groovy (m/w/d)](https://www.arbeitnow.com/jobs/companies/meskru-gmbh/software-developer-junior-typescript-groovy-munich-268785)
+**Company:** MESKRU GmbH | **Source:** Arbeitnow | **Location:** Munich
 
-### [Talent Acquisition French Fluency: France](https://www.arbeitnow.fr/jobs/companies/avomind/remote-talent-acquisition-french-fluency-france-59684)
-**Company:** Avomind | **Source:** Arbeitnow | **Location:** France
+### [Software Engineer, Data Infrastructure & Acquisition - Düsseldorf, Germany](https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-dusseldorf-germany-dusseldorf-101145)
+**Company:** Speechify | **Source:** Arbeitnow | **Location:** Dusseldorf, North Rhine-Westphalia, Germany
+
+### [Software Engineer, Data Infrastructure & Acquisition - Stuttgart, Germany](https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-stuttgart-germany-292139)
+**Company:** Speechify | **Source:** Arbeitnow | **Location:** Stuttgart, Baden-Württemberg, Germany
+
+### [Senior Strategic Project Manager (Relocation to Luxembourg)](https://www.arbeitnow.co.uk/jobs/companies/satispay/senior-strategic-project-manager-relocation-to-luxembourg-london-442455)
+**Company:** Satispay | **Source:** Arbeitnow | **Location:** UK, London
+
+### [Senior Revenue Ops](https://www.arbeitnow.fr/jobs/companies/alan/senior-revenue-ops-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-madrid-spain-67214)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain
+
+### [Paris Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/paris-account-executive-recruitment-day-paris-france-208802)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France
+
+### [Bordeaux Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/bordeaux-account-executive-recruitment-day-bordeaux-france-402641)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Bordeaux, France
+
+### [Partnership Manager - Accountant Sector](https://www.arbeitnow.fr/jobs/companies/alan/partnership-manager-accountant-sector-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-fr-117354)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+
+### [Account Executive 🇫🇷 (Mid-market)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-mid-market-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-dijon-france-annecy-france-446074)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France; Dijon, France; Annecy, France
+
+### [Account Executive 🇫🇷 (Small Businesses)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-small-businesses-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-fr-347609)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+
+### [Sales Graduate Program Recruitment Day (Paris) 💫](https://www.arbeitnow.fr/jobs/companies/alan/sales-graduate-program-recruitment-day-paris-paris-france-407503)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France
 
 ### [Engineering Manager - Linux Hardware Enablement](https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement)
 **Company:** Canonical | **Source:** Jobicy | **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
-
-### [Non-Linguistic QC (China / US Time Zone)](https://jobicy.com/jobs/150271-non-linguistic-qc-china-us-time-zone)
-**Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
-
-### [Supply Chain Quality Engineer - MAIT](https://www.arbeitnow.fr/jobs/companies/the-exploration-company/supply-chain-quality-engineer-mait-bordeaux-313589)
-**Company:** The Exploration Company | **Source:** Arbeitnow | **Location:** Bordeaux, France
-
-### [Recruitment Sourcer](https://www.arbeitnow.fr/jobs/companies/scorewarrior/remote-recruitment-sourcer-302296)
-**Company:** Scorewarrior | **Source:** Arbeitnow | **Location:** Remote
 
 ### [Staff Frontend Engineer](https://jobicy.com/jobs/152644-staff-frontend-engineer)
 **Company:** ClickUp | **Source:** Jobicy | **Location:** Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine
@@ -76,15 +94,12 @@
 ### [Staff Software Engineer- UI Foundations Team](https://jobicy.com/jobs/152550-staff-software-engineer-ui-foundations-team)
 **Company:** Amplitude | **Source:** Jobicy | **Location:** USA
 
-### [Senior Software Engineer, Frontend](https://jobicy.com/jobs/152539-senior-software-engineer-frontend)
-**Company:** Phantom | **Source:** Jobicy | **Location:** LATAM,  Canada,  Europe,  USA
-
 ### [Commercial Building Estimator](https://remoteOK.com/remote-jobs/remote-commercial-building-estimator-complex-co-1137228)
 **Company:** Complex Co. | **Source:** RemoteOK | **Location:** Canberra, 
 
 ### [Building Maintenance Technician](https://remoteOK.com/remote-jobs/remote-building-maintenance-technician-dart-1137212)
 **Company:** Dart | **Source:** RemoteOK | **Location:** George Town, 
 
-### [&#x28;Senior&#x29; IT Recruiter - USD - Contractor - Full remote](undefined)
-**Company:** goPro Consultancy Group ltd. | **Source:** Himalayas | **Location:** Worldwide
+### [Full Stack and Backend NodeJS TypeScript/JavaScript Engineer (Senior) - Remote, ](undefined)
+**Company:** Bluelight Consulting | **Source:** Himalayas | **Location:** Worldwide
 
