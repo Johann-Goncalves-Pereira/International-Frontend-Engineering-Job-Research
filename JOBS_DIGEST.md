@@ -1,83 +1,80 @@
-# Daily Remote Front-End Jobs Digest (2026-09-11)
+# Daily Remote Front-End Jobs Digest (2026-09-12)
 
-*Total Matching Roles Found: 29*
+*Total Matching Roles Found: 28*
 
 ---
 
-### [Senior IT Systems Engineer (Linux) (w/m/d)](https://www.arbeitnow.com/jobs/companies/noris-network-ag/senior-it-systems-engineer-linux-nuremberg-423883)
-**Company:** noris network AG | **Source:** Arbeitnow | **Location:** Nuremberg
+### [Senior Recruiting Coordinator [fixed-term contract]](https://www.arbeitnow.co.uk/jobs/companies/anthropic/senior-recruiting-coordinator-fixed-term-contract-london-199173)
+**Company:** anthropic | **Source:** Arbeitnow | **Location:** London
 
-### [Talent Acquisition Manager @AI-Native Executive Search](https://www.arbeitnow.com/jobs/companies/top-line-advisory/talent-acquisition-manager-at-ai-native-executive-search-berlin-146771)
-**Company:** Top Line Advisory | **Source:** Arbeitnow | **Location:** Berlin
+### [FinCrime AML/CTF Manager (Relocation to Luxembourg)](https://www.arbeitnow.co.uk/jobs/companies/satispay/fincrime-aml-ctf-manager-relocation-to-luxembourg-london-61965)
+**Company:** Satispay | **Source:** Arbeitnow | **Location:** UK, London
 
-### [UI / UX Designer TEAMBOX (m/w/d) - Hamburg](https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-teambox-hamburg-312888)
-**Company:** everii Group GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+### [Performance Marketing Working Student – Talent Acquisition ](https://www.arbeitnow.com/jobs/companies/sumup/performance-marketing-working-student-talent-acquisition-berlin-134090)
+**Company:** sumup | **Source:** Arbeitnow | **Location:** Berlin
 
-### [UI / UX Designer untermStrich (m/w/d) - Hamburg](https://www.arbeitnow.com/jobs/companies/everii-group-gmbh/ui-ux-designer-untermstrich-hamburg-403191)
-**Company:** everii Group GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+### [Product Owner (all genders) - Management Suite Tribe](https://www.arbeitnow.com/jobs/companies/baramundi-software-ag/product-owner-all-genders-management-suite-tribe-augsburg-350896)
+**Company:** Baramundi Software Ag | **Source:** Arbeitnow | **Location:** Augsburg
 
-### [Senior National Account Manager](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-national-account-manager-london-1450)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Chef d'équipe logistique H/F /X -CDI](https://www.arbeitnow.fr/jobs/companies/veepee/chef-dequipe-logistique-h-f-x-cdi-le-thillay-20583)
+**Company:** Veepee | **Source:** Arbeitnow | **Location:** Le Thillay
 
-### [Finance Manager - 12-month FTC](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/finance-manager-12-month-ftc-london-253480)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Freelance Principal Recruiter](https://www.arbeitnow.com/jobs/companies/typeform/freelance-principal-recruiter-1038)
+**Company:** typeform | **Source:** Arbeitnow | **Location:** Remote
 
-### [Global Advertising Manager](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/global-advertising-manager-london-494321)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-356704)
+**Company:** Mirakl | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
-### [Corporate Sales Team Lead](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/corporate-sales-team-lead-london-359909)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-392955)
+**Company:** Mirakl | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
-### [Corporate Commercial Manager](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/corporate-commercial-manager-london-249107)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Juriste stagiaire - stage de janvier à juillet 2027](https://www.arbeitnow.fr/jobs/companies/doctrine/juriste-stagiaire-stage-de-janvier-a-juillet-2027-paris-288274)
+**Company:** Doctrine | **Source:** Arbeitnow | **Location:** Paris
 
-### [Senior Finance Manager](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-finance-manager-london-167096)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London - The River Building HQ
+### [Senior / Principal Talent Acquisition Partner](https://www.arbeitnow.com/jobs/companies/celonis/senior-principal-talent-acquisition-partner-munich-32396)
+**Company:** celonis | **Source:** Arbeitnow | **Location:** Munich
 
-### [Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/bjak/frontend-engineer-london-303387)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Software Engineer Linux OS (m/w/d)](https://www.arbeitnow.com/jobs/companies/smight-gmbh/software-engineer-linux-os-karlsruhe-193682)
+**Company:** Smight Gmbh | **Source:** Arbeitnow | **Location:** Karlsruhe
 
-### [Développement Fullstack Java / Vue.js (dominante Back) Sénior (METZ - FR)](https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-back-senior-metz-fr-194613)
-**Company:** AUBAY S.A. | **Source:** Arbeitnow | **Location:** METZ, Grand Est, France
+### [Senior Talent Acquisition Manager (m/f/d)](https://www.arbeitnow.com/jobs/companies/yoummday-gmbh/senior-talent-acquisition-manager-munchen-308132)
+**Company:** Yoummday GmbH | **Source:** Arbeitnow | **Location:** München
 
-### [Développement Fullstack Java / Vue.js (dominante Front) Sénior (METZ - FR)](https://www.arbeitnow.fr/jobs/companies/aubay-sa/developpement-fullstack-java-vuejs-dominante-front-senior-metz-fr-407265)
-**Company:** AUBAY S.A. | **Source:** Arbeitnow | **Location:** METZ, Grand Est, France
+### [Stagiaire en appui communication et pilotage de projet - 2 mois](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stagiaire-en-appui-communication-et-pilotage-de-projet-2-mois-palaiseau-234686)
+**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** Palaiseau, Île-de-France, France
 
-### [Stage Master 2 : Elaboration de panneaux biosourcés à base de pailles](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/stage-master-2-elaboration-de-panneaux-biosources-a-base-de-pailles-ales-447852)
-**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** Alès, Occitanie, France
+### [STAGE - Assistant Chef de Produit Poker (H/F)](https://www.arbeitnow.fr/jobs/companies/winamax/stage-assistant-chef-de-produit-poker-h-f-paris-20317)
+**Company:** WINAMAX | **Source:** Arbeitnow | **Location:** Paris
+
+### [STAGE - Assistant Chef de Produit Offre Poker (H/F)](https://www.arbeitnow.fr/jobs/companies/winamax/stage-assistant-chef-de-produit-offre-poker-h-f-paris-380598)
+**Company:** WINAMAX | **Source:** Arbeitnow | **Location:** Paris
+
+### [UX/UI Designer | Intch](https://www.arbeitnow.co.uk/jobs/companies/hirehire/remote-ux-ui-designer-intch-188753)
+**Company:** Hirehire | **Source:** Arbeitnow | **Location:** Remote
+
+### [Inbound Sales 🇫🇷](https://www.arbeitnow.fr/jobs/companies/alan/inbound-sales-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-397069)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France
+
+### [Key Account Manager](https://www.arbeitnow.fr/jobs/companies/alan/key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-53536)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Marseille, France; Annecy, France
+
+### [Ingénieur Réseaux Sécurité support L3 Palo Alto](https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-securite-support-l3-palo-alto-boulogne-billancourt-295622)
+**Company:** Nomios | **Source:** Arbeitnow | **Location:** Boulogne Billancourt, Île-de-France, France
+
+### [Ingénieur Réseaux et Sécurité [P100506]](https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-et-securite-p100506-boulogne-billancourt-165746)
+**Company:** Nomios | **Source:** Arbeitnow | **Location:** Boulogne Billancourt, Île-de-France, France
+
+### [Senior Talent Acquisition Partner, Engineering](https://www.arbeitnow.co.uk/jobs/companies/legora/senior-talent-acquisition-partner-engineering-london-226745)
+**Company:** Legora | **Source:** Arbeitnow | **Location:** London
+
+### [CENTRALE LYON - Post-Doctoral Position Ferroelectric-Based Ternary Computing: From Circuit Design to System-Level Integration Scientific Context](https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-post-doctoral-position-ferroelectric-based-ternary-computing-from-circuit-design-to-system-level-integration-scientific-context-ecull-223419)
+**Company:** CENTRALE LYON | **Source:** Arbeitnow | **Location:** Ecully, Auvergne-Rhône-Alpes, France
 
 ### [Frontend Engineer React and AWS](https://jobicy.com/jobs/145744-frontend-engineer-react-and-aws)
 **Company:** Numentica | **Source:** Jobicy | **Location:** USA
 
 ### [Embedded Linux Consultant - Japan](https://jobicy.com/jobs/150361-embedded-linux-consultant-japan)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Japan
-
-### [Software Engineer, Data Infrastructure & Acquisition - Toulouse, France](https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-toulouse-france-374302)
-**Company:** speechify | **Source:** Arbeitnow | **Location:** Toulouse
-
-### [Senior Software Engineer, Windows/Desktop Applications - Bordeaux, France](https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bordeaux-france-337689)
-**Company:** speechify | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-218054)
-**Company:** mirakl | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakl/engineering-manager-java-bordeaux-281910)
-**Company:** mirakl | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Software Engineer, Data Infrastructure & Acquisition - Toulouse, France](https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-toulouse-france-308687)
-**Company:** Speechify | **Source:** Arbeitnow | **Location:** Toulouse, France
-
-### [Senior Software Engineer, Windows/Desktop Applications - Bordeaux, France](https://www.arbeitnow.fr/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-bordeaux-france-372917)
-**Company:** Speechify | **Source:** Arbeitnow | **Location:** Bordeaux, France
-
-### [Engineering Manager - Linux Hardware Enablement](https://jobicy.com/jobs/148702-engineering-manager-linux-hardware-enablement)
-**Company:** Canonical | **Source:** Jobicy | **Location:** APAC,  EMEA,  LATAM,  Canada,  USA
-
-### [Staff Frontend Engineer](https://jobicy.com/jobs/152644-staff-frontend-engineer)
-**Company:** ClickUp | **Source:** Jobicy | **Location:** Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine
-
-### [Senior Frontend Engineer](https://jobicy.com/jobs/152642-senior-frontend-engineer-2)
-**Company:** ClickUp | **Source:** Jobicy | **Location:** Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine
 
 ### [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138)
 **Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
@@ -88,6 +85,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Independent Manufacturer Representative – Building Envelope Systems](undefined)
-**Company:** Nexii Building Solutions Inc. | **Source:** Himalayas | **Location:** Worldwide
+### [Storyous Product Designer (UX/UI)](undefined)
+**Company:** Teya | **Source:** Himalayas | **Location:** Worldwide
 
