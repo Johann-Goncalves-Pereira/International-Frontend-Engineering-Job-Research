@@ -1,68 +1,53 @@
-# Daily Remote Front-End Jobs Digest (2026-09-15)
+# Daily Remote Front-End Jobs Digest (2026-09-16)
 
-*Total Matching Roles Found: 24*
+*Total Matching Roles Found: 19*
 
 ---
+
+### [Lead UX/UI Designer - CLM](https://www.arbeitnow.co.uk/jobs/companies/delta-capita/lead-ux-ui-designer-clm-london-23857)
+**Company:** Delta Capita | **Source:** Arbeitnow | **Location:** London, Greater London, United Kingdom
+
+### [Product Engineer - Frontend (all genders)](https://www.arbeitnow.com/jobs/companies/koppla/product-engineer-frontend-all-genders-berlin-hybrid-359575)
+**Company:** Koppla | **Source:** Arbeitnow | **Location:** Berlin (hybrid)
+
+### [Geschäftsführer (m/w/d) Private Equity Portfoliounternehmen](https://www.arbeitnow.com/jobs/companies/aventur-family-office-gmbh/geschaftsfuhrer-private-equity-portfoliounternehmen-munich-378988)
+**Company:** Aventur Family Office GmbH | **Source:** Arbeitnow | **Location:** Munich
+
+### [Senior Full-stack Engineer (Elixir/React) – veterinary software company - (Remote - LATAM)](https://jobicy.com/jobs/146276-senior-full-stack-engineer-elixir-react-veterinary-software-company-remote-latam)
+**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
+
+### [Global VP, Talent Acquisition](https://www.arbeitnow.fr/jobs/companies/sidetrade/global-vp-talent-acquisition-paris-399953)
+**Company:** Sidetrade | **Source:** Arbeitnow | **Location:** Paris, France
+
+### [Engineering Manager - Java](https://www.arbeitnow.fr/jobs/companies/mirakllabs/engineering-manager-java-bordeaux-12060)
+**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
+
+### [Senior Revenue Ops](https://www.arbeitnow.fr/jobs/companies/alan/senior-revenue-ops-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-madrid-spain-91781)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain
+
+### [Paris Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/paris-account-executive-recruitment-day-paris-france-134647)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France
+
+### [Account Executive 🇫🇷 (Small Businesses)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-small-businesses-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-fr-198416)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+
+### [Key Account Manager](https://www.arbeitnow.fr/jobs/companies/alan/key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-215261)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Marseille, France; Annecy, France
+
+### [Account Executive 🇫🇷 (Mid-market)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-mid-market-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-dijon-france-annecy-france-492041)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France; Dijon, France; Annecy, France
+
+### [Bordeaux Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/bordeaux-account-executive-recruitment-day-bordeaux-france-25114)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
 ### [Senior Fullstack TypeScript Developer (Product Engineer)](https://www.arbeitnow.fr/jobs/companies/lemlist/senior-fullstack-typescript-developer-product-engineer-nantes-387941)
 **Company:** Lemlist | **Source:** Arbeitnow | **Location:** Nantes
 
-### [Senior Full Stack Engineer - Frontend Architecture - AdManager](https://www.arbeitnow.fr/jobs/companies/vibe/senior-full-stack-engineer-frontend-architecture-admanager-paris-371993)
-**Company:** Vibe | **Source:** Arbeitnow | **Location:** Paris
-
-### [Talent Acquisition Partner - French Speaker](https://www.arbeitnow.co.uk/jobs/companies/kaluza/talent-acquisition-partner-french-speaker-bristol-london-188578)
-**Company:** Kaluza | **Source:** Arbeitnow | **Location:** Bristol; London
-
-### [Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/monzo/technical-recruiter-cardiff-484696)
-**Company:** Monzo | **Source:** Arbeitnow | **Location:** Cardiff
-
-### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/listenlabs/senior-recruiter-london-481722)
-**Company:** Listenlabs | **Source:** Arbeitnow | **Location:** London, UK
-
-### [Sales Recruiter (Contractor)](https://www.arbeitnow.co.uk/jobs/companies/listenlabs/remote-sales-recruiter-contractor-171878)
-**Company:** Listenlabs | **Source:** Arbeitnow | **Location:** Remote
-
-### [Frontend Developer (m/w/x)](https://www.arbeitnow.com/jobs/companies/k-tronik-gmbh/frontend-developer-nuremberg-278828)
-**Company:** K-tronik GmbH | **Source:** Arbeitnow | **Location:** Nuremberg
-
-### [Talent Acquisition Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/aramaz-digital/talent-acquisition-manager-bielefeld-95820)
-**Company:** Aramaz Digital | **Source:** Arbeitnow | **Location:** Bielefeld, Nordrhein-Westfalen, Deutschland
-
-### [Fluidic System Engineer / Architect (m/f/d)](https://www.arbeitnow.com/jobs/companies/deltavision/fluidic-system-engineer-architect-munchen-441769)
-**Company:** Deltavision | **Source:** Arbeitnow | **Location:** München
-
-### [Customer Success Manager Grands Comptes - Cabinets comptables H/F (en télétravail depuis Rennes)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/customer-success-manager-grands-comptes-cabinets-comptables-h-f-en-teletravail-depuis-rennes-470283)
-**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Rennes
-
-### [Customer Success Manager Grands Comptes - Cabinets comptables H/F (en télétravail depuis Nantes)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/customer-success-manager-grands-comptes-cabinets-comptables-h-f-en-teletravail-depuis-nantes-155478)
-**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Nantes
-
-### [STAGE Fullstack - Socle générique de mini jeux temps réel (H/F)](https://www.arbeitnow.fr/jobs/companies/winamax/stage-fullstack-socle-generique-de-mini-jeux-temps-reel-h-f-france-57146)
-**Company:** WINAMAX | **Source:** Arbeitnow | **Location:** France
-
-### [STAGE  Backend - Pilotage des flux de paiement (H/F)](https://www.arbeitnow.fr/jobs/companies/winamax/stage-backend-pilotage-des-flux-de-paiement-h-f-france-60590)
-**Company:** WINAMAX | **Source:** Arbeitnow | **Location:** France
-
-### [Talent Acquisition Manager GTM](https://www.arbeitnow.fr/jobs/companies/pigment/talent-acquisition-manager-gtm-france-207476)
-**Company:** Pigment | **Source:** Arbeitnow | **Location:** France
-
 ### [Senior Frontend Software Engineer (AI Receptionist)](https://jobicy.com/jobs/153297-senior-frontend-software-engineer-ai-receptionist)
 **Company:** Cresta | **Source:** Jobicy | **Location:** Canada,  USA
 
-### [Senior Software Engineer](https://www.arbeitnow.fr/jobs/companies/pqshield/senior-software-engineer-uk-netherlands-spain-or-belgium-some-travel-to-our-offices-will-be-required-from-time-to-time-422719)
-**Company:** Pqshield | **Source:** Arbeitnow | **Location:** UK, Netherlands, Spain, or Belgium. Some travel to our offices will be required from time-to-time
-
 ### [Ubuntu Linux Kernel Test Engineer](https://jobicy.com/jobs/145995-ubuntu-linux-kernel-test-engineer)
 **Company:** Canonical | **Source:** Jobicy | **Location:** APAC,  China
-
-### [Développeur C# confirmé H/F - ASP.NET / React](https://www.arbeitnow.fr/jobs/companies/valsoft-corp/developpeur-c-confirme-h-f-aspnet-react-nantes-214444)
-**Company:** Valsoft Corp | **Source:** Arbeitnow | **Location:** Nantes, France
-
-### [Stage - Assistant(e) Chef de Produit - Art de Vivre & Maison (H/F)](https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-assistante-chef-de-produit-art-de-vivre-maison-h-f-paris-304203)
-**Company:** Sezane 3 | **Source:** Arbeitnow | **Location:** Paris, France
-
-### [Software Engineer, Data Infrastructure & Acquisition - Paris, France](https://www.arbeitnow.fr/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-paris-france-105340)
-**Company:** speechify | **Source:** Arbeitnow | **Location:** Paris
 
 ### [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138)
 **Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
@@ -73,6 +58,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Executive Recruiter Health & Life Science (Contract)](undefined)
-**Company:** EXL | **Source:** Himalayas | **Location:** Worldwide
+### [Senior Product Manager, Remote Build](undefined)
+**Company:** Remote | **Source:** Himalayas | **Location:** Worldwide
 
