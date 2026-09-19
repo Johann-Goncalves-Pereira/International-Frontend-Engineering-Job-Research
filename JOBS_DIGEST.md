@@ -1,59 +1,38 @@
-# Daily Remote Front-End Jobs Digest (2026-09-18)
+# Daily Remote Front-End Jobs Digest (2026-09-19)
 
-*Total Matching Roles Found: 22*
+*Total Matching Roles Found: 15*
 
 ---
 
-### [Freelancer Senior Mobile Engineer (React Native, Expo, TypeScript) m/w/d](https://www.arbeitnow.com/jobs/companies/easybill-gmbh/freelancer-senior-mobile-engineer-react-native-expo-typescript-willich-320031)
-**Company:** easybill GmbH | **Source:** Arbeitnow | **Location:** Willich
+### [International Data Acquisition Manager](https://www.arbeitnow.co.uk/jobs/companies/socure/international-data-acquisition-manager-london-418759)
+**Company:** Socure | **Source:** Arbeitnow | **Location:** United Kingdom - Remote
 
-### [Senior Full Stack Engineer — TypeScript / Next.js (100%, m/f/d)](https://www.arbeitnow.com/jobs/companies/leaseteq/senior-full-stack-engineer-typescript-nextjs-100-ltq-de-berlin-241435)
-**Company:** LeaseTeq | **Source:** Arbeitnow | **Location:** LTQ-DE | Berlin
+### [Senior Staff UX Writer, International](https://www.arbeitnow.co.uk/jobs/companies/airbnb/senior-staff-ux-writer-international-london-438614)
+**Company:** airbnb | **Source:** Arbeitnow | **Location:** London
 
-### [Technical Product Owner – C++ SDK & ImFusion Suite](https://www.arbeitnow.com/jobs/companies/imfusion/technical-product-owner-c-sdk-imfusion-suite-munich-352852)
-**Company:** Imfusion | **Source:** Arbeitnow | **Location:** Munich
+### [Senior UICC/eUICC/eSIM Engineer](https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer)
+**Company:** emnify | **Source:** Jobicy | **Location:** Austria,  Germany,  Poland,  Switzerland
 
-### [Talente finden. Teams stärken. – Werkstudent*in Recruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/teamzukunft-ggmbh/talente-finden-teams-starken-werkstudentin-recruiting-koln-133220)
-**Company:** teamZUKUNFT gGmbH | **Source:** Arbeitnow | **Location:** Köln
+### [Finnish Tech Linguistic Tester](https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester)
+**Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
 
-### [Ingénieur Réseaux Sécurité support L2/L3 Palo Alto](https://www.arbeitnow.fr/jobs/companies/nomios/ingenieur-reseaux-securite-support-l2-l3-palo-alto-boulogne-billancourt-127405)
-**Company:** Nomios | **Source:** Arbeitnow | **Location:** Boulogne Billancourt, Île-de-France, France
+### [Talent Acquisition Manager | Tech (f/m/d)](https://www.arbeitnow.com/jobs/companies/bunch/talent-acquisition-manager-tech-berlin-74675)
+**Company:** bunch | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Internship - Hr & Talent Acquisition Specialist](https://www.arbeitnow.fr/jobs/companies/quandela/internship-hr-talent-acquisition-specialist-massy-435950)
-**Company:** Quandela | **Source:** Arbeitnow | **Location:** Massy, France
+### [(Senior) Full-Stack Engineer | Frontend-leaning | Platform Team (f/m/d) | Berlin](https://www.arbeitnow.com/jobs/companies/bunch/senior-full-stack-engineer-frontend-leaning-platform-team-berlin-362893)
+**Company:** bunch | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Front-End Web Specialist (12-month fixed term contract)](https://www.arbeitnow.co.uk/jobs/companies/perk/front-end-web-specialist-12-month-fixed-term-contract-london-100854)
-**Company:** Perk | **Source:** Arbeitnow | **Location:** London
+### [(Junior) Design Manager (all genders) – Luxury Retail](https://www.arbeitnow.com/jobs/companies/going-beyond-group-gmbh/junior-design-manager-all-genders-luxury-retail-stuttgart-71785)
+**Company:** Going Beyond Group GmbH | **Source:** Arbeitnow | **Location:** Stuttgart
 
-### [UX Content Designer Intern (UX copywriter)](https://www.arbeitnow.fr/jobs/companies/backmarket/ux-content-designer-intern-ux-copywriter-paris-494948)
-**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Paris
+### [Senior Fullstack Software Engineer (Ruby/React & TS)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/remote-senior-fullstack-software-engineer-ruby-react-ts-283957)
+**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Remote
 
-### [User Research UX Apprentice](https://www.arbeitnow.fr/jobs/companies/backmarket/user-research-ux-apprentice-bordeaux-189663)
-**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Bordeaux
+### [Responsable Relations Clients Entrepôts - Evreux](https://www.arbeitnow.fr/jobs/companies/bigblue/responsable-relations-clients-entrepots-evreux-465160)
+**Company:** Bigblue | **Source:** Arbeitnow | **Location:** Evreux
 
-### [Senior UX/UI Designer (CRO)](https://www.arbeitnow.co.uk/jobs/companies/vmlenterprisesolutions/senior-ux-ui-designer-cro-london-380148)
-**Company:** Vmlenterprisesolutions | **Source:** Arbeitnow | **Location:** London
-
-### [Senior Veterinary Surgeon - Small Animal](https://www.arbeitnow.co.uk/jobs/companies/ivcevidensia/senior-veterinary-surgeon-small-animal-guisborough-cleveland-england-429180)
-**Company:** Ivcevidensia | **Source:** Arbeitnow | **Location:** Guisborough, Cleveland, England
-
-### [Senior/Staff Frontend Engineer (React) - Remote Friendly](https://www.arbeitnow.fr/jobs/companies/qonto/senior-staff-frontend-engineer-react-remote-friendly-paris-473326)
-**Company:** Qonto | **Source:** Arbeitnow | **Location:** Paris
-
-### [Senior Engineering Manager - Multichannel Commerce](https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-multichannel-commerce-bordeaux-88903)
-**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Senior Engineering Manager - Marketplace](https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-marketplace-bordeaux-379671)
-**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Senior Engineering Manager Java](https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-java-bordeaux-71377)
-**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Senior Engineering Manager](https://www.arbeitnow.fr/jobs/companies/mirakllabs/senior-engineering-manager-bordeaux-95408)
-**Company:** mirakllabs | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [AI Engineer](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/ai-engineer-bordeaux-122993)
-**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, Gironde, France
+### [Front-end Engineer](https://www.arbeitnow.co.uk/jobs/companies/wppmedia/front-end-engineer-manchester-66098)
+**Company:** wppmedia | **Source:** Arbeitnow | **Location:** Manchester
 
 ### [Senior Full-stack Engineer (Python/React) - Advertising](https://jobicy.com/jobs/153536-senior-full-stack-engineer-python-react-advertising-2)
 **Company:** Truelogic | **Source:** Jobicy | **Location:** Brazil
@@ -67,6 +46,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Analyst, Performance Suite Analytics](undefined)
-**Company:** Evolent | **Source:** Himalayas | **Location:** Worldwide
+### [Embedded Linux Field Engineer for Devices/IoT](undefined)
+**Company:** Canonical | **Source:** Himalayas | **Location:** Worldwide
 
