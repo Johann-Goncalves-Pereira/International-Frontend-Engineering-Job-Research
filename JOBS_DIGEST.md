@@ -1,80 +1,83 @@
-# Daily Remote Front-End Jobs Digest (2026-09-22)
+# Daily Remote Front-End Jobs Digest (2026-09-23)
 
-*Total Matching Roles Found: 29*
+*Total Matching Roles Found: 30*
 
 ---
 
-### [Lead Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/lead-frontend-engineer-united-kingdom-99754)
-**Company:** Reactive Markets | **Source:** Arbeitnow | **Location:** Remote, UK
+### [PC-Monteur:in (Builder:in)](https://www.arbeitnow.com/jobs/companies/hanitel-gmbh/pc-monteurin-builderin-berlin-19106)
+**Company:** Hanitel GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/reactive-markets/senior-frontend-engineer-united-kingdom-233025)
-**Company:** Reactive Markets | **Source:** Arbeitnow | **Location:** Remote, UK
+### [Stage - Diagnostic territorial & stratégie d’implantation (H/F)](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/stage-diagnostic-territorial-strategie-dimplantation-h-f-montreuil-253943)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
 
-### [UX Designer, AI App](https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-ai-app-london-110621)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Gestionnaire expert comptable et financier H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/gestionnaire-expert-comptable-et-financier-h-f-montreuil-393774)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
 
-### [UX Designer](https://www.arbeitnow.co.uk/jobs/companies/bjak/ux-designer-london-108075)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Chef de service vie administrative, carrière et paie - 0827 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/chef-de-service-vie-administrative-carriere-et-paie-0827-h-f-limoges-297027)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
 
-### [Mobile UI Designer](https://www.arbeitnow.co.uk/jobs/companies/bjak/mobile-ui-designer-london-52335)
-**Company:** Bjak | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Gestionnaire d'application informatique - 0592 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/gestionnaire-dapplication-informatique-0592-h-f-montreuil-171782)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
 
-### [Senior Product Designer (UX/UI)](https://www.arbeitnow.com/jobs/companies/elearnio-gmbh/senior-product-designer-ux-ui-berlin-347982)
-**Company:** elearnio GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [Chargé d'un domaine spécifique RH auprès de la Directrice - 3947 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-dun-domaine-specifique-rh-aupres-de-la-directrice-3947-h-f-montreuil-247672)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
 
-### [HR Generalist (m/w/d) Schwerpunkt Recruiting](https://www.arbeitnow.com/jobs/companies/ehotel-ag/hr-generalist-schwerpunkt-recruiting-berlin-189230)
-**Company:** ehotel AG | **Source:** Arbeitnow | **Location:** Berlin
+### [Product owner - Politiques sociales H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/product-owner-politiques-sociales-h-f-limoges-481610)
+**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
 
-### [Praktikum UI/UX Design (m/w/d)](https://www.arbeitnow.com/jobs/companies/pangoon/praktikum-ui-ux-design-berlin-437991)
-**Company:** Pangoon | **Source:** Arbeitnow | **Location:** Berlin
+### [Administrateur Systèmes et Réseaux- projet IT (H/F) - CDI](https://www.arbeitnow.fr/jobs/companies/mistertemp-group/administrateur-systemes-et-reseaux-projet-it-h-f-cdi-clichy-126498)
+**Company:** Mistertemp' group | **Source:** Arbeitnow | **Location:** Clichy, Île-de-France, France
 
-### [Working Student Recruiting (m/f/d)](https://www.arbeitnow.com/jobs/companies/okapiorbits-gmbh/working-student-recruiting-brunswick-germany-81975)
-**Company:** OKAPI:Orbits GmbH | **Source:** Arbeitnow | **Location:** Brunswick (Germany)
+### [Product Builder (UI/UX Designer & Mobile App Developer) - (m/w/d)](https://www.arbeitnow.com/jobs/companies/luma-life/product-builder-ui-ux-designer-mobile-app-developer-hamburg-353211)
+**Company:** Luma Life | **Source:** Arbeitnow | **Location:** Hamburg
 
-### [Customer Journey & App Analytics Apprentice](https://www.arbeitnow.fr/jobs/companies/backmarket/customer-journey-app-analytics-apprentice-bordeaux-86574)
-**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Bordeaux
+### [GTM Recruiter, EMEA](https://www.arbeitnow.co.uk/jobs/companies/notion/gtm-recruiter-emea-london-302404)
+**Company:** Notion | **Source:** Arbeitnow | **Location:** London, United Kingdom
 
-### [Senior Frontend Developer (f/m/d) - Angular 13](https://www.arbeitnow.com/jobs/companies/rhebo-gmbh/senior-frontend-developer-angular-13-leipzig-475527)
-**Company:** Rhebo GmbH | **Source:** Arbeitnow | **Location:** Leipzig
+### [Product Designer UX/UI (m/w/d) – Digitale Gesundheitsplattform](https://www.arbeitnow.com/jobs/companies/headsquare-gmbh/product-designer-ux-ui-digitale-gesundheitsplattform-munchen-116805)
+**Company:** Headsquare Gmbh | **Source:** Arbeitnow | **Location:** München
 
-### [Senior Revenue Ops](https://www.arbeitnow.fr/jobs/companies/alan/senior-revenue-ops-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-madrid-spain-186600)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain
+### [Stage/Alternance - Assistant(e) Production Accessoires Cuir (H/F)](https://www.arbeitnow.fr/jobs/companies/sezane-3/stage-alternance-assistante-production-accessoires-cuir-h-f-paris-115048)
+**Company:** Sezane 3 | **Source:** Arbeitnow | **Location:** Paris, France
 
-### [Key Account Manager](https://www.arbeitnow.fr/jobs/companies/alan/key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-31756)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Marseille, France; Annecy, France
+### [Staff/Lead Front-end Engineer](https://www.arbeitnow.co.uk/jobs/companies/mimica/staff-lead-front-end-engineer-london-349285)
+**Company:** Mimica | **Source:** Arbeitnow | **Location:** UK
 
-### [Account Executive 🇫🇷 (Mid-market)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-mid-market-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-27343)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+### [Lead Software Engineer](https://www.arbeitnow.fr/jobs/companies/pqshield/lead-software-engineer-uk-netherlands-spain-or-belgium-some-travel-to-our-offices-will-be-required-from-time-to-time-415979)
+**Company:** Pqshield | **Source:** Arbeitnow | **Location:** UK, Netherlands, Spain, or Belgium. Some travel to our offices will be required from time-to-time
 
-### [Account Executive 🇫🇷 (Small Businesses)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-small-businesses-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-fr-22359)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+### [Staff Frontend Engineer - Design Systems](https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems)
+**Company:** Pleo | **Source:** Jobicy | **Location:** Denmark,  Portugal,  UK
 
-### [Bordeaux Senior Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/bordeaux-senior-account-executive-recruitment-day-bordeaux-france-121298)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Bordeaux, France
+### [Rust Engineering Lead - Linux and Open Source](https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Paris Senior Account Executive Recruitment Day 💫](https://www.arbeitnow.fr/jobs/companies/alan/paris-senior-account-executive-recruitment-day-paris-france-303437)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France
+### [Linux Platform Integration - Ubuntu Systems Senior Engineer](https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Product Guide (Sales Associate) Saisonnier – CDD 35H (h/f/d) – La Vallée Village](https://www.arbeitnow.fr/jobs/companies/arcteryx/product-guide-sales-associate-saisonnier-cdd-35h-la-vallee-village-paris-345609)
-**Company:** ARC'TERYX | **Source:** Arbeitnow | **Location:** Paris
+### [Embedded & Desktop Linux Systems Engineer - Optimisation](https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Stage de 6 mois UX/UI Designer (H/F/N) – PARIS](https://www.arbeitnow.fr/jobs/companies/ekimetrics/stage-de-6-mois-ux-ui-designer-paris-259094)
-**Company:** Ekimetrics | **Source:** Arbeitnow | **Location:** Paris
+### [Lead Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Senior Frontend Engineer – Growth (USA Only - 100% Remote)](https://jobicy.com/jobs/151313-senior-frontend-engineer-growth-usa-only-100-remote)
-**Company:** Close | **Source:** Jobicy | **Location:** USA
+### [Embedded Linux Field Engineer for Devices/IoT](https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Senior Software Enginner (Full-stack Node + React)](https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react)
-**Company:** Airtm | **Source:** Jobicy | **Location:** LATAM
+### [Ubuntu Linux Kernel Engineer - Silicon Enablement](https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Senior Frontend Engineer (React)](https://jobicy.com/jobs/153716-senior-frontend-engineer-react)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+### [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Norwegian Tech Linguistic Tester](https://jobicy.com/jobs/146760-norwegian-tech-linguistic-tester)
-**Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
+### [CDI - Senior Talent Acquisition Specialist - Strat Data - Paris](https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-senior-talent-acquisition-specialist-strat-data-paris-9th-arrondissement-of-paris-75009-paris-485871)
+**Company:** Artefactlinkedin | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
 
-### [Engineering Manager (Frontend)](https://jobicy.com/jobs/151249-engineering-manager-frontend)
-**Company:** ClickUp | **Source:** Jobicy | **Location:** USA
+### [Senior Software Engineer, Build Loop](https://jobicy.com/jobs/153924-senior-software-engineer-build-loop)
+**Company:** Webflow | **Source:** Jobicy | **Location:** Argentina
+
+### [Software Engineer, Frontend / Full Stack (Identity Platform)](https://jobicy.com/jobs/153865-software-engineer-frontend-full-stack-identity-platform)
+**Company:** Phantom | **Source:** Jobicy | **Location:** Anywhere
 
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Ireland
@@ -88,6 +91,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Senior Product Designer - UI](undefined)
-**Company:** Tinvio | **Source:** Himalayas | **Location:** Worldwide
+### [Senior React JS Developer](undefined)
+**Company:** Routetitan | **Source:** Himalayas | **Location:** Worldwide
 
