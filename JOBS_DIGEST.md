@@ -1,38 +1,53 @@
-# Daily Remote Front-End Jobs Digest (2026-09-25)
+# Daily Remote Front-End Jobs Digest (2026-09-26)
 
-*Total Matching Roles Found: 25*
+*Total Matching Roles Found: 27*
 
 ---
 
-### [Personalsachbearbeiter (m/w/d) in Lauingen/Donau: Teilzeit, 20 Std./Woche](https://www.arbeitnow.com/jobs/companies/riffbird-gmbh/personalsachbearbeiter-in-lauingen-donau-teilzeit-20-std-woche-339175)
-**Company:** Riffbird Gmbh | **Source:** Arbeitnow | **Location:** Lauingen
+### [Staff Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/motorway/staff-frontend-engineer-london-8298)
+**Company:** Motorway | **Source:** Arbeitnow | **Location:** London
 
-### [Global Talent Acquisition & People Operations Partner (m/f/x)](https://www.arbeitnow.com/jobs/companies/progyny-global/global-talent-acquisition-people-operations-partner-berlin-250760)
-**Company:** Progyny Global | **Source:** Arbeitnow | **Location:** Berlin
+### [Senior Product UI Designer](https://www.arbeitnow.com/jobs/companies/almedia/senior-product-ui-designer-berlin-432284)
+**Company:** Almedia | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Linux-Systemadministrator (m/w/d) Container-Technologien & Datenbanken](https://www.arbeitnow.com/jobs/companies/connext-communication-gmbh/linux-systemadministrator-container-technologien-datenbanken-paderborn-7344)
-**Company:** Connext Communication GmbH | **Source:** Arbeitnow | **Location:** Paderborn
+### [Remote Head of UX (m/f/d)](https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-41005)
+**Company:** Roompricegenie | **Source:** Arbeitnow | **Location:** Remote Germany
 
-### [Senior Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/celonis/senior-talent-acquisition-partner-london-93672)
-**Company:** celonis | **Source:** Arbeitnow | **Location:** London
+### [Inbound Sales 🇫🇷](https://www.arbeitnow.fr/jobs/companies/alan/inbound-sales-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-443778)
+**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France
 
-### [Senior/Staff React Native Engineer](https://www.arbeitnow.co.uk/jobs/companies/moonpay/senior-staff-react-native-engineer-london-hybrid-87394)
-**Company:** MoonPay | **Source:** Arbeitnow | **Location:** London - Hybrid
+### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-recruiter-london-396879)
+**Company:** Andurilindustries | **Source:** Arbeitnow | **Location:** London
+
+### [Senior Front-End Engineer, Quantum Tools](https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-front-end-engineer-quantum-tools-oxford-116704)
+**Company:** ionq | **Source:** Arbeitnow | **Location:** Oxford
+
+### [Software Engineer Frontend - AI-Powered Store Manager Companion (f/m/d)](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-frontend-ai-powered-store-manager-companion-nantes-loire-atlantique-277606)
+**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Nantes, Loire-Atlantique
+
+### [Senior Data Analyst - Traffic / Acquisition (f/m/d)](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-traffic-acquisition-lille-upline-nord-233226)
+**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Lille, Upline, Nord
+
+### [Senior Data Analyst - Traffic / Acquisition](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-traffic-acquisition-paris-paris-401970)
+**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Paris, Paris
+
+### [Technical Recruiter](https://www.arbeitnow.fr/jobs/companies/vibe/technical-recruiter-paris-253682)
+**Company:** Vibe | **Source:** Arbeitnow | **Location:** Paris
+
+### [Thruster CAD and Stress Analyst](https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thruster-cad-and-stress-analyst-bordeaux-105031)
+**Company:** The Exploration Company | **Source:** Arbeitnow | **Location:** Bordeaux, France
+
+### [Doctorant(e) - "Vers un bâtiment low-tech : caractériser et réduire les dépendances liées à la maintenance et à l'entretien du bâti face au changement climatique"](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/doctorante-vers-un-batiment-low-tech-caracteriser-et-reduire-les-dependances-liees-a-la-maintenance-et-a-lentretien-du-bati-face-au-changement-428927)
+**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** SAINT ETIENNE, Auvergne-Rhône-Alpes, France
+
+### [Stage - Contrôle de Gestion & Data / Performance (H/F)](https://www.arbeitnow.fr/jobs/companies/withings/stage-controle-de-gestion-data-performance-h-f-issy-les-moulineaux-73105)
+**Company:** Withings | **Source:** Arbeitnow | **Location:** Issy-les-Moulineaux, France
 
 ### [Chargé d'action des aides agricoles et développement rural - 1618 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-des-aides-agricoles-et-developpement-rural-1618-h-f-limoges-229382)
 **Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
 
 ### [Ingénieur suivi de production - support niveau 2 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/ingenieur-suivi-de-production-support-niveau-2-h-f-montreuil-282178)
 **Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
-
-### [Technicien.ne de maintenance (Evreux)](https://www.arbeitnow.fr/jobs/companies/exotec/technicienne-de-maintenance-evreux-evreux-348814)
-**Company:** Exotec | **Source:** Arbeitnow | **Location:** Évreux, France
-
-### [CDI - Senior Talent Acquisition Specialist - Strat Data - Paris](https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-senior-talent-acquisition-specialist-strat-data-paris-9th-arrondissement-of-paris-75009-paris-417883)
-**Company:** Artefactjobs | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
-
-### [Customer Care Data Analyst Intern](https://www.arbeitnow.fr/jobs/companies/backmarket/customer-care-data-analyst-intern-bordeaux-478284)
-**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Bordeaux
 
 ### [Full-Stack Engineer (Front-End Leaning)](https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning)
 **Company:** Elevenlabs | **Source:** Jobicy | **Location:** Bulgaria,  Ireland,  Netherlands,  Poland,  Portugal,  Sweden,  UK,  USA
@@ -58,24 +73,15 @@
 ### [Embedded & Desktop Linux Systems Engineer - Optimisation](https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Lead Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149562-lead-linux-kernel-engineer-ubuntu)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Embedded Linux Field Engineer for Devices/IoT](https://jobicy.com/jobs/149535-embedded-linux-field-engineer-for-devices-iot)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Singapore
 
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137410)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Ireland
 
-### [Education Designer UX UI and AI](https://remoteOK.com/remote-jobs/remote-education-designer-ux-ui-and-ai-interaction-design-foundation-1137138)
-**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Course Writer and Editor UX UI and AI](https://remoteOK.com/remote-jobs/remote-course-writer-and-editor-ux-ui-and-ai-interaction-design-foundation-1137136)
-**Company:** Interaction Design Foundation | **Source:** RemoteOK | **Location:** Worldwide
-
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
+
+### [Sales to UX Design Career Changer](undefined)
+**Company:** UX Woman | **Source:** Himalayas | **Location:** Worldwide
 
