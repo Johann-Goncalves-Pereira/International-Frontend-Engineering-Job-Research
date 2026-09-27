@@ -1,77 +1,71 @@
-# Daily Remote Front-End Jobs Digest (2026-09-26)
+# Daily Remote Front-End Jobs Digest (2026-09-27)
 
-*Total Matching Roles Found: 27*
+*Total Matching Roles Found: 24*
 
 ---
 
-### [Staff Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/motorway/staff-frontend-engineer-london-8298)
-**Company:** Motorway | **Source:** Arbeitnow | **Location:** London
+### [Senior Software Engineer – Front-End](https://www.arbeitnow.co.uk/jobs/companies/speechmatics/senior-software-engineer-front-end-cambridge-223050)
+**Company:** Speechmatics | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [Senior Product UI Designer](https://www.arbeitnow.com/jobs/companies/almedia/senior-product-ui-designer-berlin-432284)
-**Company:** Almedia | **Source:** Arbeitnow | **Location:** Berlin
+### [Senior Software Engineer – Front-End](https://www.arbeitnow.co.uk/jobs/companies/speechmatics/senior-software-engineer-front-end-london-475824)
+**Company:** Speechmatics | **Source:** Arbeitnow | **Location:** London
 
-### [Remote Head of UX (m/f/d)](https://www.arbeitnow.com/jobs/companies/roompricegenie/remote-head-of-ux-41005)
-**Company:** Roompricegenie | **Source:** Arbeitnow | **Location:** Remote Germany
+### [Senior Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/mubi/senior-frontend-engineer-london-272986)
+**Company:** Mubi | **Source:** Arbeitnow | **Location:** London
 
-### [Inbound Sales 🇫🇷](https://www.arbeitnow.fr/jobs/companies/alan/inbound-sales-paris-france-bordeaux-france-lyon-france-marseille-france-nantes-france-443778)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Nantes, France
+### [Frontend Engineer](https://www.arbeitnow.ch/jobs/companies/deepjudge/frontend-engineer-zurich-106740)
+**Company:** DeepJudge | **Source:** Arbeitnow | **Location:** Zurich HQ
 
-### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-recruiter-london-396879)
-**Company:** Andurilindustries | **Source:** Arbeitnow | **Location:** London
+### [Talent Acquisition Partner (all genders)](https://www.arbeitnow.com/jobs/companies/lio/talent-acquisition-partner-all-genders-munich-93077)
+**Company:** Lio | **Source:** Arbeitnow | **Location:** Munich Office
 
-### [Senior Front-End Engineer, Quantum Tools](https://www.arbeitnow.co.uk/jobs/companies/ionq/senior-front-end-engineer-quantum-tools-oxford-116704)
-**Company:** ionq | **Source:** Arbeitnow | **Location:** Oxford
+### [(Senior) Recruiting Specialist (m/w/d) remote CH](https://www.arbeitnow.ch/jobs/companies/edl-consulting/senior-recruiting-specialist-remote-ch-schweiz-408393)
+**Company:** Edl Consulting | **Source:** Arbeitnow | **Location:** Schweiz
 
-### [Software Engineer Frontend - AI-Powered Store Manager Companion (f/m/d)](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/software-engineer-frontend-ai-powered-store-manager-companion-nantes-loire-atlantique-277606)
-**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Nantes, Loire-Atlantique
+### [Studentische Hilfskraft, Team Data Aquisition and Access (SHK-DSS-11)](https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-data-aquisition-and-access-shk-dss-11-koln-141092)
+**Company:** GESIS – Leibniz-Institut für Sozialwissenschaften | **Source:** Arbeitnow | **Location:** Köln
 
-### [Senior Data Analyst - Traffic / Acquisition (f/m/d)](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-traffic-acquisition-lille-upline-nord-233226)
-**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Lille, Upline, Nord
+### [(Senior) UI/UX Designer for Mobile App (m/f/d) | for 2 month](https://www.arbeitnow.com/jobs/companies/healy-world-gmbh/senior-ui-ux-designer-for-mobile-app-for-2-month-berlin-370672)
+**Company:** Healy World GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior Data Analyst - Traffic / Acquisition](https://www.arbeitnow.fr/jobs/companies/decathlontechnology/senior-data-analyst-traffic-acquisition-paris-paris-401970)
-**Company:** Decathlontechnology | **Source:** Arbeitnow | **Location:** Paris, Paris
+### [Acquisition Lead, Performance Marketing](https://www.arbeitnow.fr/jobs/companies/zefir/acquisition-lead-performance-marketing-paris-371241)
+**Company:** Zefir | **Source:** Arbeitnow | **Location:** Paris
 
-### [Technical Recruiter](https://www.arbeitnow.fr/jobs/companies/vibe/technical-recruiter-paris-253682)
-**Company:** Vibe | **Source:** Arbeitnow | **Location:** Paris
+### [Senior Software Engineer (Python/TypeScript)](https://www.arbeitnow.fr/jobs/companies/lithosquare/senior-software-engineer-python-typescript-paris-115099)
+**Company:** Lithosquare | **Source:** Arbeitnow | **Location:** Paris Office
 
-### [Thruster CAD and Stress Analyst](https://www.arbeitnow.fr/jobs/companies/the-exploration-company/thruster-cad-and-stress-analyst-bordeaux-105031)
-**Company:** The Exploration Company | **Source:** Arbeitnow | **Location:** Bordeaux, France
+### [Freelancer Technical Recruiter](https://www.arbeitnow.fr/jobs/companies/prelude/freelancer-technical-recruiter-paris-465774)
+**Company:** Prelude | **Source:** Arbeitnow | **Location:** Paris, France
 
-### [Doctorant(e) - "Vers un bâtiment low-tech : caractériser et réduire les dépendances liées à la maintenance et à l'entretien du bâti face au changement climatique"](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/doctorante-vers-un-batiment-low-tech-caracteriser-et-reduire-les-dependances-liees-a-la-maintenance-et-a-lentretien-du-bati-face-au-changement-428927)
-**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** SAINT ETIENNE, Auvergne-Rhône-Alpes, France
+### [People Ops (HR & Recruitment) - Intern](https://www.arbeitnow.fr/jobs/companies/scoreplay/people-ops-hr-recruitment-intern-paris-154761)
+**Company:** Scoreplay | **Source:** Arbeitnow | **Location:** Paris office
 
-### [Stage - Contrôle de Gestion & Data / Performance (H/F)](https://www.arbeitnow.fr/jobs/companies/withings/stage-controle-de-gestion-data-performance-h-f-issy-les-moulineaux-73105)
-**Company:** Withings | **Source:** Arbeitnow | **Location:** Issy-les-Moulineaux, France
+### [User Acquisition - Events](https://www.arbeitnow.fr/jobs/companies/amo/user-acquisition-events-paris-433120)
+**Company:** Amo | **Source:** Arbeitnow | **Location:** Paris
 
-### [Chargé d'action des aides agricoles et développement rural - 1618 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/charge-daction-des-aides-agricoles-et-developpement-rural-1618-h-f-limoges-229382)
-**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
+### [Senior Talent Acquisition partner](https://www.arbeitnow.fr/jobs/companies/hcompany/senior-talent-acquisition-partner-paris-351738)
+**Company:** Hcompany | **Source:** Arbeitnow | **Location:** Hybrid Paris
 
-### [Ingénieur suivi de production - support niveau 2 H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/ingenieur-suivi-de-production-support-niveau-2-h-f-montreuil-282178)
-**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Montreuil, Île-de-France, France
+### [Talent Acquisition Executive - THG Nutrition | Myprotein](https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/talent-acquisition-executive-thg-nutrition-myprotein-manchester-369635)
+**Company:** Thehutgroup | **Source:** Arbeitnow | **Location:** Manchester
 
-### [Full-Stack Engineer (Front-End Leaning)](https://jobicy.com/jobs/154020-full-stack-engineer-front-end-leaning)
-**Company:** Elevenlabs | **Source:** Jobicy | **Location:** Bulgaria,  Ireland,  Netherlands,  Poland,  Portugal,  Sweden,  UK,  USA
+### [Working Student HR & Recruitment (m/f/d)](https://www.arbeitnow.com/jobs/companies/ecovacs-europe-gmbh/working-student-hr-recruitment-dusseldorf-345642)
+**Company:** Ecovacs Europe Gmbh | **Source:** Arbeitnow | **Location:** Düsseldorf
 
-### [Junior Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
+### [Technical Product Owner – C++ SDK & ImFusion Suite](https://www.arbeitnow.com/jobs/companies/imfusion/technical-product-owner-c-sdk-imfusion-suite-munich-32634)
+**Company:** Imfusion | **Source:** Arbeitnow | **Location:** Munich
 
-### [Full Stack Engineer (Vue + Nest)](https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+### [Senior Full Stack Product Engineer (TypeScript)](https://jobicy.com/jobs/151824-senior-full-stack-product-engineer-typescript)
+**Company:** Maze | **Source:** Jobicy | **Location:** Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK
 
-### [Full Stack Web Engineer (Python & React)](https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+### [Talent Acquisition Engineer](https://www.arbeitnow.co.uk/jobs/companies/scarlet/talent-acquisition-engineer-london-149441)
+**Company:** Scarlet | **Source:** Arbeitnow | **Location:** London Office
 
-### [Staff Frontend Engineer - Design Systems](https://jobicy.com/jobs/151420-staff-frontend-engineer-design-systems)
-**Company:** Pleo | **Source:** Jobicy | **Location:** Denmark,  Portugal,  UK
+### [Steuerberater (m/w/d) in Adelmannsfelden, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€](https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-adelmannsfelden-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-430172)
+**Company:** Taxtalente.de | **Source:** Arbeitnow | **Location:** Adelmannsfelden
 
-### [Rust Engineering Lead - Linux and Open Source](https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Linux Platform Integration - Ubuntu Systems Senior Engineer](https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Embedded & Desktop Linux Systems Engineer - Optimisation](https://jobicy.com/jobs/149567-embedded-desktop-linux-systems-engineer-optimisation)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
+### [Werkstudent Recruiting & Bewerbermanagement  (m/w/d)](https://www.arbeitnow.com/jobs/companies/strautmann-hydraulik/werkstudent-recruiting-bewerbermanagement-melle-421319)
+**Company:** Strautmann Hydraulik | **Source:** Arbeitnow | **Location:** Melle, Niedersachsen, Deutschland
 
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Singapore
@@ -81,7 +75,4 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Sales to UX Design Career Changer](undefined)
-**Company:** UX Woman | **Source:** Himalayas | **Location:** Worldwide
 
