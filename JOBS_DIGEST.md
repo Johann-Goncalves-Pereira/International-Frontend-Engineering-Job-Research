@@ -1,62 +1,77 @@
-# Daily Remote Front-End Jobs Digest (2026-09-30)
+# Daily Remote Front-End Jobs Digest (2026-10-01)
 
-*Total Matching Roles Found: 28*
+*Total Matching Roles Found: 32*
 
 ---
 
-### [Werkstudent:in Full-Stack Development (m/w/d) (TypeScript/React)](https://www.arbeitnow.com/jobs/companies/boot1-gmbh/werkstudentin-full-stack-development-typescript-react-grunwald-180413)
-**Company:** Boot1 GmbH | **Source:** Arbeitnow | **Location:** Grünwald
+### [Software Engineer Intern](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-bordeaux-188781)
+**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
-### [Full-Stack TypeScript Developer (m/w/d) (React/Next.js)](https://www.arbeitnow.com/jobs/companies/boot1-gmbh/full-stack-typescript-developer-react-nextjs-grunwald-176883)
-**Company:** Boot1 GmbH | **Source:** Arbeitnow | **Location:** Grünwald
+### [Operations Manager, Operative Acquisition](https://www.arbeitnow.co.uk/jobs/companies/relay/operations-manager-operative-acquisition-london-312645)
+**Company:** Relay | **Source:** Arbeitnow | **Location:** London - On-site
 
-### [Responsable équipe systèmes embarqués (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/responsable-equipe-systemes-embarques-h-f-veyras-19046)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Veyras, Auvergne-Rhône-Alpes, France
+### [Talent Acquisition Partner / Recruiter](https://www.arbeitnow.com/jobs/companies/signode/talent-acquisition-partner-recruiter-dusseldorf-494639)
+**Company:** Signode | **Source:** Arbeitnow | **Location:** Düsseldorf
 
-### [Technicien de maintenance d'instruments de mesure (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/technicien-de-maintenance-dinstruments-de-mesure-h-f-thorigne-fouillard-88846)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Thorigné-Fouillard, Bretagne, France
+### [Software Engineer - Yocto/Linux](https://www.arbeitnow.co.uk/jobs/companies/spire/software-engineer-yocto-linux-glasgow-441748)
+**Company:** Spire | **Source:** Arbeitnow | **Location:** Glasgow, Scotland, United Kingdom
 
-### [Technicien de maintenance d'instruments de mesure (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/technicien-de-maintenance-dinstruments-de-mesure-h-f-montardon-357150)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Montardon, Nouvelle-Aquitaine, France
+### [Senior Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-technical-recruiter-london-113825)
+**Company:** Deliveroo  | **Source:** Arbeitnow | **Location:** London, England, United Kingdom
 
-### [Technicien de maintenance d'instruments de mesure (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/technicien-de-maintenance-dinstruments-de-mesure-h-f-draguignan-93622)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Draguignan, Provence-Alpes-Côte d'Azur, France
+### [Werkstudent UX/UI Design (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-ux-ui-design-frankfurt-413559)
+**Company:** ABRIO GmbH | **Source:** Arbeitnow | **Location:** Frankfurt, Hessen, Deutschland
 
-### [Technicien de maintenance d'instruments de mesure (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/technicien-de-maintenance-dinstruments-de-mesure-h-f-quimperle-468612)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Quimperlé, Bretagne, France
+### [Treasury Manager Cash & Liquidity Management (m/f/d)](https://www.arbeitnow.com/jobs/companies/hyrox-world-gmbh/treasury-manager-cash-liquidity-management-hamburg-117043)
+**Company:** HYROX World GmbH | **Source:** Arbeitnow | **Location:** Hamburg
 
-### [Technicien de maintenance d'instruments de mesure (H/F)](https://www.arbeitnow.fr/jobs/companies/precia-molen/technicien-de-maintenance-dinstruments-de-mesure-h-f-limoges-333465)
-**Company:** PRECIA MOLEN | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
+### [Senior Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-technical-recruiter-london-474624)
+**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London
 
-### [Responsable des Données Qualité Produits F/H](https://www.arbeitnow.fr/jobs/companies/hamelin/responsable-des-donnees-qualite-produits-f-h-herouville-saint-clair-375755)
-**Company:** Hamelin | **Source:** Arbeitnow | **Location:** Hérouville Saint Clair, Normandie, France
+### [Founding Recruiter (m/f/x) - Münster or Munich (m/w/d)](https://www.arbeitnow.com/jobs/companies/rizm/founding-recruiter-munster-or-munich-381218)
+**Company:** RIZM | **Source:** Arbeitnow | **Location:** Munich
 
-### [Administrateur Systèmes et Réseaux F/H](https://www.arbeitnow.fr/jobs/companies/mismo/administrateur-systemes-et-reseaux-f-h-la-chapelle-sur-erdre-6273)
-**Company:** Mismo | **Source:** Arbeitnow | **Location:** La Chapelle sur Erdre, Pays de la Loire, France
+### [Tech-Talente: Frontend, Backend, Fullstack & DevOps](https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/tech-talente-frontend-backend-fullstack-devops-munich-76765)
+**Company:** bits&birds GmbH | **Source:** Arbeitnow | **Location:** Munich
 
-### [HR Recruiting Partner (all genders)](https://www.arbeitnow.com/jobs/companies/recuvia/hr-recruiting-partner-all-genders-berlin-462099)
-**Company:** Recuvia | **Source:** Arbeitnow | **Location:** Berlin
+### [English to French Linguist & Copy Editor for Product, Marketing & UI Content](https://www.arbeitnow.fr/jobs/companies/welo-global/english-to-french-linguist-copy-editor-for-product-marketing-ui-content-france-342835)
+**Company:** Welo Global | **Source:** Arbeitnow | **Location:** France
 
-### [Staff Engineer, Frontend](https://www.arbeitnow.co.uk/jobs/companies/primerio/staff-engineer-frontend-united-kingdom-177220)
-**Company:** Primer.io | **Source:** Arbeitnow | **Location:** United Kingdom
+### [Affiliation Marketing Intern (German & English required)](https://www.arbeitnow.fr/jobs/companies/backmarket/affiliation-marketing-intern-german-english-required-paris-233210)
+**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Paris
 
-### [Recruiter*in - Personalberater*in am Standort Recklinghausen](https://www.arbeitnow.com/jobs/companies/annette-wittram-awi-personalvermittlung-und-bewerbercoaching/recruiterin-personalberaterin-am-standort-recklinghausen-bremen-436023)
-**Company:** Annette Wittram - AWi Personalvermittlung und Bewerbercoaching | **Source:** Arbeitnow | **Location:** Bremen
+### [Linguist - Wolof - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-364477)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Coach Builder & Smart Repair Technician](https://www.arbeitnow.co.uk/jobs/companies/ember/coach-builder-smart-repair-technician-dundee-352438)
-**Company:** Ember | **Source:** Arbeitnow | **Location:** Dundee, Scotland, United Kingdom
+### [Linguist - Malagasy - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-353908)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Intern Talent Acquisition Coordinator (x/f/m)](https://www.arbeitnow.com/jobs/companies/doctolib/intern-talent-acquisition-coordinator-berlin-berlin-306241)
-**Company:** Doctolib | **Source:** Arbeitnow | **Location:** Berlin, Berlin
+### [Linguist - Shona - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-109403)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Werkstudent:in (m/w/d) – UX Copywriting](https://www.arbeitnow.com/jobs/companies/tide/werkstudentin-ux-copywriting-berlin-62161)
-**Company:** tide | **Source:** Arbeitnow | **Location:** Berlin
+### [Linguist - Oromo - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-228585)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Senior Frontend Engineer](https://www.arbeitnow.com/jobs/companies/amboss/senior-frontend-engineer-berlin-398750)
-**Company:** AMBOSS | **Source:** Arbeitnow | **Location:** Berlin
+### [Linguist - Mongolian - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-165068)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Treasury Manager (Liquidity)](https://www.arbeitnow.co.uk/jobs/companies/trading212/treasury-manager-liquidity-london-213682)
-**Company:** Trading212 | **Source:** Arbeitnow | **Location:** London
+### [Auxiliaire (h/f/d)](https://www.arbeitnow.ch/jobs/companies/puregym-ag/auxiliaire-grancy-lausanne-377088)
+**Company:** PureGym AG | **Source:** Arbeitnow | **Location:** Grancy Lausanne, Waadt, Schweiz
+
+### [Linguist - Wolof - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-472537)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
+
+### [Linguist - Malagasy - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-127146)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
+
+### [Linguist - Shona - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-386853)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
+
+### [Linguist - Oromo - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-448278)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
+
+### [Linguist - Mongolian - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-174541)
+**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
 ### [Team Lead Talent Acquisition (d/w/m)](https://www.arbeitnow.ch/jobs/companies/mawave-marketing-gmbh/remote-team-lead-talent-acquisition-290576)
 **Company:** Mawave Marketing GmbH | **Source:** Arbeitnow | **Location:** Remote
@@ -73,9 +88,6 @@
 ### [Growth Marketing Consultant/Manager (German required)](https://www.arbeitnow.ch/jobs/companies/what-ag/growth-marketing-consultant-manager-german-required-zurich-15607)
 **Company:** what. AG | **Source:** Arbeitnow | **Location:** Zürich, Zürich, Switzerland
 
-### [Distinguished PQC Cryptography & Architecture Leader](https://www.arbeitnow.ch/jobs/companies/ionq/distinguished-pqc-cryptography-architecture-leader-geneva-120703)
-**Company:** ionq | **Source:** Arbeitnow | **Location:** Geneva
-
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Singapore
 
@@ -85,6 +97,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Buildium Specialist](undefined)
-**Company:** micro1 | **Source:** Himalayas | **Location:** Worldwide
+### [Architect, Builder Enablement](undefined)
+**Company:** NBCUniversal | **Source:** Himalayas | **Location:** Worldwide
 
