@@ -1,44 +1,35 @@
-# Daily Remote Front-End Jobs Digest (2026-10-01)
+# Daily Remote Front-End Jobs Digest (2026-10-02)
 
-*Total Matching Roles Found: 32*
+*Total Matching Roles Found: 20*
 
 ---
 
-### [Software Engineer Intern](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/software-engineer-intern-bordeaux-188781)
-**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, France
+### [Senior Web Engineer (React) - Remote Friendly](https://www.arbeitnow.fr/jobs/companies/qonto/senior-web-engineer-react-remote-friendly-paris-445363)
+**Company:** Qonto | **Source:** Arbeitnow | **Location:** Paris
 
-### [Operations Manager, Operative Acquisition](https://www.arbeitnow.co.uk/jobs/companies/relay/operations-manager-operative-acquisition-london-312645)
-**Company:** Relay | **Source:** Arbeitnow | **Location:** London - On-site
+### [Frontend Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-braunschweig-442037)
+**Company:** TecFox GmbH | **Source:** Arbeitnow | **Location:** Braunschweig
 
-### [Talent Acquisition Partner / Recruiter](https://www.arbeitnow.com/jobs/companies/signode/talent-acquisition-partner-recruiter-dusseldorf-494639)
-**Company:** Signode | **Source:** Arbeitnow | **Location:** Düsseldorf
+### [Professional Full Stack Engineer – PHP/Go + Frontend (Backoffice Experience) (m/f/x)](https://www.arbeitnow.com/jobs/companies/sides-simplydelivery-gmbh/professional-full-stack-engineer-php-go-frontend-backoffice-experience-berlin-104232)
+**Company:** SIDES (SimplyDelivery GmbH) | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Software Engineer - Yocto/Linux](https://www.arbeitnow.co.uk/jobs/companies/spire/software-engineer-yocto-linux-glasgow-441748)
-**Company:** Spire | **Source:** Arbeitnow | **Location:** Glasgow, Scotland, United Kingdom
+### [Systemadministrator Linux (m/w/d)](https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/systemadministrator-linux-freiburg-im-breisgau-6361)
+**Company:** ANGEHEUERT GmbH | **Source:** Arbeitnow | **Location:** Freiburg im Breisgau
 
-### [Senior Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-technical-recruiter-london-113825)
-**Company:** Deliveroo  | **Source:** Arbeitnow | **Location:** London, England, United Kingdom
+### [Senior Software Engineer (Typescript), AI Clients: Duo CLI](https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-senior-software-engineer-typescript-ai-clients-duo-cli-311651)
+**Company:** gitlab | **Source:** Arbeitnow | **Location:** Remote
 
-### [Werkstudent UX/UI Design (m/w/d)](https://www.arbeitnow.com/jobs/companies/abrio-gmbh/werkstudent-ux-ui-design-frankfurt-413559)
-**Company:** ABRIO GmbH | **Source:** Arbeitnow | **Location:** Frankfurt, Hessen, Deutschland
+### [Frontend Engineering Team Lead - MarTech](https://jobicy.com/jobs/149869-frontend-engineering-team-lead-martech)
+**Company:** Sporty Group | **Source:** Jobicy | **Location:** Europe
 
-### [Treasury Manager Cash & Liquidity Management (m/f/d)](https://www.arbeitnow.com/jobs/companies/hyrox-world-gmbh/treasury-manager-cash-liquidity-management-hamburg-117043)
-**Company:** HYROX World GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+### [Professeur(e) en Data/IA appliquée aux Matériaux et Procédés Rattaché(e) au Centre Institut Clément Ader Albi (ICA-A)](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/professeure-en-data-ia-appliquee-aux-materiaux-et-procedes-rattachee-au-centre-institut-clement-ader-albi-ica-a-86654)
+**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** Albi, Occitanie, France
 
-### [Senior Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-technical-recruiter-london-474624)
-**Company:** Deliveroo | **Source:** Arbeitnow | **Location:** London
+### [Chef d'équipe logistique (H/F)](https://www.arbeitnow.fr/jobs/companies/teampicnic/chef-dequipe-logistique-h-f-fretin-nord-352228)
+**Company:** Teampicnic | **Source:** Arbeitnow | **Location:** Fretin, Nord
 
-### [Founding Recruiter (m/f/x) - Münster or Munich (m/w/d)](https://www.arbeitnow.com/jobs/companies/rizm/founding-recruiter-munster-or-munich-381218)
-**Company:** RIZM | **Source:** Arbeitnow | **Location:** Munich
-
-### [Tech-Talente: Frontend, Backend, Fullstack & DevOps](https://www.arbeitnow.com/jobs/companies/bitsbirds-gmbh/tech-talente-frontend-backend-fullstack-devops-munich-76765)
-**Company:** bits&birds GmbH | **Source:** Arbeitnow | **Location:** Munich
-
-### [English to French Linguist & Copy Editor for Product, Marketing & UI Content](https://www.arbeitnow.fr/jobs/companies/welo-global/english-to-french-linguist-copy-editor-for-product-marketing-ui-content-france-342835)
-**Company:** Welo Global | **Source:** Arbeitnow | **Location:** France
-
-### [Affiliation Marketing Intern (German & English required)](https://www.arbeitnow.fr/jobs/companies/backmarket/affiliation-marketing-intern-german-english-required-paris-233210)
-**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Paris
+### [Senior Embedded Linux Engineer](https://www.arbeitnow.ch/jobs/companies/gravis-robotics/senior-embedded-linux-engineer-zurich-104312)
+**Company:** Gravis Robotics | **Source:** Arbeitnow | **Location:** Zurich
 
 ### [Linguist - Wolof - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-364477)
 **Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
@@ -55,38 +46,14 @@
 ### [Linguist - Mongolian - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-165068)
 **Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
+### [Senior Talent Acquisition Specialist - 12 months Fixed-term](https://www.arbeitnow.ch/jobs/companies/audif1/senior-talent-acquisition-specialist-12-months-fixed-term-hinwil-switzerland-307960)
+**Company:** Audif1 | **Source:** Arbeitnow | **Location:** Hinwil Switzerland
+
 ### [Auxiliaire (h/f/d)](https://www.arbeitnow.ch/jobs/companies/puregym-ag/auxiliaire-grancy-lausanne-377088)
 **Company:** PureGym AG | **Source:** Arbeitnow | **Location:** Grancy Lausanne, Waadt, Schweiz
 
-### [Linguist - Wolof - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-wolof-ui-technical-marketing-remote-472537)
-**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
-
-### [Linguist - Malagasy - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-malagasy-ui-technical-marketing-remote-127146)
-**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
-
-### [Linguist - Shona - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-shona-ui-technical-marketing-remote-386853)
-**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
-
-### [Linguist - Oromo - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-oromo-ui-technical-marketing-remote-448278)
-**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
-
-### [Linguist - Mongolian - UI Technical / Marketing - Remote](https://www.arbeitnow.fr/jobs/companies/lilt-production/linguist-mongolian-ui-technical-marketing-remote-174541)
-**Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
-
 ### [Team Lead Talent Acquisition (d/w/m)](https://www.arbeitnow.ch/jobs/companies/mawave-marketing-gmbh/remote-team-lead-talent-acquisition-290576)
 **Company:** Mawave Marketing GmbH | **Source:** Arbeitnow | **Location:** Remote
-
-### [Senior Full-stack Engineer (React/Node) (Backend-Focused) - Real Estate - LATAM](https://jobicy.com/jobs/152023-senior-full-stack-engineer-react-node-backend-focused-real-estate-latam)
-**Company:** Truelogic | **Source:** Jobicy | **Location:** LATAM
-
-### [Solidity Compiler Frontend Engineer](https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer)
-**Company:** CertiK | **Source:** Jobicy | **Location:** USA
-
-### [[People] Hunter / Talent Acquisition Assistant](https://www.arbeitnow.ch/jobs/companies/jobgether/people-hunter-talent-acquisition-assistant-switzerland-273927)
-**Company:** Jobgether | **Source:** Arbeitnow | **Location:** Switzerland
-
-### [Growth Marketing Consultant/Manager (German required)](https://www.arbeitnow.ch/jobs/companies/what-ag/growth-marketing-consultant-manager-german-required-zurich-15607)
-**Company:** what. AG | **Source:** Arbeitnow | **Location:** Zürich, Zürich, Switzerland
 
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Singapore
@@ -96,7 +63,4 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Architect, Builder Enablement](undefined)
-**Company:** NBCUniversal | **Source:** Himalayas | **Location:** Worldwide
 
