@@ -1,44 +1,86 @@
-# Daily Remote Front-End Jobs Digest (2026-10-06)
+# Daily Remote Front-End Jobs Digest (2026-10-07)
 
-*Total Matching Roles Found: 15*
+*Total Matching Roles Found: 30*
 
 ---
 
-### [Linguist - Somali - UI Technical / Marketing - Remote](https://www.arbeitnow.com/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-191143)
+### [Responsable d'antenne (vitrage automobile) H/F - Bordeaux](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-dantenne-vitrage-automobile-h-f-bordeaux-322)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** BORDEAUX, Nouvelle-Aquitaine, France
+
+### [Responsable qualité H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-qualite-h-f-brantome-en-perigord-64663)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** Brantôme-en-Périgord, Nouvelle-Aquitaine, France
+
+### [Responsable Technique SI Industriels & Réseaux de Transport - Métro  F/H](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-technique-si-industriels-reseaux-de-transport-metro-f-h-toulouse-104096)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** Toulouse, Occitanie, France
+
+### [Préleveur Responsable de Laboratoire h/f](https://www.arbeitnow.fr/jobs/companies/rh-partners/preleveur-responsable-de-laboratoire-h-f-deuil-la-barre-86151)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** DEUIL-LA-BARRE, Île-de-France, France
+
+### [Responsable Achats H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-achats-h-f-quimper-435076)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** QUIMPER, Bretagne, France
+
+### [Pharmacien affaires réglementaires et qualité - Dispositifs médicaux H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/pharmacien-affaires-reglementaires-et-qualite-dispositifs-medicaux-h-f-belfort-379099)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** BELFORT, Bourgogne-Franche-Comté, France
+
+### [Responsable Entrepôt Logistique H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-entrepot-logistique-h-f-quimper-344857)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** QUIMPER, Bretagne, France
+
+### [Chef d'Equipe de Production](https://www.arbeitnow.fr/jobs/companies/rh-partners/chef-dequipe-de-production-blois-87436)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** BLOIS, Centre-Val de Loire, France
+
+### [Responsable Administratif et Financier Groupe H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-administratif-et-financier-groupe-h-f-cognac-362700)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** COGNAC, Nouvelle-Aquitaine, France
+
+### [Chef d'Équipe H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/chef-dequipe-h-f-saint-martin-de-crau-103611)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** Saint-Martin-de-Crau, Provence-Alpes-Côte d'Azur, France
+
+### [Responsable des moyens généraux F/H](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-des-moyens-generaux-f-h-toulouse-97296)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** TOULOUSE, Occitanie, France
+
+### [Chargé d’affaires Menuiseries Bois h/f](https://www.arbeitnow.fr/jobs/companies/rh-partners/charge-daffaires-menuiseries-bois-h-f-audincourt-295357)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** AUDINCOURT, Bourgogne-Franche-Comté, France
+
+### [Directeur d’agence bancaire H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/directeur-dagence-bancaire-h-f-cadillac-sur-garonne-328698)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** Cadillac-sur-Garonne, Nouvelle-Aquitaine, France
+
+### [Responsable des Opérations H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-des-operations-h-f-bordeaux-151089)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** BORDEAUX, Nouvelle-Aquitaine, France
+
+### [Responsable relations institutionnelles & animation H/F](https://www.arbeitnow.fr/jobs/companies/rh-partners/responsable-relations-institutionnelles-animation-h-f-merignac-322173)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** MERIGNAC, Nouvelle-Aquitaine, France
+
+### [Chargé d'Affaires - Responsable Travaux Datacenter H/F](https://www.arbeitnow.fr/jobs/companies/mdc-recrutement/charge-daffaires-responsable-travaux-datacenter-h-f-palaiseau-338504)
+**Company:** MDC RECRUTEMENT | **Source:** Arbeitnow | **Location:** Palaiseau, Île-de-France, France
+
+### [Conducteur de Travaux Datacenter H/F](https://www.arbeitnow.fr/jobs/companies/mdc-recrutement/conducteur-de-travaux-datacenter-h-f-palaiseau-263997)
+**Company:** MDC RECRUTEMENT | **Source:** Arbeitnow | **Location:** Palaiseau, Île-de-France, France
+
+### [Consultant - Continuing Airworthiness](https://www.arbeitnow.co.uk/jobs/companies/trustflight/remote-consultant-continuing-airworthiness-bracknell-235042)
+**Company:** TrustFlight | **Source:** Arbeitnow | **Location:** Remote job
+
+### [Lead Enterprise UX Designer](https://www.arbeitnow.com/jobs/companies/terraquantum/lead-enterprise-ux-designer-295900)
+**Company:** Terraquantum | **Source:** Arbeitnow | **Location:** Remote
+
+### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/conga/senior-recruiter-438727)
+**Company:** conga | **Source:** Arbeitnow | **Location:** Remote
+
+### [Staff Frontend Engineer](https://jobicy.com/jobs/152644-staff-frontend-engineer)
+**Company:** ClickUp | **Source:** Jobicy | **Location:** Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine
+
+### [Senior Frontend Engineer](https://jobicy.com/jobs/152642-senior-frontend-engineer-2)
+**Company:** ClickUp | **Source:** Jobicy | **Location:** Bulgaria,  Czechia,  Hungary,  Ireland,  Poland,  Ukraine
+
+### [Builder, Instructure Foundry](https://jobicy.com/jobs/152635-builder-instructure-foundry)
+**Company:** Instructure | **Source:** Jobicy | **Location:** USA
+
+### [Linguist - Somali - UI Technical / Marketing - Remote](https://www.arbeitnow.ch/jobs/companies/lilt-production/linguist-somali-ui-technical-marketing-remote-60289)
 **Company:** LILT (Production) | **Source:** Arbeitnow | **Location:** Remote
 
-### [Senior HR Manager – Recruiting & Employee Relations (m/w/d)](https://www.arbeitnow.com/jobs/companies/pammys-dieseo-gmbh/senior-hr-manager-recruiting-employee-relations-hamburg-336157)
-**Company:** Pammys™ (dieseo GmbH) | **Source:** Arbeitnow | **Location:** Hamburg
-
-### [Full-Stack Softwareentwickler (m/w/d) React/Next.js oder Angular + Nest.js/Node.js - 100% Remote](https://www.arbeitnow.com/jobs/companies/fastrocket-gmbh/full-stack-softwareentwickler-react-nextjs-oder-angular-nestjs-nodejs-100-remote-regen-7823)
-**Company:** FastRocket GmbH | **Source:** Arbeitnow | **Location:** Regen
-
-### [UX/UI Designer (m/w/d) SaaS & digitale Produkte](https://www.arbeitnow.com/jobs/companies/cannaleo-digital-gmbh/ux-ui-designer-saas-digitale-produkte-saarbrucken-2207)
-**Company:** Cannaleo Digital GmbH | **Source:** Arbeitnow | **Location:** Saarbrücken
-
-### [Technical Recruiter](https://www.arbeitnow.co.uk/jobs/companies/happyrobotai/technical-recruiter-london-54338)
-**Company:** Happyrobot.ai | **Source:** Arbeitnow | **Location:** London
-
-### [Tech Lead, Android Core Product - Bordeaux, France](https://www.arbeitnow.fr/jobs/companies/speechify/tech-lead-android-core-product-bordeaux-france-37242)
-**Company:** speechify | **Source:** Arbeitnow | **Location:** Bordeaux
+### [(Senior) Recruiting Specialist (m/w/d) remote CH](https://www.arbeitnow.ch/jobs/companies/edl-consulting/senior-recruiting-specialist-remote-ch-schweiz-91744)
+**Company:** Edl Consulting | **Source:** Arbeitnow | **Location:** Schweiz
 
 ### [Senior Talent Acquisition Specialist - 12 months Fixed-term](https://www.arbeitnow.ch/jobs/companies/audif1/senior-talent-acquisition-specialist-12-months-fixed-term-hinwil-switzerland-454633)
 **Company:** Audif1 | **Source:** Arbeitnow | **Location:** Hinwil Switzerland
-
-### [Senior Software Engineer, Frontend](https://jobicy.com/jobs/152539-senior-software-engineer-frontend)
-**Company:** Phantom | **Source:** Jobicy | **Location:** LATAM,  Canada,  Europe,  USA
-
-### [Product Manager, Healthcare (H/F)](https://www.arbeitnow.fr/jobs/companies/withings/product-manager-healthcare-h-f-issy-les-moulineaux-335042)
-**Company:** Withings | **Source:** Arbeitnow | **Location:** Issy-les-Moulineaux, France
-
-### [PHP & React Software Engineer](https://jobicy.com/jobs/154461-php-react-software-engineer)
-**Company:** Enumerate | **Source:** Jobicy | **Location:** LATAM
-
-### [Senior Frontend Engineer – Marketing (USA Only, 100% Remote)](https://jobicy.com/jobs/154460-senior-frontend-engineer-marketing-usa-only-100-remote)
-**Company:** Close | **Source:** Jobicy | **Location:** USA
-
-### [Software Engineer, Command Centre (Frontend & UI/UX)](https://www.arbeitnow.ch/jobs/companies/laelaps/software-engineer-command-centre-frontend-ui-ux-zurich-339034)
-**Company:** Laelaps | **Source:** Arbeitnow | **Location:** Zürich, Switzerland
 
 ### [Frontend Engineer](https://remoteOK.com/remote-jobs/remote-frontend-engineer-bjak-1137420)
 **Company:** Bjak  | **Source:** RemoteOK | **Location:** Singapore
@@ -48,4 +90,7 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
+
+### [Senior React Engineer (TypeScript) - 6 to 12 months - - Immediate Hire](undefined)
+**Company:** robusta | **Source:** Himalayas | **Location:** Worldwide
 
