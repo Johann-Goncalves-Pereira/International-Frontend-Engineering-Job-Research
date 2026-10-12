@@ -1,26 +1,35 @@
-# Daily Remote Front-End Jobs Digest (2026-10-11)
+# Daily Remote Front-End Jobs Digest (2026-10-12)
 
-*Total Matching Roles Found: 18*
+*Total Matching Roles Found: 17*
 
 ---
 
-### [Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.co.uk/jobs/companies/atolls/senior-backend-software-engineer-typescript-nestjs-nodejs-london-417343)
-**Company:** Atolls | **Source:** Arbeitnow | **Location:** London, England, United Kingdom
+### [Web Designer at AIOS — Remote, $75k-$150k/yr (including equity)](https://www.arbeitnow.com/jobs/companies/aios-yc-w20s21/web-designer-at-aios-remote-75k-150k-yr-including-equity-berlin-37512)
+**Company:** AIOS (YC W20/S21) | **Source:** Arbeitnow | **Location:** Remote (EU)
 
-### [Praktikant Business Building & AI Automation (m/w/d) – Digital Education mit Impact](https://www.arbeitnow.com/jobs/companies/talentspring-academy/praktikant-business-building-ai-automation-digital-education-mit-impact-berlin-259416)
-**Company:** Talentspring Academy | **Source:** Arbeitnow | **Location:** Berlin
+### [Frontend / UX / UI Engineer (m/w/d)](https://www.arbeitnow.com/jobs/companies/its-gruppe/frontend-ux-ui-engineer-dortmund-munster-251419)
+**Company:** Its Gruppe | **Source:** Arbeitnow | **Location:** Dortmund, Münster
 
-### [Full Stack Engineer – Frontend Focus (m/f/d)](https://www.arbeitnow.com/jobs/companies/alpineeagle/full-stack-engineer-frontend-focus-karlsruhe-baden-wurttemberg-munchen-bavaria-131877)
-**Company:** Alpineeagle | **Source:** Arbeitnow | **Location:** Karlsruhe, Baden-Württemberg, München, Bavaria
+### [Software Engineer, UI](https://www.arbeitnow.co.uk/jobs/companies/roku/software-engineer-ui-cambridge-94191)
+**Company:** Roku | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [UX/UI Designer (All Genders)](https://www.arbeitnow.com/jobs/companies/skdse/ux-ui-designer-all-genders-berlin-24307)
-**Company:** Skdse | **Source:** Arbeitnow | **Location:** Berlin
+### [Senior UX/UI Designer (m/w/d)](https://www.arbeitnow.com/jobs/companies/tbo-digital-gmbh/senior-ux-ui-designer-berlin-62406)
+**Company:** TBO Digital GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Senior Frontend Engineer (All Genders)](https://www.arbeitnow.com/jobs/companies/skdse/senior-frontend-engineer-all-genders-353996)
-**Company:** Skdse | **Source:** Arbeitnow | **Location:** Remote
+### [Senior Software Engineer - Frontend](https://jobicy.com/jobs/155063-senior-software-engineer-frontend-2)
+**Company:** Five9 | **Source:** Jobicy | **Location:** Portugal
 
-### [Senior Frontend Engineer (All Gender)](https://www.arbeitnow.com/jobs/companies/skdse/senior-frontend-engineer-all-gender-berlin-98904)
-**Company:** Skdse | **Source:** Arbeitnow | **Location:** Berlin
+### [Business Recruiter](https://www.arbeitnow.co.uk/jobs/companies/neko-health/business-recruiter-london-296357)
+**Company:** Neko Health | **Source:** Arbeitnow | **Location:** London
+
+### [Senior UI Designer](https://www.arbeitnow.co.uk/jobs/companies/native-design/senior-ui-designer-london-128224)
+**Company:** Native Design | **Source:** Arbeitnow | **Location:** London
+
+### [Engineering Manager, Build](https://www.arbeitnow.co.uk/jobs/companies/gitlab/remote-engineering-manager-build-174866)
+**Company:** gitlab | **Source:** Arbeitnow | **Location:** Remote
+
+### [Senior Backend Software Engineer (TypeScript, NestJS/Node.js) (m/f/x)](https://www.arbeitnow.fr/jobs/companies/atolls/senior-backend-software-engineer-typescript-nestjs-nodejs-paris-163769)
+**Company:** Atolls | **Source:** Arbeitnow | **Location:** Paris, France
 
 ### [(Senior) Recruiting Specialist (m/w/d) remote CH](https://www.arbeitnow.ch/jobs/companies/edl-consulting/senior-recruiting-specialist-remote-ch-schweiz-382967)
 **Company:** Edl Consulting | **Source:** Arbeitnow | **Location:** Schweiz
@@ -31,20 +40,8 @@
 ### [Embedded Linux Consultant - Japan](https://jobicy.com/jobs/150361-embedded-linux-consultant-japan)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Japan
 
-### [Chef de projet déploiement des aides nationales - 3558 -  H/F](https://www.arbeitnow.fr/jobs/companies/agence-de-services-et-de-paiement/chef-de-projet-deploiement-des-aides-nationales-3558-h-f-limoges-269081)
-**Company:** Agence de services et de paiement | **Source:** Arbeitnow | **Location:** Limoges, Nouvelle-Aquitaine, France
-
-### [Talent Acquisition Specialist, Early Careers - EMEA](https://www.arbeitnow.fr/jobs/companies/mistralai/talent-acquisition-specialist-early-careers-emea-paris-134673)
-**Company:** Mistral.ai | **Source:** Arbeitnow | **Location:** Paris
-
 ### [Senior Talent Acquisition Specialist - 12 months Fixed-term](https://www.arbeitnow.ch/jobs/companies/audif1/senior-talent-acquisition-specialist-12-months-fixed-term-hinwil-switzerland-195089)
 **Company:** Audif1 | **Source:** Arbeitnow | **Location:** Hinwil Switzerland
-
-### [Lead Talent Acquisition EMEA](https://www.arbeitnow.fr/jobs/companies/pelico/lead-talent-acquisition-emea-paris-210555)
-**Company:** Pelico | **Source:** Arbeitnow | **Location:** Paris
-
-### [Medical Data Officer](https://www.arbeitnow.fr/jobs/companies/excelya/medical-data-officer-bordeaux-17568)
-**Company:** Excelya | **Source:** Arbeitnow | **Location:** Bordeaux, France
 
 ### [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475)
 **Company:** Lemon.io | **Source:** RemoteOK | **Location:** Worldwide
