@@ -1,38 +1,65 @@
-# Daily Remote Front-End Jobs Digest (2026-10-16)
+# Daily Remote Front-End Jobs Digest (2026-10-17)
 
-*Total Matching Roles Found: 19*
+*Total Matching Roles Found: 26*
 
 ---
 
-### [Frontend Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/frontend-softwareentwickler-berlin-250708)
-**Company:** TecFox GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [Manager, Engineering, Secure Build and SCS Services (East Coast Preferred)](https://www.arbeitnow.co.uk/jobs/companies/docker/manager-engineering-secure-build-and-scs-services-east-coast-preferred-england-449998)
+**Company:** Docker | **Source:** Arbeitnow | **Location:** England
 
-### [Talent Acquisition Lead, Product](https://www.arbeitnow.co.uk/jobs/companies/prolific/talent-acquisition-lead-product-london-297179)
-**Company:** prolific | **Source:** Arbeitnow | **Location:** London
+### [Tech Recruiter (all genders)](https://www.arbeitnow.com/jobs/companies/wemolo/tech-recruiter-all-genders-munchen-498593)
+**Company:** Wemolo | **Source:** Arbeitnow | **Location:** Munich
 
-### [People & Culture Manager (m/w/d) - Fokus Sales Recruiting](https://www.arbeitnow.com/jobs/companies/enter-by-baupal-gmbh/people-culture-manager-fokus-sales-recruiting-berlin-37581)
-**Company:** Enter by baupal GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [GTM Recruiter, EMEA](https://www.arbeitnow.fr/jobs/companies/notion/gtm-recruiter-emea-paris-493096)
+**Company:** Notion | **Source:** Arbeitnow | **Location:** Paris, France
 
-### [Lead Frontend Architekt*](https://www.arbeitnow.com/jobs/companies/accso-accelerated-solutions-gmbh/lead-frontend-architekt-darmstadt-340300)
-**Company:** Accso – Accelerated Solutions GmbH | **Source:** Arbeitnow | **Location:** Darmstadt
+### [UX Product Designer](https://www.arbeitnow.co.uk/jobs/companies/archer56/ux-product-designer-south-east-hampshire-174993)
+**Company:** Archer56 | **Source:** Arbeitnow | **Location:** South East Hampshire
 
-### [Account Executive 🇫🇷 (Mid-market)](https://www.arbeitnow.fr/jobs/companies/alan/account-executive-mid-market-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-238732)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+### [Talent Acquisition Lead](https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/talent-acquisition-lead-london-220838)
+**Company:** 84674Th44Metrea9999 | **Source:** Arbeitnow | **Location:** London
 
-### [Key Account Manager](https://www.arbeitnow.fr/jobs/companies/alan/key-account-manager-paris-france-bordeaux-france-marseille-france-annecy-france-30179)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Marseille, France; Annecy, France
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-cambridge-132308)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [Enterprise Account Executive](https://www.arbeitnow.fr/jobs/companies/alan/enterprise-account-executive-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-123704)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-bristol-30704)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** Bristol
 
-### [Ingénieur R&D Conception d'équipements d’essais (H/F)](https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-rd-conception-dequipements-dessais-h-f-lyon-454240)
-**Company:** Inautalent | **Source:** Arbeitnow | **Location:** Lyon, France
+### [Senior Software Engineer in Build Engineering](https://www.arbeitnow.co.uk/jobs/companies/graphcore/senior-software-engineer-in-build-engineering-london-94528)
+**Company:** Graphcore | **Source:** Arbeitnow | **Location:** London
 
-### [Ingénieur R&D Conception d'équipements d’essais (H/F)](https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-rd-conception-dequipements-dessais-h-f-neuville-sur-saone-216884)
-**Company:** Inautalent | **Source:** Arbeitnow | **Location:** Neuville-sur-Saône, France
+### [Junior Product Designer - UI/UX](https://www.arbeitnow.ch/jobs/companies/ethon/junior-product-designer-ui-ux-zurich-299042)
+**Company:** Ethon | **Source:** Arbeitnow | **Location:** Zürich
 
-### [B2B Growth Marketer - Benelux](https://www.arbeitnow.nl/jobs/companies/elevenlabs/b2b-growth-marketer-benelux-netherlands-483775)
-**Company:** ElevenLabs | **Source:** Arbeitnow | **Location:** Netherlands
+### [Senior Web UX/UI Designer](https://www.arbeitnow.com/jobs/companies/jetbrains/senior-web-ux-ui-designer-berlin-munich-316297)
+**Company:** jetbrains | **Source:** Arbeitnow | **Location:** Berlin; Munich
+
+### [Recruitment Assistant (German-Speaking)](https://www.arbeitnow.com/jobs/companies/the-global-talent-co/recruitment-assistant-german-speaking-berlin-261484)
+**Company:** The Global Talent Co. | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Junior Recruiter (German-Speaking)](https://www.arbeitnow.com/jobs/companies/the-global-talent-co/junior-recruiter-german-speaking-berlin-394770)
+**Company:** The Global Talent Co. | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Senior AI Engineer - Freelance](https://www.arbeitnow.fr/jobs/companies/mirakl-labs/senior-ai-engineer-freelance-bordeaux-75943)
+**Company:** Mirakl - Labs | **Source:** Arbeitnow | **Location:** Bordeaux, France
+
+### [Mobile Engineer - React Native](https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024)
+**Company:** Alma31 | **Source:** Arbeitnow | **Location:** Paris, Paris
+
+### [Channel Lead Benelux & Nordics (m/f/x)](https://www.arbeitnow.nl/jobs/companies/eye-security/channel-lead-benelux-nordics-the-hague-382829)
+**Company:** Eye Security | **Source:** Arbeitnow | **Location:** The Hague - hybrid
+
+### [Working Student Talent Acquisition](https://www.arbeitnow.nl/jobs/companies/eye-security/working-student-talent-acquisition-the-hague-29126)
+**Company:** Eye Security | **Source:** Arbeitnow | **Location:** The Hague - hybrid
+
+### [Propulsion Engineer - Huracan Components](https://www.arbeitnow.fr/jobs/companies/the-exploration-company/propulsion-engineer-huracan-components-bordeaux-14947)
+**Company:** The Exploration Company | **Source:** Arbeitnow | **Location:** Bordeaux, France
+
+### [HIL Engineer — Huracan Rocket Engine](https://www.arbeitnow.fr/jobs/companies/the-exploration-company/hil-engineer-huracan-rocket-engine-bordeaux-105519)
+**Company:** The Exploration Company | **Source:** Arbeitnow | **Location:** Bordeaux, France
+
+### [Enterprise Account Executive (Benelux)](https://www.arbeitnow.nl/jobs/companies/lyric/enterprise-account-executive-benelux-378923)
+**Company:** Lyric | **Source:** Arbeitnow | **Location:** Benelux
 
 ### [Senior Software Engineer - Full Stack/Front-end focused](https://jobicy.com/jobs/155383-senior-software-engineer-full-stack-front-end-focused)
 **Company:** Tripadvisor | **Source:** Jobicy | **Location:** Poland,  Portugal,  UK
@@ -46,9 +73,6 @@
 ### [Senior Frontend Engineer](https://www.arbeitnow.ch/jobs/companies/callista-group-ag/senior-frontend-engineer-luzern-121805)
 **Company:** Callista Group AG | **Source:** Arbeitnow | **Location:** Luzern, Luzern, Switzerland
 
-### [Senior Software Engineer (Full Stack | Node.js & React | AI Focus)](https://jobicy.com/jobs/155233-senior-software-engineer-full-stack-node-js-react-ai-focus)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Brazil
-
 ### [Senior React Full stack Developer](https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475)
 **Company:** Lemon.io | **Source:** RemoteOK | **Location:** Worldwide
 
@@ -57,7 +81,4 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Desarrollador Front-End Angular](undefined)
-**Company:** VELAIO | **Source:** Himalayas | **Location:** Worldwide
 
