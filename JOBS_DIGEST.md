@@ -1,35 +1,101 @@
-# Daily Remote Front-End Jobs Digest (2026-10-19)
+# Daily Remote Front-End Jobs Digest (2026-10-20)
 
-*Total Matching Roles Found: 38*
+*Total Matching Roles Found: 42*
 
 ---
+
+### [Linux - Systemadministrator:in](https://www.arbeitnow.com/jobs/companies/plutex-gmbh/linux-systemadministratorin-bremen-220186)
+**Company:** PLUTEX GmbH | **Source:** Arbeitnow | **Location:** Bremen
+
+### [Recruiter (m/w/d) - Headhunter (w/m/d) - nur für unser Unternehmen - Remote](https://www.arbeitnow.com/jobs/companies/barz-burodienstleistung/recruiter-headhunter-nur-fur-unser-unternehmen-remote-konz-458655)
+**Company:** Barz-Bürodienstleistung | **Source:** Arbeitnow | **Location:** Konz
+
+### [Field Service Engineer – Semiconductor Equipment (f/m/d)](https://www.arbeitnow.com/jobs/companies/quantumdiamonds/field-service-engineer-semiconductor-equipment-munich-316520)
+**Company:** Quantumdiamonds | **Source:** Arbeitnow | **Location:** Munich HQ
+
+### [Talent Acquisition Partner, Generalist](https://www.arbeitnow.co.uk/jobs/companies/xyz-reality/talent-acquisition-partner-generalist-london-352727)
+**Company:** Xyz Reality | **Source:** Arbeitnow | **Location:** London Office
+
+### [AI Builder — Working Student](https://www.arbeitnow.com/jobs/companies/eggai/ai-builder-working-student-germany-483700)
+**Company:** Eggai | **Source:** Arbeitnow | **Location:** Germany
+
+### [Chef D'équipe Logistique – Préparation F/H](https://www.arbeitnow.fr/jobs/companies/hamelin/chef-dequipe-logistique-preparation-f-h-grentheville-415382)
+**Company:** Hamelin | **Source:** Arbeitnow | **Location:** Grentheville, Normandie, France
+
+### [Post-doctorant.e : "Elaboration et caractérisation de matériaux inorganiques à partir d’une mine urbaine" - CDD 18 mois](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-elaboration-et-caracterisation-de-materiaux-inorganiques-a-partir-dune-mine-urbaine-cdd-18-mois-saint-etienne-227076)
+**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** Saint-Etienne, Auvergne-Rhône-Alpes, France
+
+### [Werkstudent/in Recruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/srcon-gmbh/werkstudent-in-recruiting-bochum-204365)
+**Company:** SRCon GmbH | **Source:** Arbeitnow | **Location:** Bochum
+
+### [Mitarbeiter im Recruiting (m/w/d) - JN701-02](https://www.arbeitnow.com/jobs/companies/projekt-team-personalberatung/mitarbeiter-im-recruiting-jn701-02-oldenburg-77568)
+**Company:** Projekt-Team Personalberatung | **Source:** Arbeitnow | **Location:** Oldenburg
+
+### [Recruiting & Account Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/lutz-haan-gmbh/recruiting-account-manager-munster-116598)
+**Company:** Lutz & Haan GmbH | **Source:** Arbeitnow | **Location:** Münster
+
+### [Account Executive, Full-Cycle (m/f/d) — Build our sales motion from scratch | Berlin](https://www.arbeitnow.com/jobs/companies/cygrid-gmbh/account-executive-full-cycle-build-our-sales-motion-from-scratch-berlin-390524)
+**Company:** Cygrid GmbH | **Source:** Arbeitnow | **Location:** Berlin
+
+### [GTM (Go-to-Market) Engineer (m/f/d) — Build our outbound engine | Remote EU or Berlin](https://www.arbeitnow.com/jobs/companies/cygrid-gmbh/gtm-go-to-market-engineer-build-our-outbound-engine-remote-eu-or-berlin-168979)
+**Company:** Cygrid GmbH | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Fluidplaner (m/w/d)](https://www.arbeitnow.com/jobs/companies/schuster-maschinenbau-gmbh/fluidplaner-denklingen-372473)
+**Company:** Schuster Maschinenbau GmbH | **Source:** Arbeitnow | **Location:** Denklingen
+
+### [Werkstudent:in Recruiting (m/w/d)](https://www.arbeitnow.com/jobs/companies/saw-group/werkstudentin-recruiting-hamburg-276463)
+**Company:** SAW-Group | **Source:** Arbeitnow | **Location:** Hamburg
+
+### [Chef d'équipe logistique (H/F)](https://www.arbeitnow.fr/jobs/companies/teampicnic/chef-dequipe-logistique-h-f-moissy-cramayel-seine-et-marne-74172)
+**Company:** Teampicnic | **Source:** Arbeitnow | **Location:** Moissy-Cramayel, Seine-et-Marne
+
+### [Senior UICC/eUICC/eSIM Engineer](https://jobicy.com/jobs/151131-senior-uicc-euicc-esim-engineer)
+**Company:** emnify | **Source:** Jobicy | **Location:** Austria,  Germany,  Poland,  Switzerland
+
+### [Finnish Tech Linguistic Tester](https://jobicy.com/jobs/146757-finnish-tech-linguistic-tester)
+**Company:** Welo Global | **Source:** Jobicy | **Location:** Anywhere
+
+### [Systeembeheerder Linux - High Performance Clusters (m/v/x)](https://www.arbeitnow.nl/jobs/companies/koninklijk-nederlands-lucht-en-ruimtevaartcentrum/systeembeheerder-linux-high-performance-clusters-amsterdam-54071)
+**Company:** Koninklijk Nederlands Lucht- en Ruimtevaartcentrum | **Source:** Arbeitnow | **Location:** Amsterdam, Noord-Holland, Nederland
+
+### [Senior Uitvoerder kabels & leidingen Railinfra](https://www.arbeitnow.nl/jobs/companies/dura-vermeer/remote-senior-uitvoerder-kabels-leidingen-railinfra-utrecht-406773)
+**Company:** Dura Vermeer | **Source:** Arbeitnow | **Location:** Werken op afstand
+
+### [DevOps Engineer - SIP Core (Voice Platform)](https://www.arbeitnow.nl/jobs/companies/swisscom/devops-engineer-sip-core-voice-platform-rotterdam-370181)
+**Company:** Swisscom | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
+
+### [Senior DevOps Engineer](https://www.arbeitnow.nl/jobs/companies/swisscom/senior-devops-engineer-rotterdam-135896)
+**Company:** Swisscom | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
+
+### [Stage AI & Automation](https://www.arbeitnow.nl/jobs/companies/p1-travel/stage-ai-automation-leiden-141316)
+**Company:** P1 Travel | **Source:** Arbeitnow | **Location:** Leiden, Zuid-Holland, Nederland
+
+### [AI Content & Knowledge Manager Intern](https://www.arbeitnow.fr/jobs/companies/backmarket/ai-content-knowledge-manager-intern-bordeaux-420170)
+**Company:** Backmarket | **Source:** Arbeitnow | **Location:** Bordeaux
+
+### [Spécialiste Support Pilotage et Comptabilité (Télétravail complet possible - Bordeaux & Gironde)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-pilotage-et-comptabilite-teletravail-complet-possible-bordeaux-gironde-17841)
+**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Bordeaux
+
+### [Spécialiste Support Pilotage et Comptabilité (Télétravail complet possible)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-pilotage-et-comptabilite-teletravail-complet-possible-bordeaux-28299)
+**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Bordeaux
+
+### [Spécialiste Support Pilotage et Comptabilité (Télétravail complet possible depuis Biarritz)](https://www.arbeitnow.fr/jobs/companies/pennylane-sas/specialiste-support-pilotage-et-comptabilite-teletravail-complet-possible-depuis-biarritz-89258)
+**Company:** Pennylane SAS | **Source:** Arbeitnow | **Location:** Biarritz
+
+### [Stage Mechatronica: EPLAN Fluid](https://www.arbeitnow.nl/jobs/companies/voortman-steel-machinery/stage-mechatronica-eplan-fluid-rijssen-402829)
+**Company:** Voortman Steel Machinery | **Source:** Arbeitnow | **Location:** Rijssen, Overijssel, Nederland
+
+### [Mobile Engineer - React Native (Paris or Remote France)](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)
+**Company:** Alma | **Source:** Jobicy | **Location:** France
 
 ### [Teamleider Integraal Archiefbeheer](https://www.arbeitnow.nl/jobs/companies/rocketsourcers-bv/teamleider-integraal-archiefbeheer-den-haag-44523)
 **Company:** RocketSourcers B.V. | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Netherlands
 
-### [Creator Acquisition & Content Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/genuine-beauty-gmbh/creator-acquisition-content-manager-cologne-390679)
-**Company:** GENUINE Beauty GmbH | **Source:** Arbeitnow | **Location:** Cologne
+### [Full Stack Developer (Frontend-Focused) - Canada](https://jobicy.com/jobs/155840-full-stack-developer-frontend-focused-canada)
+**Company:** Brafton | **Source:** Jobicy | **Location:** Canada
 
 ### [Freelance Back End / Typescript Developer](https://www.arbeitnow.nl/jobs/companies/schubergphilis/freelance-back-end-typescript-developer-rotterdam-262875)
 **Company:** Schubergphilis | **Source:** Arbeitnow | **Location:** Rotterdam
-
-### [Métreur Poseur futur Chef d'équipe H/F (25)](https://www.arbeitnow.fr/jobs/companies/unaferm/metreur-poseur-futur-chef-dequipe-h-f-25-doubs-452054)
-**Company:** UNAFERM | **Source:** Arbeitnow | **Location:** Doubs, Bourgogne-Franche-Comté, France
-
-### [SEO- & Content-Manager:in (m/w/d) - 37,5 Std./Woche](https://www.arbeitnow.com/jobs/companies/getrankeland-heidebrecht-gmbh-co-kg/seo-content-managerin-375-std-woche-elmenhorst-lichtenhagen-38637)
-**Company:** Getränkeland Heidebrecht GmbH & Co. KG | **Source:** Arbeitnow | **Location:** Elmenhorst/Lichtenhagen
-
-### [Full-Stack-Entwickler (m/w/d) – React / Next.js mit UI/UX-Fokus](https://www.arbeitnow.com/jobs/companies/region10-group-gmbh/full-stack-entwickler-react-nextjs-mit-ui-ux-fokus-kosching-324697)
-**Company:** REGION10 GROUP GmbH | **Source:** Arbeitnow | **Location:** Kösching
-
-### [Stage - Data Engineer - ML (H/F)](https://www.arbeitnow.fr/jobs/companies/withings/stage-data-engineer-ml-h-f-issy-les-moulineaux-335198)
-**Company:** Withings | **Source:** Arbeitnow | **Location:** Issy-les-Moulineaux, France
-
-### [Post-doctorant.e en conception de catalyseurs bimétalliques et multifonctionnels pour la conversion directe du CO2 en carburants liquides (H/F) – CDD 11 mois](https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-en-conception-de-catalyseurs-bimetalliques-et-multifonctionnels-pour-la-conversion-directe-du-co2-en-carburants-liquides-h-f-cdd-150219)
-**Company:** Institut Mines-Télécom | **Source:** Arbeitnow | **Location:** Albi, Occitanie, France
-
-### [Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/ben/talent-acquisition-partner-london-178297)
-**Company:** Ben | **Source:** Arbeitnow | **Location:** London
 
 ### [Recruitment Stagiair - Stageplek bij de Afdeling Recruitment van Cordaan](https://www.arbeitnow.nl/jobs/companies/cordaan/remote-recruitment-stagiair-stageplek-bij-de-afdeling-recruitment-van-cordaan-amsterdam-44820)
 **Company:** Cordaan | **Source:** Arbeitnow | **Location:** Werken op afstand
@@ -49,63 +115,6 @@
 ### [Beleidsadviseur Maatschappelijke Ontwikkeling | Publieke Sector](https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/beleidsadviseur-maatschappelijke-ontwikkeling-publieke-sector-rotterdam-443002)
 **Company:** Berenschot Groep B.V. | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Nederland
 
-### [Beleidsadviseur Cultuur en Participatie | Publieke Sector](https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/beleidsadviseur-cultuur-en-participatie-publieke-sector-rotterdam-298899)
-**Company:** Berenschot Groep B.V. | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Nederland
-
-### [Senior Business Controller | RVO](https://www.arbeitnow.nl/jobs/companies/berenschot-groep-bv/senior-business-controller-rvo-den-haag-492951)
-**Company:** Berenschot Groep B.V. | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Nederland
-
-### [Senior Controls Engineer](https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-488892)
-**Company:** AMF Bakery Systems B.V. | **Source:** Arbeitnow | **Location:** Gorinchem, Zuid-Holland, Nederland
-
-### [Responsable QHSE H/F](https://www.arbeitnow.fr/jobs/companies/groupe-cybertek/responsable-qhse-h-f-bordeaux-316240)
-**Company:** GROUPE CYBERTEK | **Source:** Arbeitnow | **Location:** Bordeaux
-
-### [Ingénieur système et réseaux senior h/f](https://www.arbeitnow.fr/jobs/companies/is-at-talent/ingenieur-systeme-et-reseaux-senior-h-f-paris-365311)
-**Company:** Is@talent | **Source:** Arbeitnow | **Location:** Paris
-
-### [Technicien Réseaux & Télécom Itinérant (H/F)](https://www.arbeitnow.fr/jobs/companies/azurreo/technicien-reseaux-telecom-itinerant-h-f-paris-466825)
-**Company:** AZURREO | **Source:** Arbeitnow | **Location:** Paris
-
-### [(Senior) Freight Forwarder Project Logistics](https://www.arbeitnow.nl/jobs/companies/geodis-benelux/senior-freight-forwarder-project-logistics-rotterdam-albrandswaard-100460)
-**Company:** GEODIS Benelux | **Source:** Arbeitnow | **Location:** Rotterdam-Albrandswaard, Zuid-Holland, Nederland
-
-### [SoC Architect](https://www.arbeitnow.nl/jobs/companies/qualinx/soc-architect-delft-146679)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Senior Communication System Engineer](https://www.arbeitnow.nl/jobs/companies/qualinx/senior-communication-system-engineer-delft-296666)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Senior GNSS Software Architect / Principal GNSS Engineer](https://www.arbeitnow.nl/jobs/companies/qualinx/senior-gnss-software-architect-principal-gnss-engineer-delft-353033)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Senior Digital Validation Engineer](https://www.arbeitnow.nl/jobs/companies/qualinx/senior-digital-validation-engineer-delft-156301)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Test Engineer](https://www.arbeitnow.nl/jobs/companies/qualinx/test-engineer-delft-144727)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Senior Embedded Software Engineer](https://www.arbeitnow.nl/jobs/companies/qualinx/senior-embedded-software-engineer-delft-356687)
-**Company:** Qualinx | **Source:** Arbeitnow | **Location:** Delft, Zuid-Holland, Netherlands
-
-### [Senior Engineer Elektrotechniek](https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-engineer-elektrotechniek-den-haag-441542)
-**Company:** Deerns Groep BV | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Netherlands
-
-### [Cost Manager (medior/senior)](https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/cost-manager-medior-senior-den-haag-355332)
-**Company:** Deerns Groep BV | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Netherlands
-
-### [Senior Mechanical Engineer](https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-mechanical-engineer-den-haag-319355)
-**Company:** Deerns Groep BV | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Netherlands
-
-### [Senior Mechanical Engineer](https://www.arbeitnow.nl/jobs/companies/deerns-groep-bv/senior-mechanical-engineer-den-haag-79048)
-**Company:** Deerns Groep BV | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Netherlands
-
-### [Full Stack Developer (Frontend-Focused) - Mexico](https://jobicy.com/jobs/155665-full-stack-developer-frontend-focused-mexico)
-**Company:** Brafton | **Source:** Jobicy | **Location:** Mexico
-
-### [Full Stack Developer (Frontend-Focused) - Brazil](https://jobicy.com/jobs/155661-full-stack-developer-frontend-focused-brazil)
-**Company:** Brafton | **Source:** Jobicy | **Location:** Brazil
-
 ### [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523)
 **Company:** Somnio Software | **Source:** RemoteOK | **Location:** Worldwide
 
@@ -117,4 +126,7 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
+
+### [Customer Acquisition Specialist (CAS)-Remote](undefined)
+**Company:** TheHiveCareers | **Source:** Himalayas | **Location:** Worldwide
 
