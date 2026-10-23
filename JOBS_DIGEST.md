@@ -1,17 +1,65 @@
-# Daily Remote Front-End Jobs Digest (2026-10-22)
+# Daily Remote Front-End Jobs Digest (2026-10-23)
 
-*Total Matching Roles Found: 42*
+*Total Matching Roles Found: 37*
 
 ---
 
-### [Senior Frontend-Softwareentwickler (m/w/d)](https://www.arbeitnow.com/jobs/companies/tecfox-gmbh/senior-frontend-softwareentwickler-berlin-422309)
-**Company:** TecFox GmbH | **Source:** Arbeitnow | **Location:** Berlin
+### [Lead Frontend / Fullstack Engineer](https://www.arbeitnow.com/jobs/companies/protofy-gmbh-co-kg/lead-frontend-fullstack-engineer-berlin-131896)
+**Company:** Protofy GmbH & Co. KG | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Junior Produktentwickler Sportequipment (m/w/d)](https://www.arbeitnow.com/jobs/companies/gornation-gmbh/junior-produktentwickler-sportequipment-munster-227978)
-**Company:** GORNATION GmbH | **Source:** Arbeitnow | **Location:** Münster
+### [HR/Recruiter Intern: Unpaid Part Time Mandatory Internship @ early stage startup](https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-recruiter-intern-unpaid-part-time-mandatory-internship-at-early-stage-startup-berlin-277434)
+**Company:** IndieKidz GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Recruiting Consultant mit Entwicklungsmöglichkeiten zur Führungskraft (m/w/d)](https://www.arbeitnow.com/jobs/companies/contentcut-gmbh/recruiting-consultant-mit-entwicklungsmoglichkeiten-zur-fuhrungskraft-hamburg-170076)
-**Company:** ContentCut GmbH | **Source:** Arbeitnow | **Location:** Hamburg
+### [Sales Manager Issuing und Loyalty (W/M/D)](https://www.arbeitnow.com/jobs/companies/secupay-ag/sales-manager-issuing-und-loyalty-pulsnitz-215700)
+**Company:** secupay AG | **Source:** Arbeitnow | **Location:** Pulsnitz
+
+### [Développeur Nouveaux Projets (F/H/X)](https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-80507)
+**Company:** Novar Nederland BV | **Source:** Arbeitnow | **Location:** Lyon, Auvergne-Rhône-Alpes, Frankrijk
+
+### [Applied AI Engineer - Direct Acquisition](https://www.arbeitnow.co.uk/jobs/companies/iwoca/applied-ai-engineer-direct-acquisition-london-36548)
+**Company:** iwoca | **Source:** Arbeitnow | **Location:** London
+
+### [Data Scientist - Third-Party Acquisition](https://www.arbeitnow.co.uk/jobs/companies/iwoca/data-scientist-third-party-acquisition-london-385024)
+**Company:** iwoca | **Source:** Arbeitnow | **Location:** London
+
+### [DUISBURG - Standortleiter (m/w/d)](https://www.arbeitnow.com/jobs/companies/roadsurfer/duisburg-standortleiter-273960)
+**Company:** Roadsurfer | **Source:** Arbeitnow | **Location:** Duisburg
+
+### [Station Manager (m/w/d)](https://www.arbeitnow.com/jobs/companies/roadsurfer/station-manager-duisburg-357506)
+**Company:** Roadsurfer | **Source:** Arbeitnow | **Location:** Duisburg
+
+### [Virtuelle Assistenz (m/w/d) Recruiting / Personalgewinnung – Remote](https://www.arbeitnow.com/jobs/companies/toptaner-office-dienstleistung/virtuelle-assistenz-recruiting-personalgewinnung-remote-gross-gerau-395608)
+**Company:** Toptaner - Office Dienstleistung | **Source:** Arbeitnow | **Location:** Groß-Gerau
+
+### [Ingénieur travaux - secteur centre-projet métro F/H](https://www.arbeitnow.fr/jobs/companies/rh-partners/ingenieur-travaux-secteur-centre-projet-metro-f-h-toulouse-380818)
+**Company:** RH Partners | **Source:** Arbeitnow | **Location:** Toulouse, Occitanie, France
+
+### [Ingénieur en mécanique des fluides](https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/ingenieur-en-mecanique-des-fluides-brest-276576)
+**Company:** ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES | **Source:** Arbeitnow | **Location:** Brest, Bretagne, France
+
+### [Ingénieur en mécanique des fluides](https://www.arbeitnow.fr/jobs/companies/ecole-nationale-superieure-de-techniques-avancees/ingenieur-en-mecanique-des-fluides-brest-36884)
+**Company:** ECOLE NATIONALE SUPERIEURE DE TECHNIQUES AVANCEES | **Source:** Arbeitnow | **Location:** Brest, Bretagne, France
+
+### [Senior Software Engineer (Frontend)](https://jobicy.com/jobs/156500-senior-software-engineer-frontend-3)
+**Company:** Happy Money | **Source:** Jobicy | **Location:** USA
+
+### [Junior Supply Chain Engineer - Operations (H/F)](https://www.arbeitnow.fr/jobs/companies/withings/junior-supply-chain-engineer-operations-h-f-issy-les-moulineaux-410004)
+**Company:** Withings | **Source:** Arbeitnow | **Location:** Issy-les-Moulineaux, France
+
+### [Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Zoetermeer](https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-zoetermeer-271006)
+**Company:** Whitevision B.V. | **Source:** Arbeitnow | **Location:** Zoetermeer, Zuid-Holland, Nederland
+
+### [AI Engineer (Agentic AI)](https://www.arbeitnow.nl/jobs/companies/lefebvre-sdu/ai-engineer-agentic-ai-den-haag-208292)
+**Company:** Lefebvre Sdu | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Nederland
+
+### [Product Manager - Agent Experience (Fluency in French & English required)](https://www.arbeitnow.fr/jobs/companies/kaluza/product-manager-agent-experience-fluency-in-french-english-required-paris-paris-186330)
+**Company:** Kaluza | **Source:** Arbeitnow | **Location:** Paris, Paris
+
+### [Enterprise Account Management - Benelux](https://www.arbeitnow.nl/jobs/companies/perk/enterprise-account-management-benelux-amsterdam-371022)
+**Company:** Perk | **Source:** Arbeitnow | **Location:** Amsterdam
+
+### [Senior Requirements Manager / Stv. Stream-Leitung (m/w/d) - Öffentlicher Sektor  (Ref.Nr.: 48048)](https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-requirements-manager-stv-stream-leitung-offentlicher-sektor-refnr-48048-zurich-299787)
+**Company:** Wavestone Germany AG | **Source:** Arbeitnow | **Location:** Zürich
 
 ### [IT Servicedesk Engineer (Senior)](https://www.arbeitnow.nl/jobs/companies/sunweb-group/it-servicedesk-engineer-senior-rotterdam-425920)
 **Company:** Sunweb Group | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
@@ -49,71 +97,8 @@
 ### [Senior Acquisition Marketeer](https://www.arbeitnow.nl/jobs/companies/talk360/senior-acquisition-marketeer-amsterdam-26604)
 **Company:** Talk360 | **Source:** Arbeitnow | **Location:** Amsterdam, Noord-Holland, Netherlands
 
-### [Operational Technology Architect](https://www.arbeitnow.nl/jobs/companies/gradematch/operational-technology-architect-rotterdam-rijnmond-450968)
-**Company:** GradeMatch | **Source:** Arbeitnow | **Location:** Rotterdam-Rijnmond, Zuid-Holland, Nederland
-
-### [PLC Software Engineer](https://www.arbeitnow.nl/jobs/companies/gradematch/plc-software-engineer-helmond-114608)
-**Company:** GradeMatch | **Source:** Arbeitnow | **Location:** Helmond, Noord-Brabant, Nederland
-
-### [Lead Software Engineer PLC & Industry](https://www.arbeitnow.nl/jobs/companies/gradematch/lead-software-engineer-plc-industry-helmond-351592)
-**Company:** GradeMatch | **Source:** Arbeitnow | **Location:** Helmond, Noord-Brabant, Nederland
-
-### [Lead Analytics Engineer](https://www.arbeitnow.nl/jobs/companies/aihr/lead-analytics-engineer-rotterdam-137108)
-**Company:** AIHR | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
-
-### [Senior Sales Operations (SalesOps) Manager](https://www.arbeitnow.nl/jobs/companies/aihr/senior-sales-operations-salesops-manager-rotterdam-326112)
-**Company:** AIHR | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
-
-### [Senior Partnership Manager](https://www.arbeitnow.nl/jobs/companies/aihr/senior-partnership-manager-rotterdam-319221)
-**Company:** AIHR | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
-
-### [Growth Account Executive / Account Manager](https://www.arbeitnow.nl/jobs/companies/aihr/growth-account-executive-account-manager-rotterdam-290375)
-**Company:** AIHR | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
-
-### [Software Integration Engineer (C++/Linux)](https://www.arbeitnow.nl/jobs/companies/benchmark/software-integration-engineer-c-linux-almelo-39224)
-**Company:** Benchmark | **Source:** Arbeitnow | **Location:** Almelo, Overijssel, Nederland
-
-### [IAM Platform Engineer - Keycloak & Java](https://www.arbeitnow.nl/jobs/companies/centraal-bureau-voor-de-statistiek/iam-platform-engineer-keycloak-java-den-haag-146365)
-**Company:** Centraal Bureau voor de Statistiek | **Source:** Arbeitnow | **Location:** Den Haag, Zuid-Holland, Nederland
-
-### [STAGE - Ingénieur Qualité F/H](https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-qualite-f-h-mouilleron-saint-germain-168265)
-**Company:** FLEURY MICHON | **Source:** Arbeitnow | **Location:** Mouilleron-Saint-Germain, Pays de la Loire, France
-
-### [STAGE - Ingénieur Optimisation des processus industriels F/H](https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-ingenieur-optimisation-des-processus-industriels-f-h-mouilleron-saint-germain-326081)
-**Company:** FLEURY MICHON | **Source:** Arbeitnow | **Location:** Mouilleron-Saint-Germain, Pays de la Loire, France
-
-### [Responsable Service Industriel Fabrication et Nettoyage F/H](https://www.arbeitnow.fr/jobs/companies/fleury-michon/responsable-service-industriel-fabrication-et-nettoyage-f-h-mouilleron-saint-germain-142448)
-**Company:** FLEURY MICHON | **Source:** Arbeitnow | **Location:** Mouilleron-Saint-Germain, Pays de la Loire, France
-
-### [STAGE - Assistant Chef de produit F/H - Janvier 2027](https://www.arbeitnow.fr/jobs/companies/fleury-michon/stage-assistant-chef-de-produit-f-h-janvier-2027-la-meilleraie-tillay-302027)
-**Company:** FLEURY MICHON | **Source:** Arbeitnow | **Location:** La Meilleraie-Tillay, Pays de la Loire, France
-
 ### [Ingénieur·e environnement / spécialiste bruit](https://www.arbeitnow.ch/jobs/companies/urbaplan/ingenieure-environnement-specialiste-bruit-lausanne-34339)
 **Company:** Urbaplan | **Source:** Arbeitnow | **Location:** Lausanne, Vaud, Suisse
-
-### [Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/faculty/frontend-engineer-london-61540)
-**Company:** Faculty | **Source:** Arbeitnow | **Location:** London
-
-### [Full-Stack Engineer (Frontend Leaning) - Studio](https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-full-stack-engineer-frontend-leaning-studio-291198)
-**Company:** ElevenLabs | **Source:** Arbeitnow | **Location:** Remote
-
-### [Senior Platform Engineer – Linux & Kubernetes auf Bare Metal (m/w/d)](https://www.arbeitnow.com/jobs/companies/mittwald-cm-service-gmbh-co-kg/senior-platform-engineer-linux-kubernetes-auf-bare-metal-espelkamp-457319)
-**Company:** Mittwald CM Service GmbH & Co. KG | **Source:** Arbeitnow | **Location:** Espelkamp
-
-### [Junior Recruiter (m/w/d) - JN701-02](https://www.arbeitnow.com/jobs/companies/projekt-team-personalberatung/junior-recruiter-jn701-02-oldenburg-273222)
-**Company:** Projekt-Team Personalberatung | **Source:** Arbeitnow | **Location:** Oldenburg
-
-### [IT-System-Administrator:in für Digitalagentur - Apple macOS & Linux (Region Frankfurt/Main) *](https://www.arbeitnow.com/jobs/companies/ilias-vassiliou-team-headhunterdigital-recruiting-fur-digital-sales-it-ki-automation/it-system-administratorin-fur-digitalagentur-apple-macos-linux-region-frankfurt-main-frankfurt-am-main-413965)
-**Company:** Ilias Vassiliou & Team / headhunter.digital / Recruiting für Digital, Sales, IT, KI, Automation | **Source:** Arbeitnow | **Location:** Frankfurt am Main
-
-### [Werkstudent:in HR (m/w/d)](https://www.arbeitnow.com/jobs/companies/akm-wundmanagement-gmbh/werkstudentin-hr-duisburg-267665)
-**Company:** AKM Wundmanagement GmbH | **Source:** Arbeitnow | **Location:** Duisburg
-
-### [Senior Contract C++ / JavaScript Software Engineer Firefox (Browser Engine)](https://jobicy.com/jobs/156178-senior-contract-c-javascript-software-engineer-firefox-browser-engine)
-**Company:** Mozilla | **Source:** Jobicy | **Location:** Germany
-
-### [Senior Software Enginner (Full-stack Node + React)](https://jobicy.com/jobs/153741-senior-software-enginner-full-stack-node-react)
-**Company:** Airtm | **Source:** Jobicy | **Location:** LATAM
 
 ### [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523)
 **Company:** Somnio Software | **Source:** RemoteOK | **Location:** Worldwide
@@ -127,6 +112,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Villa Travel Agent - Remote Luxury Travel (U.S.)](undefined)
-**Company:** World Travel Holdings | **Source:** Himalayas | **Location:** Worldwide
+### [Desarrollador Full Stack Java / React - Remoto](undefined)
+**Company:** Imagemaker | **Source:** Himalayas | **Location:** Worldwide
 
