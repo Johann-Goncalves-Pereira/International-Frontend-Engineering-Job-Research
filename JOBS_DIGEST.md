@@ -1,47 +1,89 @@
-# Daily Remote Front-End Jobs Digest (2026-10-24)
+# Daily Remote Front-End Jobs Digest (2026-10-25)
 
-*Total Matching Roles Found: 34*
+*Total Matching Roles Found: 38*
 
 ---
 
-### [Senior Revenue Ops](https://www.arbeitnow.fr/jobs/companies/alan/senior-revenue-ops-paris-france-bordeaux-france-lyon-france-marseille-france-biarritz-france-nantes-france-annecy-france-madrid-spain-220844)
-**Company:** Alan | **Source:** Arbeitnow | **Location:** Paris, France; Bordeaux, France; Lyon, France; Marseille, France; Biarritz, France; Nantes, France; Annecy, France; Madrid, Spain; Barcelona, Spain
+### [Senior GTM System Builder](https://www.arbeitnow.co.uk/jobs/companies/mewssystems/senior-gtm-system-builder-23406)
+**Company:** mewssystems | **Source:** Arbeitnow | **Location:** Remote
+
+### [Senior Recruitment Advisor](https://www.arbeitnow.co.uk/jobs/companies/efficioconsulting/senior-recruitment-advisor-london-426099)
+**Company:** Efficioconsulting | **Source:** Arbeitnow | **Location:** London
+
+### [Front-end Developer Junior](https://www.arbeitnow.fr/jobs/companies/odaseva/front-end-developer-junior-paris-250036)
+**Company:** Odaseva | **Source:** Arbeitnow | **Location:** Paris
+
+### [Stage - Account Manager Brandsplace - Vins & Spiritueux H/F/X - Janvier 2027](https://www.arbeitnow.fr/jobs/companies/veepee/stage-account-manager-brandsplace-vins-spiritueux-janvier-2027-saint-denis-22213)
+**Company:** Veepee | **Source:** Arbeitnow | **Location:** Saint-Denis
+
+### [Intermediate Fullstack Engineer (Ruby/Vue.js), Growth](https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth)
+**Company:** GitLab | **Source:** Jobicy | **Location:** Poland
+
+### [Senior Product Builder - Talent Pool](https://www.arbeitnow.fr/jobs/companies/wrike/senior-product-builder-talent-pool-201533)
+**Company:** Wrike | **Source:** Arbeitnow | **Location:** Remote
+
+### [Développeur Front-End React / TypeScript – H/F](https://www.arbeitnow.fr/jobs/companies/hubvisory/developpeur-front-end-react-typescript-h-f-paris-293363)
+**Company:** Hubvisory | **Source:** Arbeitnow | **Location:** Paris, Île-de-France, France
+
+### [Liftmonteur Buitendienst](https://www.arbeitnow.nl/jobs/companies/reco/liftmonteur-buitendienst-koudekerk-aan-den-rijn-197551)
+**Company:** RECO | **Source:** Arbeitnow | **Location:** Koudekerk aan den Rijn
+
+### [Manager Recruitment Onderwijs](https://www.arbeitnow.nl/jobs/companies/av-werving-selectie/manager-recruitment-onderwijs-leiden-112618)
+**Company:** AV Werving & Selectie | **Source:** Arbeitnow | **Location:** Leiden
+
+### [Adviseur Loopbaan en Mobilteit Zuid NL](https://www.arbeitnow.nl/jobs/companies/staffplanning-bv/adviseur-loopbaan-en-mobilteit-zuid-nl-eindhoven-279854)
+**Company:** Staffplanning B.V. | **Source:** Arbeitnow | **Location:** Eindhoven
+
+### [IT Recruitment Consultant](https://www.arbeitnow.nl/jobs/companies/working-talent/it-recruitment-consultant-amsterdam-212792)
+**Company:** Working Talent | **Source:** Arbeitnow | **Location:** Amsterdam
+
+### [Frontend Engineer](https://www.arbeitnow.co.uk/jobs/companies/octopus-energy-group/frontend-engineer-london-gb-166476)
+**Company:** Octopus Energy Group | **Source:** Arbeitnow | **Location:** London (GB)
+
+### [Responsable d'équipe commerciale – Télévente B2C](https://www.arbeitnow.fr/jobs/companies/octopus-energy-group/responsable-dequipe-commerciale-televente-b2c-paris-fr-177633)
+**Company:** Octopus Energy Group | **Source:** Arbeitnow | **Location:** Paris (FR)
+
+### [Senior Talent Acquisition Partner (m/f/d)  fix term for approximately 10 months](https://www.arbeitnow.com/jobs/companies/mobileye/senior-talent-acquisition-partner-fix-term-for-approximately-10-months-munich-germany-132687)
+**Company:** Mobileye | **Source:** Arbeitnow | **Location:** Munich, Germany
+
+### [Senior Talent Acquisition Partner (m/f/d)  fix term for approximately 10 months](https://www.arbeitnow.com/jobs/companies/mobileye/senior-talent-acquisition-partner-fix-term-for-approximately-10-months-koblenz-germany-234903)
+**Company:** Mobileye | **Source:** Arbeitnow | **Location:** Koblenz, Germany
+
+### [Appointment Setter (Talent Acquisition)](https://www.arbeitnow.co.uk/jobs/companies/jobgether/appointment-setter-talent-acquisition-uk-170356)
+**Company:** Jobgether | **Source:** Arbeitnow | **Location:** UK
+
+### [Senior Technical Recruiter](https://www.arbeitnow.com/jobs/companies/hypersonica/senior-technical-recruiter-munich-178727)
+**Company:** Hypersonica | **Source:** Arbeitnow | **Location:** Munich
+
+### [Engineering Manager - Frontend (UK)](https://www.arbeitnow.co.uk/jobs/companies/pigment/engineering-manager-frontend-uk-london-260033)
+**Company:** Pigment | **Source:** Arbeitnow | **Location:** London
+
+### [Principal Frontend Engineer](https://jobicy.com/jobs/156876-principal-frontend-engineer)
+**Company:** ClickUp | **Source:** Jobicy | **Location:** USA
+
+### [(Senior) Talent Acquisition Partner - Tech (f/m/d)](https://www.arbeitnow.com/jobs/companies/moss/senior-talent-acquisition-partner-tech-berlin-411809)
+**Company:** Moss | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Junior Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu)
+**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
+
+### [Full Stack Web Engineer (Python & React)](https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react)
+**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+
+### [Full Stack Engineer (Vue + Nest)](https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest)
+**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
+
+### [Frontend Architect](https://jobicy.com/jobs/156863-frontend-architect)
+**Company:** TripActions | **Source:** Jobicy | **Location:** USA
+
+### [Frontend Developer Intern](https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783)
+**Company:** ParetoLabs | **Source:** Arbeitnow | **Location:** Zürich
 
 ### [Praktikum M&A (Buy & Build/Private Equity) - Ab sofort / Q1 2027](https://www.arbeitnow.ch/jobs/companies/tw1-hauswart-gruppe/praktikum-ma-buy-build-private-equity-ab-sofort-q1-2027-zurich-333874)
 **Company:** TW1 Hauswart Gruppe | **Source:** Arbeitnow | **Location:** Zürich
 
 ### [Praktikum Corporate Development & Value Creation (Buy & Build) - Ab sofort / Q1 2027](https://www.arbeitnow.ch/jobs/companies/tw1-hauswart-gruppe/praktikum-corporate-development-value-creation-buy-build-ab-sofort-q1-2027-zurich-488300)
 **Company:** TW1 Hauswart Gruppe | **Source:** Arbeitnow | **Location:** Zürich
-
-### [HR-Generalist (m/w/d) – Personaladministration, Recruiting & Digitalisierung](https://www.arbeitnow.com/jobs/companies/pst-professional-support-technologies-gmbh/hr-generalist-personaladministration-recruiting-digitalisierung-heiligenhaus-364983)
-**Company:** PST - professional support technologies GmbH | **Source:** Arbeitnow | **Location:** Heiligenhaus
-
-### [IT-Generalist (m/w/d) – Linux, IT-Support & Digitalisierung](https://www.arbeitnow.com/jobs/companies/pst-professional-support-technologies-gmbh/it-generalist-linux-it-support-digitalisierung-heiligenhaus-425178)
-**Company:** PST - professional support technologies GmbH | **Source:** Arbeitnow | **Location:** Heiligenhaus
-
-### [Enterprise Account Executive – SAP Ecosystem & Digital Transformation for Benelux  & Nordics  (m/f/d)](https://www.arbeitnow.co.uk/jobs/companies/onapsis/enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-london-211272)
-**Company:** onapsis | **Source:** Arbeitnow | **Location:** London
-
-### [Enterprise Account Executive – SAP Ecosystem & Digital Transformation for Benelux  & Nordics  (m/f/d)](https://www.arbeitnow.nl/jobs/companies/onapsis/enterprise-account-executive-sap-ecosystem-digital-transformation-for-benelux-nordics-amsterdam-368589)
-**Company:** onapsis | **Source:** Arbeitnow | **Location:** Amsterdam
-
-### [Stage: Software Developer](https://www.arbeitnow.nl/jobs/companies/centric/stage-software-developer-gouda-40167)
-**Company:** Centric | **Source:** Arbeitnow | **Location:** Gouda, Zuid-Holland, Nederland
-
-### [Projectontwikkelaar](https://www.arbeitnow.nl/jobs/companies/dura-vermeer/projectontwikkelaar-rotterdam-378674)
-**Company:** Dura Vermeer | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Nederland
-
-### [Senior Controls Engineer](https://www.arbeitnow.nl/jobs/companies/amf-bakery-systems-bv/senior-controls-engineer-gorinchem-37451)
-**Company:** AMF Bakery Systems B.V. | **Source:** Arbeitnow | **Location:** Gorinchem, Zuid-Holland, Nederland
-
-### [Communications, Brand & Events Lead](https://www.arbeitnow.fr/jobs/companies/orakl-oncology/communications-brand-events-lead-villejuif-53086)
-**Company:** Orakl Oncology | **Source:** Arbeitnow | **Location:** Villejuif
-
-### [Product Marketing Lead](https://www.arbeitnow.fr/jobs/companies/orakl-oncology/product-marketing-lead-villejuif-192763)
-**Company:** Orakl Oncology | **Source:** Arbeitnow | **Location:** Villejuif
-
-### [Senior Business Development Manager](https://www.arbeitnow.fr/jobs/companies/orakl-oncology/senior-business-development-manager-villejuif-223610)
-**Company:** Orakl Oncology | **Source:** Arbeitnow | **Location:** Villejuif
 
 ### [Rust Engineering Lead - Linux and Open Source](https://jobicy.com/jobs/149566-rust-engineering-lead-linux-and-open-source)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
@@ -58,41 +100,8 @@
 ### [Linux Platform Integration - Ubuntu Systems Senior Engineer](https://jobicy.com/jobs/149574-linux-platform-integration-ubuntu-systems-senior-engineer)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
 
-### [Web Frontend Engineer - JS, CSS, React, Flutter](https://jobicy.com/jobs/149527-web-frontend-engineer-js-css-react-flutter)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Ubuntu Linux Kernel Engineer - Silicon Enablement](https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Talent Acquisition Specialist (Tech Focus)](https://www.arbeitnow.com/jobs/companies/orcristtechnologies/talent-acquisition-specialist-tech-focus-221756)
-**Company:** orcristtechnologies | **Source:** Arbeitnow | **Location:** Remote
-
-### [Ingénieur Conception & Instrumentation - Équipements et bancs d’essais (H/F)](https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-lyon-294146)
-**Company:** Inautalent | **Source:** Arbeitnow | **Location:** Lyon, France
-
-### [Ingénieur Conception & Instrumentation - Équipements et bancs d’essais (H/F)](https://www.arbeitnow.fr/jobs/companies/inautalent/ingenieur-conception-instrumentation-equipements-et-bancs-dessais-h-f-neuville-sur-saone-58474)
-**Company:** Inautalent | **Source:** Arbeitnow | **Location:** Neuville-sur-Saône, France
-
-### [Recruiting & HR Operations Manager](https://www.arbeitnow.ch/jobs/companies/eh-group/recruiting-hr-operations-manager-nyon-483144)
-**Company:** Eh Group | **Source:** Arbeitnow | **Location:** Nyon
-
-### [Stage – Assistant(e) Marketing Acquisition & CRM](https://www.arbeitnow.fr/jobs/companies/gemmyo/stage-assistante-marketing-acquisition-et-crm-paris-288336)
-**Company:** Gemmyo | **Source:** Arbeitnow | **Location:** Paris
-
-### [Responsable Commercial(e) – Showroom & Management des équipes (H/F)](https://www.arbeitnow.fr/jobs/companies/mia-couture/responsable-commerciale-showroom-management-des-equipes-h-f-arcueil-444106)
-**Company:** Mia Couture | **Source:** Arbeitnow | **Location:** Arcueil
-
-### [Software Engineer Fullstack Kotlin / React (x/f/m)](https://www.arbeitnow.fr/jobs/companies/doctolib/software-engineer-fullstack-kotlin-react-paris-paris-235143)
-**Company:** Doctolib | **Source:** Arbeitnow | **Location:** Paris, Paris
-
-### [Senior Account Executive - Benelux](https://www.arbeitnow.nl/jobs/companies/theydo/senior-account-executive-benelux-netherlands-102698)
-**Company:** Theydo | **Source:** Arbeitnow | **Location:** Netherlands
-
-### [Senior Software Engineer (Frontend)](https://jobicy.com/jobs/156500-senior-software-engineer-frontend-3)
-**Company:** Happy Money | **Source:** Jobicy | **Location:** USA
-
-### [Senior Implementatie Consultant SaaS, €4.250 – €6.000 | Zoetermeer](https://www.arbeitnow.nl/jobs/companies/whitevision-bv/senior-implementatie-consultant-saas-eur4250-eur6000-zoetermeer-271006)
-**Company:** Whitevision B.V. | **Source:** Arbeitnow | **Location:** Zoetermeer, Zuid-Holland, Nederland
+### [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562)
+**Company:** B2spin | **Source:** RemoteOK | **Location:** Worldwide
 
 ### [Sr REACT NATIVE](https://remoteOK.com/remote-jobs/remote-sr-react-native-somnio-software-1137523)
 **Company:** Somnio Software | **Source:** RemoteOK | **Location:** Worldwide
@@ -105,4 +114,7 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
+
+### [German International Recruiter - Portugal (Remote, Any Location, PT)](undefined)
+**Company:** Foundever | **Source:** Himalayas | **Location:** Worldwide
 
