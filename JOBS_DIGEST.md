@@ -1,74 +1,59 @@
-# Daily Remote Front-End Jobs Digest (2026-10-26)
+# Daily Remote Front-End Jobs Digest (2026-10-27)
 
-*Total Matching Roles Found: 28*
+*Total Matching Roles Found: 23*
 
 ---
 
-### [Working Student – Talent Acquisition (m/f/d)](https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/working-student-talent-acquisition-gilching-122586)
-**Company:** Quantum-Systems GmbH | **Source:** Arbeitnow | **Location:** Gilching
+### [Werkstudent/in UX/UI Design (15-20 Std./Woche - 100% Remote)](https://www.arbeitnow.com/jobs/companies/blicksolutions-gmbh/werkstudent-in-ux-ui-design-15-20-std-woche-100-remote-berlin-243797)
+**Company:** BlickSolutions GmbH | **Source:** Arbeitnow | **Location:** Berlin
 
-### [CDD 6 mois - Technicien(ne) Produit Maille Senior (H/F)](https://www.arbeitnow.fr/jobs/companies/sezane-3/cdd-6-mois-technicienne-produit-maille-senior-h-f-paris-73713)
-**Company:** Sezane 3 | **Source:** Arbeitnow | **Location:** Paris, France
+### [Recruiting & Akquisition im Gesundheitswesen](https://www.arbeitnow.ch/jobs/companies/ispringer-gmbh/recruiting-akquisition-im-gesundheitswesen-volketswil-202488)
+**Company:** iSpringer GmbH | **Source:** Arbeitnow | **Location:** Volketswil
 
-### [Senior Tragwerksplaner / Bauingenieur Konstruktiver Ingenieurbau (m/w/d)](https://www.arbeitnow.com/jobs/companies/mkp-gmbh/senior-tragwerksplaner-bauingenieur-konstruktiver-ingenieurbau-hanover-327062)
-**Company:** MKP GmbH | **Source:** Arbeitnow | **Location:** Hanover
+### [Senior NetSuite Administrator & Developer](https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-netsuite-administrator-developer-cambridge-185704)
+**Company:** Riverlane | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [CDI - UX/AI Designer - Artefact 3000 - Paris](https://www.arbeitnow.fr/jobs/companies/artefact/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-29277)
-**Company:** Artefact | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
+### [Senior Linux Administrator](https://www.arbeitnow.co.uk/jobs/companies/riverlane/senior-linux-administrator-cambridge-22823)
+**Company:** Riverlane | **Source:** Arbeitnow | **Location:** Cambridge
 
-### [CDI - Senior Talent Acquisition Specialist - Strat Data - Paris](https://www.arbeitnow.fr/jobs/companies/artefact/cdi-senior-talent-acquisition-specialist-strat-data-paris-9th-arrondissement-of-paris-75009-paris-221436)
-**Company:** Artefact | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
+### [Talent acquisition - Stage 6 mois](https://www.arbeitnow.fr/jobs/companies/joivy/talent-acquisition-stage-6-mois-lyon-495564)
+**Company:** Joivy | **Source:** Arbeitnow | **Location:** Lyon, Auvergne-Rhône-Alpes, France
 
-### [CDI - UX/AI Designer - Artefact 3000 - Paris](https://www.arbeitnow.fr/jobs/companies/artefactlinkedin/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-449143)
-**Company:** Artefactlinkedin | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
+### [UI/UX Engineer](https://www.arbeitnow.com/jobs/companies/bsteuern/ui-ux-engineer-berlin-276613)
+**Company:** Bsteuern | **Source:** Arbeitnow | **Location:** Berlin
 
-### [Head of Sales International - Sicherheitssysteme | Private Equity Backed](https://www.arbeitnow.com/jobs/companies/top-line-advisory/head-of-sales-international-sicherheitssysteme-private-equity-backed-cologne-254659)
-**Company:** Top Line Advisory | **Source:** Arbeitnow | **Location:** Cologne
+### [Interviewer (m/w/d) für Busse/Züge im ÖPNV gesucht (flexibler Nebenjob) - 4064](https://www.arbeitnow.com/jobs/companies/econex-verkehrsconsult-gmbh/interviewer-fur-busse-zuge-im-opnv-gesucht-flexibler-nebenjob-4064-schwelm-280386)
+**Company:** econex verkehrsconsult GmbH | **Source:** Arbeitnow | **Location:** Schwelm
 
-### [CENTRALE LYON - Doctorat Modélisation prédictive de matériaux polymères recyclés par inférence statistique et apprentissage machine hybride.](https://www.arbeitnow.fr/jobs/companies/centrale-lyon/centrale-lyon-doctorat-modelisation-predictive-de-materiaux-polymeres-recycles-par-inference-statistique-et-apprentissage-machine-hybride-ecully-4439)
-**Company:** CENTRALE LYON | **Source:** Arbeitnow | **Location:** Ecully, Auvergne-Rhône-Alpes, France
+### [Concept & UI Artist (m/w/d)](https://www.arbeitnow.com/jobs/companies/whow-games-gmbh/concept-ui-artist-hamburg-274096)
+**Company:** Whow Games GmbH | **Source:** Arbeitnow | **Location:** Hamburg
 
-### [Representant(e) commercial(e) - Team lead - Bordeaux](https://www.arbeitnow.fr/jobs/companies/salonkee/representante-commerciale-team-lead-bordeaux-131005)
-**Company:** Salonkee | **Source:** Arbeitnow | **Location:** France / Bordeaux
+### [HR and Recruiting Intern — Startup Hiring Experience (Unpaid, Remote)](https://www.arbeitnow.com/jobs/companies/indiekidz-gmbh/hr-and-recruiting-intern-startup-hiring-experience-unpaid-remote-berlin-293746)
+**Company:** IndieKidz GmbH | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Stage - Assistant Réseaux Sociaux & Influence (F/H)](https://www.arbeitnow.fr/jobs/companies/gemmyo/stage-assistant-reseaux-sociaux-influence-f-h-paris-254725)
+**Company:** Gemmyo | **Source:** Arbeitnow | **Location:** Paris
+
+### [Administrateur Systèmes, Réseaux & Cloud Confirmé F/H](https://www.arbeitnow.fr/jobs/companies/mismo/administrateur-systemes-reseaux-cloud-confirme-f-h-la-chapelle-sur-erdre-97874)
+**Company:** Mismo | **Source:** Arbeitnow | **Location:** La Chapelle sur Erdre, Pays de la Loire, France
+
+### [CDI - UX/AI Designer - Artefact 3000 - Paris](https://www.arbeitnow.fr/jobs/companies/artefactjobs/cdi-ux-ai-designer-artefact-3000-paris-9th-arrondissement-of-paris-75009-paris-113496)
+**Company:** Artefactjobs | **Source:** Arbeitnow | **Location:** 9th arrondissement of Paris, 75009, Paris
+
+### [Customer Solutions Engineer](https://www.arbeitnow.nl/jobs/companies/payter-bv/customer-solutions-engineer-rotterdam-93891)
+**Company:** Payter B.V. | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Nederland
+
+### [Senior UI Designer eCommerce](https://www.arbeitnow.fr/jobs/companies/les-pepites/senior-ui-designer-ecommerce-annecy-28213)
+**Company:** Les Pépites | **Source:** Arbeitnow | **Location:** Annecy, Auvergne-Rhône-Alpes, France
+
+### [Business Development Manager / Accountmanager Buitendienst – Logistics & Packaging](https://www.arbeitnow.nl/jobs/companies/atmet/business-development-manager-amsterdam-56154)
+**Company:** ATMET | **Source:** Arbeitnow | **Location:** Amsterdam
 
 ### [Frontend Engineer, Ads](https://jobicy.com/jobs/157086-frontend-engineer-ads)
 **Company:** Reddit | **Source:** Jobicy | **Location:** USA
 
-### [Senior Systems Administrator (Linux)](https://www.arbeitnow.co.uk/jobs/companies/bluestaquk/senior-systems-administrator-linux-lincoln-lincolnshire-209128)
-**Company:** Bluestaquk | **Source:** Arbeitnow | **Location:** Lincoln / Lincolnshire
-
-### [Talent Acquisition Partner](https://www.arbeitnow.co.uk/jobs/companies/cais/talent-acquisition-partner-london-204344)
-**Company:** Cais | **Source:** Arbeitnow | **Location:** London
-
 ### [Linux Software Engineer - Ubuntu for Next-Gen Silicon (multiple roles and seniority levels)](https://jobicy.com/jobs/156997-linux-software-engineer-ubuntu-for-next-gen-silicon-multiple-roles-and-seniority-levels)
 **Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Intermediate Fullstack Engineer (Ruby/Vue.js), Growth](https://jobicy.com/jobs/156923-intermediate-fullstack-engineer-ruby-vue-js-growth)
-**Company:** GitLab | **Source:** Jobicy | **Location:** Poland
-
-### [Liftmonteur Buitendienst](https://www.arbeitnow.nl/jobs/companies/reco/liftmonteur-buitendienst-koudekerk-aan-den-rijn-197551)
-**Company:** RECO | **Source:** Arbeitnow | **Location:** Koudekerk aan den Rijn
-
-### [Manager Recruitment Onderwijs](https://www.arbeitnow.nl/jobs/companies/av-werving-selectie/manager-recruitment-onderwijs-leiden-112618)
-**Company:** AV Werving & Selectie | **Source:** Arbeitnow | **Location:** Leiden
-
-### [Adviseur Loopbaan en Mobilteit Zuid NL](https://www.arbeitnow.nl/jobs/companies/staffplanning-bv/adviseur-loopbaan-en-mobilteit-zuid-nl-eindhoven-279854)
-**Company:** Staffplanning B.V. | **Source:** Arbeitnow | **Location:** Eindhoven
-
-### [Principal Frontend Engineer](https://jobicy.com/jobs/156876-principal-frontend-engineer)
-**Company:** ClickUp | **Source:** Jobicy | **Location:** USA
-
-### [Junior Linux Kernel Engineer - Ubuntu](https://jobicy.com/jobs/149520-junior-linux-kernel-engineer-ubuntu)
-**Company:** Canonical | **Source:** Jobicy | **Location:** Anywhere
-
-### [Full Stack Web Engineer (Python & React)](https://jobicy.com/jobs/151496-full-stack-web-engineer-python-react)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
-
-### [Full Stack Engineer (Vue + Nest)](https://jobicy.com/jobs/151493-full-stack-engineer-vue-nest)
-**Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
-
-### [Frontend Developer Intern](https://www.arbeitnow.ch/jobs/companies/paretolabs/frontend-developer-intern-zurich-262783)
-**Company:** ParetoLabs | **Source:** Arbeitnow | **Location:** Zürich
 
 ### [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562)
 **Company:** B2spin | **Source:** RemoteOK | **Location:** Worldwide
@@ -85,6 +70,6 @@
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
 
-### [Pursuit Coordinator](undefined)
-**Company:** Ramboll | **Source:** Himalayas | **Location:** Worldwide
+### [Vue Js Developers](undefined)
+**Company:** iCore | **Source:** Himalayas | **Location:** Worldwide
 
