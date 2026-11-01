@@ -1,17 +1,50 @@
-# Daily Remote Front-End Jobs Digest (2026-10-31)
+# Daily Remote Front-End Jobs Digest (2026-11-01)
 
-*Total Matching Roles Found: 37*
+*Total Matching Roles Found: 34*
 
 ---
 
-### [Senior Recruiter](https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-recruiter-london-85705)
-**Company:** Andurilindustries | **Source:** Arbeitnow | **Location:** London
+### [Global Account Executive at Private Equity Insights](https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/global-account-executive-at-private-equity-insights-london-373357)
+**Company:** Privateequityinsights | **Source:** Arbeitnow | **Location:** London
 
-### [(Senior) React Native Engineer (m/f/x) - Based in Germany](https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-berlin-388773)
-**Company:** Cara Care | **Source:** Arbeitnow | **Location:** Berlin, Germany
+### [Senior Talent Acquisition Partner, Engineering](https://www.arbeitnow.co.uk/jobs/companies/legora/senior-talent-acquisition-partner-engineering-london-281493)
+**Company:** Legora | **Source:** Arbeitnow | **Location:** London
 
-### [(Senior) React Native Engineer (m/f/x) - Based in Germany](https://www.arbeitnow.com/jobs/companies/cara-care/remote-senior-react-native-engineer-based-in-germany-164217)
-**Company:** Cara Care | **Source:** Arbeitnow | **Location:** Germany
+### [Développeur Nouveaux Projets (F/H/X)](https://www.arbeitnow.fr/jobs/companies/novar-nederland-bv/developpeur-nouveaux-projets-lyon-400371)
+**Company:** Novar Nederland BV | **Source:** Arbeitnow | **Location:** Lyon, Auvergne-Rhône-Alpes, Frankrijk
+
+### [Senior Recruiter / Talent Acquisition Manager (all genders)](https://www.arbeitnow.com/jobs/companies/foodji-gmbh/senior-recruiter-talent-acquisition-manager-all-genders-munchen-142242)
+**Company:** Foodji GmbH | **Source:** Arbeitnow | **Location:** München, Bayern, Deutschland
+
+### [Senior IoT Engineer (all genders) – Embedded Linux · Python · Yocto](https://www.arbeitnow.com/jobs/companies/wemolo/senior-iot-engineer-all-genders-embedded-linux-python-yocto-munchen-88824)
+**Company:** Wemolo | **Source:** Arbeitnow | **Location:** Munich
+
+### [AI Software Engineer (F/H/NB)](https://www.arbeitnow.fr/jobs/companies/sfeir/ai-software-engineer-b-bordeaux-333067)
+**Company:** SFEIR | **Source:** Arbeitnow | **Location:** Bordeaux
+
+### [Senior Talent Acquisition Partner (m/w/d)](https://www.arbeitnow.com/jobs/companies/superchat/senior-talent-acquisition-partner-berlin-berlin-149920)
+**Company:** Superchat | **Source:** Arbeitnow | **Location:** Berlin, Berlin
+
+### [Front-end Developer](https://www.arbeitnow.nl/jobs/companies/mendix/front-end-developer-rotterdam-148463)
+**Company:** Mendix | **Source:** Arbeitnow | **Location:** Rotterdam
+
+### [Senior Recruiter](https://www.arbeitnow.fr/jobs/companies/dilitrust/senior-recruiter-paris-la-defense-177182)
+**Company:** DiliTrust | **Source:** Arbeitnow | **Location:** Paris - La Défense
+
+### [Lead Mobile Engineer - React Native](https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541)
+**Company:** DiliTrust | **Source:** Arbeitnow | **Location:** Paris - La Défense
+
+### [Senior Frontend Engineer - React](https://www.arbeitnow.com/jobs/companies/researchgate/senior-frontend-engineer-react-berlin-436621)
+**Company:** Researchgate | **Source:** Arbeitnow | **Location:** Berlin
+
+### [Senior Channel Field Marketing Manager, Benelux & Nordics](https://www.arbeitnow.nl/jobs/companies/horizon3ai/senior-channel-field-marketing-manager-benelux-nordics-amsterdam-120517)
+**Company:** Horizon3Ai | **Source:** Arbeitnow | **Location:** Amsterdam, Netherlands
+
+### [Full Stack Developer - Java & React (f/m/d)](https://www.arbeitnow.com/jobs/companies/ecosio/remote-full-stack-developer-java-react-120706)
+**Company:** ecosio | **Source:** Arbeitnow | **Location:** Austria, Spain, UK, Italy, Hungary, Portugal, Croatia - Remote
+
+### [Junior UX Researcher (x,f,m)](https://www.arbeitnow.com/jobs/companies/dkbcodefactory/junior-ux-researcher-xfm-berlin-321015)
+**Company:** dkbcodefactory | **Source:** Arbeitnow | **Location:** Berlin
 
 ### [Frontend Engineer - Design Systems](https://jobicy.com/jobs/158196-frontend-engineer-design-systems)
 **Company:** Mercury | **Source:** Jobicy | **Location:** Canada,  USA
@@ -19,44 +52,11 @@
 ### [Staff Software Engineer, Frontend](https://jobicy.com/jobs/158175-staff-software-engineer-frontend)
 **Company:** hims &#038; hers | **Source:** Jobicy | **Location:** USA
 
-### [Full Stack Developer - Java & React (f/m/d)](https://jobicy.com/jobs/158154-full-stack-developer-java-react-f-m-d-2)
-**Company:** ecosio | **Source:** Jobicy | **Location:** Austria,  Croatia,  Germany,  Hungary,  Italy,  Portugal,  Spain,  UK
-
-### [Photonic Integrated Circuit Designer Intern (H1/2027)](https://www.arbeitnow.fr/jobs/companies/quandela/photonic-integrated-circuit-designer-intern-h1-2027-massy-137651)
-**Company:** Quandela | **Source:** Arbeitnow | **Location:** Massy, France
-
-### [Intern Talent Acquisition Coordinator (x/f/m)](https://www.arbeitnow.com/jobs/companies/doctolib/intern-talent-acquisition-coordinator-berlin-berlin-398278)
-**Company:** Doctolib | **Source:** Arbeitnow | **Location:** Berlin, Berlin
-
 ### [Senior Fullstack Engineer - Java, React (x/f/m)](https://www.arbeitnow.nl/jobs/companies/doctolib/senior-fullstack-engineer-java-react-amsterdam-35344)
 **Company:** Doctolib | **Source:** Arbeitnow | **Location:** Amsterdam
 
-### [Laboratory technician](https://www.arbeitnow.fr/jobs/companies/orakl-oncology/laboratory-technician-villejuif-342670)
-**Company:** Orakl Oncology | **Source:** Arbeitnow | **Location:** Villejuif
-
-### [Recruiting Sourcer - Europe](https://www.arbeitnow.co.uk/jobs/companies/cognition/recruiting-sourcer-europe-london-353696)
-**Company:** Cognition | **Source:** Arbeitnow | **Location:** London
-
-### [Recruiter - Europe](https://www.arbeitnow.co.uk/jobs/companies/cognition/recruiter-europe-london-291784)
-**Company:** Cognition | **Source:** Arbeitnow | **Location:** London
-
-### [Infrastructure Software Engineering – Platform & Build](https://www.arbeitnow.co.uk/jobs/companies/fractile/infrastructure-software-engineering-platform-build-london-jj-mack-265667)
-**Company:** Fractile | **Source:** Arbeitnow | **Location:** London - JJ Mack
-
 ### [Solidity Compiler Frontend Engineer](https://jobicy.com/jobs/142139-solidity-compiler-frontend-engineer)
 **Company:** CertiK | **Source:** Jobicy | **Location:** USA
-
-### [Talent Acquisition Specialist- H/F](https://www.arbeitnow.fr/jobs/companies/margo/talent-acquisition-specialist-h-f-paris-2938)
-**Company:** MARGO | **Source:** Arbeitnow | **Location:** Paris
-
-### [Software Engineer Full Stack (.NET / React) – Projet From Scratch – | Practice SE MARGO](https://www.arbeitnow.fr/jobs/companies/margo/software-engineer-full-stack-net-react-projet-from-scratch-practice-se-margo-paris-243176)
-**Company:** MARGO | **Source:** Arbeitnow | **Location:** Paris
-
-### [Développeur Full Stack - Java/React |  Practice SE MARGO](https://www.arbeitnow.fr/jobs/companies/margo/developpeur-full-stack-java-react-practice-se-margo-paris-124399)
-**Company:** MARGO | **Source:** Arbeitnow | **Location:** Paris
-
-### [Working Student - Talent Acquisition](https://www.arbeitnow.com/jobs/companies/netlight/working-student-talent-acquisition-hamburg-470328)
-**Company:** Netlight | **Source:** Arbeitnow | **Location:** Hamburg
 
 ### [Talent Acquisition Specialist (12 months FTC)](https://www.arbeitnow.nl/jobs/companies/vinteden/talent-acquisition-specialist-12-months-ftc-amsterdam-72441)
 **Company:** Vinteden | **Source:** Arbeitnow | **Location:** Amsterdam
@@ -70,6 +70,9 @@
 ### [Senior React Native Engineer (Expo & TypeScript)](https://jobicy.com/jobs/158070-senior-react-native-engineer-expo-typescript)
 **Company:** Oowlish Technology | **Source:** Jobicy | **Location:** Argentina,  Brazil,  Mexico
 
+### [Contract Recruiter](https://remoteOK.com/remote-jobs/remote-contract-recruiter-cai-1137607)
+**Company:** CAI | **Source:** RemoteOK | **Location:** Australia
+
 ### [Recruiting & HR Operations Manager](https://www.arbeitnow.ch/jobs/companies/eh-group/recruiting-hr-operations-manager-nyon-220263)
 **Company:** Eh Group | **Source:** Arbeitnow | **Location:** Nyon
 
@@ -82,20 +85,11 @@
 ### [Meeloopstage Cash Control/ Finance](https://www.arbeitnow.nl/jobs/companies/royal-den-hartogh-logistics/meeloopstage-cash-control-finance-rotterdam-107517)
 **Company:** Royal Den Hartogh Logistics | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Netherlands
 
-### [Test Automation Engineer UiPath](https://www.arbeitnow.ch/jobs/companies/infometis-ag/test-automation-engineer-uipath-zurich-440417)
-**Company:** Infometis AG | **Source:** Arbeitnow | **Location:** Zürich
-
 ### [Projectorganisator Bedrijfsbureau](https://www.arbeitnow.nl/jobs/companies/dura-vermeer/projectorganisator-bedrijfsbureau-rotterdam-188877)
 **Company:** Dura Vermeer | **Source:** Arbeitnow | **Location:** Rotterdam, Zuid-Holland, Nederland
 
 ### [Afstudeerstage Werktuigbouwkunde - Constructieve perrons](https://www.arbeitnow.nl/jobs/companies/movares/afstudeerstage-werktuigbouwkunde-constructieve-perrons-utrecht-178035)
 **Company:** Movares | **Source:** Arbeitnow | **Location:** Utrecht, Utrecht, Nederland
-
-### [Tech Talent Acquisition Business Partner (1 Year Fixed-Term Contract)](https://www.arbeitnow.nl/jobs/companies/mollie/tech-talent-acquisition-business-partner-1-year-fixed-term-contract-amsterdam-225417)
-**Company:** Mollie | **Source:** Arbeitnow | **Location:** Amsterdam
-
-### [Associate Account Executive (Top Talent Sales Program - Lunar) BENELUX](https://www.arbeitnow.nl/jobs/companies/celonis/associate-account-executive-top-talent-sales-program-lunar-benelux-amsterdam-2789)
-**Company:** celonis | **Source:** Arbeitnow | **Location:** Amsterdam
 
 ### [Senior Frontend Engineer](https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-b2spin-1137562)
 **Company:** B2spin | **Source:** RemoteOK | **Location:** Worldwide
@@ -111,7 +105,4 @@
 
 ### [Senior Backend Engineer Build AI Agents](https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114)
 **Company:** Salesforge | **Source:** RemoteOK | **Location:** Worldwide
-
-### [Administrateur système - Linux F/H](undefined)
-**Company:** Orange Business | **Source:** Himalayas | **Location:** Worldwide
 
